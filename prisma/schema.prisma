@@ -28,11 +28,11 @@ model PharmaSale {
   id           Int      @id @default(autoincrement())
   pharmacyId   String
   district     String
-  pharmacyType String?
   medicine     String
   diseaseTarget String?
   qtySold      Int
   price        Float
+  pharmacyType String?
   saleDate     DateTime
   createdAt    DateTime @default(now())
 }
@@ -47,7 +47,7 @@ model SocialPost {
   reach     String?
   timeStamp DateTime
   createdAt DateTime @default(now())
-}
+} 
 
 model AggregatedSummary {
   id                 Int      @id @default(autoincrement())

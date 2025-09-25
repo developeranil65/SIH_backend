@@ -1,0 +1,1201 @@
+pharmacyId,district,medicine,diseaseTarget,qtySold,price,pharmacyType,saleDate
+PH861,Sonitpur,Antibiotics,Typhoid,29,40.28,Private,2025-09-19T06:45:26
+PH711,Dibrugarh,Electrolyte Powder,Cholera,66,283.33,Urban,2025-08-27T09:06:26
+PH763,Shillong,Probiotics,Dysentery,43,292.04,Urban,2025-09-14T17:41:26
+PH302,Imphal West,Anti-diarrheal,Diarrhea,11,302.46,Govt,2025-09-24T02:13:26
+PH127,Kamrup,ORS,Diarrhea,74,181.26,Rural,2025-09-17T23:05:26
+PH791,East Khasi Hills,Paracetamol,Fever,49,280.62,Urban,2025-09-16T20:00:26
+PH644,Jorhat,ORS,Diarrhea,23,368.25,Private,2025-09-07T18:38:26
+PH957,Cachar,Electrolyte Powder,Cholera,18,31.49,Urban,2025-09-25T22:29:26
+PH861,Shillong,ORS,Diarrhea,16,112.61,Private,2025-09-25T02:58:26
+PH400,Barpeta,Anti-diarrheal,Diarrhea,36,97.05,Rural,2025-09-06T04:30:26
+PH566,East Khasi Hills,Probiotics,Dysentery,18,440.3,Govt,2025-09-16T09:10:26
+PH589,Ri-Bhoi,Anti-diarrheal,Diarrhea,48,415.17,Private,2025-09-22T07:13:26
+PH104,East Khasi Hills,Electrolyte Powder,Cholera,43,398.6,Private,2025-09-25T22:37:26
+PH161,Sonitpur,Anti-diarrheal,Diarrhea,6,73.35,Urban,2025-09-24T05:32:26
+PH568,Shillong,Antibiotics,Typhoid,43,283.74,Rural,2025-09-15T12:11:26
+PH199,Mokokchung,Probiotics,Dysentery,25,245.01,Govt,2025-09-12T07:16:26
+PH220,Jorhat,Antibiotics,Typhoid,33,259.48,Govt,2025-09-05T00:40:26
+PH837,Kamrup,Probiotics,Dysentery,29,180.49,Private,2025-08-28T20:59:26
+PH610,Imphal East,Electrolyte Powder,Cholera,10,454.37,Govt,2025-09-24T00:04:26
+PH227,West Khasi Hills,Antibiotics,Typhoid,5,111.84,Rural,2025-09-07T05:22:26
+PH436,Imphal East,Antibiotics,Typhoid,35,66.51,Urban,2025-09-14T23:49:26
+PH412,Kamrup,Probiotics,Dysentery,33,315.23,Rural,2025-09-04T00:06:26
+PH871,West Khasi Hills,Probiotics,Dysentery,44,38.36,Govt,2025-09-08T13:55:26
+PH287,West Khasi Hills,Probiotics,Dysentery,12,67.88,Govt,2025-09-17T17:25:26
+PH673,Jorhat,Paracetamol,Fever,36,254.59,Rural,2025-09-04T13:16:26
+PH342,Barpeta,ORS,Diarrhea,48,327.56,Govt,2025-09-19T18:52:26
+PH728,West Khasi Hills,Antibiotics,Typhoid,15,122.52,Private,2025-09-02T22:04:26
+PH311,Kohima,Electrolyte Powder,Cholera,45,74.39,Urban,2025-09-14T00:54:26
+PH251,Dibrugarh,ORS,Diarrhea,44,54.99,Govt,2025-09-17T11:41:26
+PH804,Kohima,Antibiotics,Typhoid,5,222.59,Urban,2025-09-10T22:16:26
+PH553,Barpeta,ORS,Diarrhea,11,280.93,Urban,2025-09-22T02:06:26
+PH304,Ri-Bhoi,ORS,Diarrhea,15,414.74,Rural,2025-09-15T01:19:26
+PH183,West Khasi Hills,ORS,Diarrhea,35,492.72,Private,2025-09-24T21:06:26
+PH585,Dibrugarh,Antibiotics,Typhoid,21,283.94,Urban,2025-09-09T12:39:26
+PH870,Kamrup,Probiotics,Dysentery,34,429.5,Rural,2025-09-15T09:40:26
+PH617,Barpeta,Paracetamol,Fever,4,336.11,Private,2025-09-05T05:42:26
+PH931,Kamrup,ORS,Diarrhea,121,138.72,Govt,2025-08-29T13:22:26
+PH748,Kohima,Paracetamol,Fever,9,167.15,Urban,2025-09-09T08:13:26
+PH242,Sonitpur,ORS,Diarrhea,50,360.98,Private,2025-09-03T22:54:26
+PH984,Shillong,Electrolyte Powder,Cholera,16,199.68,Govt,2025-09-17T00:54:26
+PH203,Ri-Bhoi,Antibiotics,Typhoid,22,135.88,Govt,2025-09-14T04:38:26
+PH116,West Khasi Hills,Antibiotics,Typhoid,34,246.09,Rural,2025-09-23T18:15:26
+PH756,West Khasi Hills,ORS,Diarrhea,10,35.9,Urban,2025-09-10T14:23:26
+PH277,Shillong,Paracetamol,Fever,8,199.87,Private,2025-09-15T06:43:26
+PH637,Imphal West,Anti-diarrheal,Diarrhea,44,183.75,Rural,2025-09-15T14:11:26
+PH296,Aizawl,Antibiotics,Typhoid,48,114.82,Private,2025-08-29T00:09:26
+PH716,Dibrugarh,Electrolyte Powder,Cholera,34,493.24,Rural,2025-08-29T23:19:26
+PH351,Dibrugarh,ORS,Diarrhea,50,204.71,Rural,2025-09-19T01:15:26
+PH734,Cachar,Paracetamol,Fever,37,78.01,Private,2025-09-23T13:46:26
+PH470,Dibrugarh,Anti-diarrheal,Diarrhea,30,45.71,Rural,2025-09-10T11:07:26
+PH880,Ri-Bhoi,Probiotics,Dysentery,40,272.77,Rural,2025-09-19T04:14:26
+PH455,Shillong,Anti-diarrheal,Diarrhea,14,199.65,Govt,2025-09-25T20:09:26
+PH673,Kamrup,Electrolyte Powder,Cholera,33,20.57,Rural,2025-09-25T20:15:26
+PH663,Cachar,ORS,Diarrhea,14,89.57,Govt,2025-09-22T03:21:26
+PH546,Ri-Bhoi,Paracetamol,Fever,24,24.16,Urban,2025-09-11T16:18:26
+PH822,Aizawl,Paracetamol,Fever,40,156.25,Urban,2025-09-11T03:33:26
+PH539,Imphal West,Probiotics,Dysentery,13,40.03,Rural,2025-09-19T19:06:26
+PH927,West Khasi Hills,Probiotics,Dysentery,42,103.47,Private,2025-09-18T05:37:26
+PH814,Dibrugarh,Paracetamol,Fever,8,427.03,Rural,2025-08-29T04:36:26
+PH953,Aizawl,Probiotics,Dysentery,46,165.33,Private,2025-08-28T03:46:26
+PH953,Imphal East,ORS,Diarrhea,24,492.21,Rural,2025-09-23T08:40:26
+PH100,Shillong,Paracetamol,Fever,3,185.65,Urban,2025-09-15T19:59:26
+PH833,Ri-Bhoi,Probiotics,Dysentery,45,243.81,Urban,2025-09-06T01:06:26
+PH362,Barpeta,ORS,Diarrhea,25,469.35,Rural,2025-09-07T13:47:26
+PH503,Sonitpur,Electrolyte Powder,Cholera,4,374.76,Urban,2025-09-12T09:52:26
+PH915,Kohima,Probiotics,Dysentery,50,57.77,Private,2025-09-04T08:38:26
+PH604,Jorhat,ORS,Diarrhea,35,350.14,Govt,2025-08-27T16:47:26
+PH413,Cachar,Probiotics,Dysentery,13,404.42,Rural,2025-09-21T18:19:26
+PH902,Imphal West,Antibiotics,Typhoid,11,88.69,Private,2025-09-05T03:38:26
+PH367,Imphal West,Anti-diarrheal,Diarrhea,24,456.43,Private,2025-09-15T03:17:26
+PH735,Mokokchung,ORS,Diarrhea,29,415.11,Private,2025-09-22T06:09:26
+PH184,Sonitpur,ORS,Diarrhea,2,445.05,Rural,2025-08-27T01:31:26
+PH979,Imphal East,Probiotics,Dysentery,21,156.81,Govt,2025-09-14T16:27:26
+PH391,Kamrup,Antibiotics,Typhoid,50,74.34,Rural,2025-08-27T22:30:26
+PH899,Ri-Bhoi,Paracetamol,Fever,20,268.13,Rural,2025-09-19T21:48:26
+PH308,Mokokchung,Electrolyte Powder,Cholera,34,227.41,Urban,2025-08-30T18:00:26
+PH484,Dibrugarh,Antibiotics,Typhoid,60,176.97,Urban,2025-09-26T05:36:26
+PH246,Kamrup,Paracetamol,Fever,41,410.64,Rural,2025-09-13T00:43:26
+PH626,Imphal East,Electrolyte Powder,Cholera,4,468.66,Private,2025-08-28T09:05:26
+PH671,Dibrugarh,ORS,Diarrhea,102,411.99,Govt,2025-09-14T08:43:26
+PH297,Imphal West,Probiotics,Dysentery,38,85.1,Urban,2025-09-15T18:41:26
+PH233,Mokokchung,Antibiotics,Typhoid,47,462.09,Govt,2025-09-11T15:01:26
+PH408,Kamrup,Anti-diarrheal,Diarrhea,117,468.75,Rural,2025-09-14T20:59:26
+PH138,Kohima,Antibiotics,Typhoid,47,38.01,Govt,2025-09-06T10:35:26
+PH334,Dibrugarh,Antibiotics,Typhoid,31,331.53,Private,2025-09-02T22:03:26
+PH903,Imphal East,Paracetamol,Fever,7,367.47,Urban,2025-09-17T07:04:26
+PH705,Barpeta,Paracetamol,Fever,21,232.72,Urban,2025-09-04T16:37:26
+PH740,Kohima,ORS,Diarrhea,48,417.93,Urban,2025-08-29T00:13:26
+PH219,Kamrup,Probiotics,Dysentery,25,280.93,Private,2025-09-19T15:59:26
+PH466,East Khasi Hills,Electrolyte Powder,Cholera,30,101.7,Private,2025-09-23T16:12:26
+PH851,East Khasi Hills,Paracetamol,Fever,26,440.75,Govt,2025-09-06T14:34:26
+PH753,Dibrugarh,ORS,Diarrhea,75,304.76,Govt,2025-09-19T08:03:26
+PH259,Sonitpur,Paracetamol,Fever,24,463.01,Rural,2025-09-07T20:39:26
+PH955,Mokokchung,Electrolyte Powder,Cholera,14,81.73,Private,2025-09-01T03:37:26
+PH552,Ri-Bhoi,Anti-diarrheal,Diarrhea,45,184.96,Rural,2025-09-10T04:47:26
+PH713,Sonitpur,Paracetamol,Fever,41,133.17,Urban,2025-09-08T00:49:26
+PH813,Kamrup,Anti-diarrheal,Diarrhea,5,356.61,Govt,2025-09-24T19:29:26
+PH512,West Khasi Hills,Probiotics,Dysentery,19,374.05,Govt,2025-09-21T10:23:26
+PH480,East Khasi Hills,Anti-diarrheal,Diarrhea,1,429.64,Private,2025-09-19T02:54:26
+PH950,Kamrup,Electrolyte Powder,Cholera,47,265.21,Govt,2025-08-28T02:15:26
+PH874,Barpeta,Probiotics,Dysentery,20,318.03,Private,2025-09-15T12:18:26
+PH775,East Khasi Hills,Electrolyte Powder,Cholera,25,351.98,Rural,2025-09-02T23:32:26
+PH152,Kamrup,Paracetamol,Fever,93,129.9,Govt,2025-09-10T21:11:26
+PH296,Imphal East,ORS,Diarrhea,1,42.56,Govt,2025-09-10T10:19:26
+PH867,Kamrup,Paracetamol,Fever,32,378.08,Private,2025-09-16T13:32:26
+PH372,Shillong,Paracetamol,Fever,29,224.81,Rural,2025-08-30T21:29:26
+PH617,Kamrup,Paracetamol,Fever,21,144.1,Private,2025-08-30T16:33:26
+PH888,Sonitpur,Probiotics,Dysentery,14,96.9,Private,2025-09-08T21:15:26
+PH754,Cachar,Paracetamol,Fever,27,205.98,Govt,2025-09-22T14:42:26
+PH884,West Khasi Hills,Anti-diarrheal,Diarrhea,26,117.9,Rural,2025-09-24T09:06:26
+PH739,Sonitpur,Antibiotics,Typhoid,4,113.15,Private,2025-09-12T02:51:26
+PH137,Cachar,Anti-diarrheal,Diarrhea,10,209.93,Govt,2025-09-16T09:56:26
+PH797,Cachar,ORS,Diarrhea,9,428.3,Private,2025-09-15T23:00:26
+PH524,Sonitpur,Probiotics,Dysentery,16,357.52,Govt,2025-09-16T15:57:26
+PH759,Cachar,Paracetamol,Fever,13,197.25,Urban,2025-09-10T02:52:26
+PH292,Aizawl,Antibiotics,Typhoid,2,102.6,Rural,2025-09-18T21:54:26
+PH121,Imphal East,Anti-diarrheal,Diarrhea,4,39.79,Govt,2025-09-22T22:14:26
+PH730,Jorhat,Electrolyte Powder,Cholera,6,487.71,Private,2025-09-10T17:09:26
+PH570,Dibrugarh,ORS,Diarrhea,12,375.62,Urban,2025-09-21T14:35:26
+PH163,Kamrup,Antibiotics,Typhoid,107,292.38,Urban,2025-09-03T22:45:26
+PH732,Jorhat,Probiotics,Dysentery,5,103.63,Rural,2025-09-22T20:02:26
+PH519,Barpeta,Anti-diarrheal,Diarrhea,24,194.01,Rural,2025-09-03T17:42:26
+PH295,Shillong,Probiotics,Dysentery,9,130.47,Rural,2025-09-24T12:51:26
+PH947,Ri-Bhoi,Paracetamol,Fever,44,150.26,Govt,2025-09-09T12:47:26
+PH685,Kamrup,Paracetamol,Fever,45,16.9,Private,2025-08-28T20:32:26
+PH852,Ri-Bhoi,Anti-diarrheal,Diarrhea,44,258.44,Rural,2025-09-12T06:14:26
+PH610,Kohima,ORS,Diarrhea,22,164.11,Private,2025-09-19T07:43:26
+PH246,East Khasi Hills,Electrolyte Powder,Cholera,35,360.37,Govt,2025-09-18T01:05:26
+PH707,Jorhat,Electrolyte Powder,Cholera,36,485.24,Govt,2025-09-13T14:53:26
+PH225,Cachar,Anti-diarrheal,Diarrhea,2,380.55,Private,2025-09-03T00:39:26
+PH325,Dibrugarh,Paracetamol,Fever,9,420.41,Rural,2025-09-10T00:44:26
+PH158,East Khasi Hills,Electrolyte Powder,Cholera,21,304.25,Govt,2025-09-06T04:38:26
+PH278,Cachar,Probiotics,Dysentery,42,415.51,Private,2025-09-18T12:24:26
+PH351,Ri-Bhoi,Paracetamol,Fever,8,384.88,Private,2025-09-21T18:59:26
+PH812,Cachar,Electrolyte Powder,Cholera,37,273.68,Rural,2025-09-12T09:36:26
+PH535,Kamrup,Antibiotics,Typhoid,91,115.98,Govt,2025-08-27T08:09:26
+PH754,West Khasi Hills,Electrolyte Powder,Cholera,15,108.99,Urban,2025-09-05T10:05:26
+PH952,Shillong,Probiotics,Dysentery,24,150.71,Rural,2025-09-25T15:51:26
+PH767,Mokokchung,Paracetamol,Fever,3,269.13,Rural,2025-08-27T05:56:26
+PH311,Dibrugarh,Paracetamol,Fever,24,349.5,Rural,2025-09-04T08:57:26
+PH325,Mokokchung,Electrolyte Powder,Cholera,29,342.3,Urban,2025-09-04T11:39:26
+PH706,Cachar,ORS,Diarrhea,46,227.91,Rural,2025-09-14T15:45:26
+PH233,Kamrup,Anti-diarrheal,Diarrhea,15,239.27,Rural,2025-09-25T10:56:26
+PH655,East Khasi Hills,Anti-diarrheal,Diarrhea,33,61.24,Govt,2025-09-17T18:29:26
+PH611,Mokokchung,Probiotics,Dysentery,28,459.09,Govt,2025-09-01T11:08:26
+PH812,West Khasi Hills,Electrolyte Powder,Cholera,4,63.19,Govt,2025-09-13T21:06:26
+PH188,Cachar,Paracetamol,Fever,20,153.36,Urban,2025-09-06T01:07:26
+PH146,Barpeta,Electrolyte Powder,Cholera,3,224.37,Rural,2025-09-10T08:23:26
+PH465,West Khasi Hills,ORS,Diarrhea,50,322.3,Private,2025-09-12T14:59:26
+PH919,Mokokchung,Probiotics,Dysentery,49,462.93,Govt,2025-09-21T14:09:26
+PH929,Barpeta,Electrolyte Powder,Cholera,45,381.2,Private,2025-09-09T09:18:26
+PH810,Jorhat,Electrolyte Powder,Cholera,35,447.47,Urban,2025-09-02T19:23:26
+PH586,Dibrugarh,Electrolyte Powder,Cholera,44,17.09,Private,2025-09-17T02:44:26
+PH902,Jorhat,ORS,Diarrhea,24,288.94,Private,2025-09-26T21:28:26
+PH375,Imphal East,Paracetamol,Fever,3,230.46,Govt,2025-09-03T10:49:26
+PH573,Kohima,Paracetamol,Fever,16,236.48,Rural,2025-09-14T11:54:26
+PH327,Kamrup,Anti-diarrheal,Diarrhea,84,142.26,Rural,2025-09-12T19:57:26
+PH526,Imphal West,Anti-diarrheal,Diarrhea,5,490.8,Rural,2025-09-07T22:15:26
+PH556,Mokokchung,Paracetamol,Fever,27,436.37,Urban,2025-09-01T15:40:26
+PH867,Kohima,ORS,Diarrhea,25,285.74,Govt,2025-09-01T21:59:26
+PH125,Jorhat,Paracetamol,Fever,32,56.61,Urban,2025-09-10T01:04:26
+PH317,Mokokchung,ORS,Diarrhea,39,485.01,Urban,2025-09-25T07:00:26
+PH942,Kohima,Anti-diarrheal,Diarrhea,31,483.85,Urban,2025-09-21T04:18:26
+PH488,Ri-Bhoi,Probiotics,Dysentery,5,112.21,Private,2025-09-10T23:51:26
+PH644,West Khasi Hills,ORS,Diarrhea,43,19.35,Urban,2025-09-13T20:10:26
+PH473,Cachar,Probiotics,Dysentery,46,483.65,Rural,2025-08-27T10:55:26
+PH414,Imphal West,ORS,Diarrhea,19,97.8,Private,2025-09-15T08:33:26
+PH371,Ri-Bhoi,Antibiotics,Typhoid,30,83.67,Urban,2025-09-26T00:43:26
+PH815,Mokokchung,ORS,Diarrhea,25,494.24,Private,2025-09-19T20:29:26
+PH581,Cachar,Paracetamol,Fever,1,107.51,Govt,2025-09-02T16:59:26
+PH756,Cachar,Paracetamol,Fever,25,405.09,Rural,2025-09-04T00:38:26
+PH522,Imphal West,ORS,Diarrhea,40,107.98,Rural,2025-09-26T15:49:26
+PH474,Jorhat,Paracetamol,Fever,37,108.98,Rural,2025-08-30T22:28:26
+PH621,Kamrup,Paracetamol,Fever,15,179.84,Rural,2025-09-17T18:06:26
+PH537,West Khasi Hills,Antibiotics,Typhoid,6,17.82,Rural,2025-09-09T03:26:26
+PH111,Imphal East,Antibiotics,Typhoid,14,19.79,Urban,2025-09-24T21:32:26
+PH104,Sonitpur,Paracetamol,Fever,40,21.03,Urban,2025-09-15T05:48:26
+PH548,Imphal East,Anti-diarrheal,Diarrhea,1,452.93,Private,2025-09-02T17:33:26
+PH334,East Khasi Hills,Anti-diarrheal,Diarrhea,23,499.92,Rural,2025-09-21T03:50:26
+PH539,Barpeta,Probiotics,Dysentery,2,259.81,Govt,2025-09-19T00:17:26
+PH880,Mokokchung,Electrolyte Powder,Cholera,50,409.4,Urban,2025-09-18T01:37:26
+PH580,Imphal West,Electrolyte Powder,Cholera,25,218.09,Govt,2025-08-30T22:30:26
+PH745,Sonitpur,ORS,Diarrhea,34,97.87,Rural,2025-09-05T09:30:26
+PH920,Kohima,Electrolyte Powder,Cholera,27,225.3,Urban,2025-09-16T02:43:26
+PH700,Ri-Bhoi,Anti-diarrheal,Diarrhea,47,409.58,Govt,2025-09-11T12:23:26
+PH217,Sonitpur,Paracetamol,Fever,25,241.97,Rural,2025-09-21T01:13:26
+PH992,Imphal West,Antibiotics,Typhoid,49,48.45,Rural,2025-08-28T14:59:26
+PH836,West Khasi Hills,Paracetamol,Fever,41,225.12,Rural,2025-09-09T17:33:26
+PH818,West Khasi Hills,Anti-diarrheal,Diarrhea,21,100.54,Urban,2025-09-11T18:02:26
+PH393,Imphal East,Probiotics,Dysentery,17,365.18,Private,2025-09-10T19:26:26
+PH708,Shillong,Anti-diarrheal,Diarrhea,7,283.03,Rural,2025-09-13T16:00:26
+PH396,Dibrugarh,Antibiotics,Typhoid,96,96.36,Urban,2025-09-14T16:21:26
+PH172,West Khasi Hills,Anti-diarrheal,Diarrhea,27,389.62,Rural,2025-09-01T13:55:26
+PH119,Cachar,Antibiotics,Typhoid,4,154.58,Rural,2025-09-20T06:17:26
+PH617,Barpeta,Paracetamol,Fever,34,358.02,Govt,2025-09-19T20:44:26
+PH363,East Khasi Hills,Paracetamol,Fever,40,96.35,Urban,2025-09-03T09:30:26
+PH562,Ri-Bhoi,Paracetamol,Fever,24,181.54,Govt,2025-09-23T19:00:26
+PH486,Kohima,Electrolyte Powder,Cholera,43,401.77,Rural,2025-09-13T00:03:26
+PH374,Imphal West,Probiotics,Dysentery,26,220.65,Urban,2025-09-10T11:28:26
+PH244,Ri-Bhoi,Antibiotics,Typhoid,46,385.86,Urban,2025-08-27T22:55:26
+PH915,Cachar,Anti-diarrheal,Diarrhea,9,460.27,Urban,2025-09-08T13:51:26
+PH442,Barpeta,Probiotics,Dysentery,30,23.0,Govt,2025-09-22T08:50:26
+PH158,Aizawl,ORS,Diarrhea,25,81.14,Urban,2025-09-06T05:29:26
+PH234,Kamrup,Antibiotics,Typhoid,14,72.35,Private,2025-08-28T05:16:26
+PH850,Sonitpur,Electrolyte Powder,Cholera,29,84.69,Urban,2025-09-11T23:00:26
+PH675,Dibrugarh,ORS,Diarrhea,18,38.25,Rural,2025-09-23T20:52:26
+PH398,Jorhat,ORS,Diarrhea,30,191.15,Govt,2025-09-07T20:57:26
+PH114,Barpeta,ORS,Diarrhea,25,101.81,Urban,2025-09-14T11:20:26
+PH364,Aizawl,Antibiotics,Typhoid,23,284.93,Urban,2025-09-21T14:23:26
+PH708,Imphal East,Antibiotics,Typhoid,27,347.95,Rural,2025-09-08T14:48:26
+PH563,Dibrugarh,Probiotics,Dysentery,50,413.42,Govt,2025-09-11T10:03:26
+PH921,Barpeta,Anti-diarrheal,Diarrhea,27,453.87,Rural,2025-09-15T21:50:26
+PH875,Shillong,Probiotics,Dysentery,31,261.56,Urban,2025-09-24T23:17:26
+PH183,Cachar,Anti-diarrheal,Diarrhea,19,193.52,Urban,2025-09-21T02:31:26
+PH644,West Khasi Hills,ORS,Diarrhea,37,134.14,Private,2025-09-10T23:27:26
+PH914,Sonitpur,Paracetamol,Fever,5,332.66,Govt,2025-09-15T03:16:26
+PH266,East Khasi Hills,Anti-diarrheal,Diarrhea,44,240.1,Rural,2025-09-23T19:18:26
+PH813,Kamrup,Electrolyte Powder,Cholera,12,196.32,Urban,2025-09-17T03:15:26
+PH185,Imphal East,Paracetamol,Fever,11,241.01,Private,2025-08-30T19:18:26
+PH981,Imphal West,Electrolyte Powder,Cholera,47,252.04,Private,2025-08-28T06:35:26
+PH665,Dibrugarh,Antibiotics,Typhoid,23,41.82,Govt,2025-09-20T01:43:26
+PH781,Barpeta,Antibiotics,Typhoid,21,406.35,Private,2025-09-16T02:13:26
+PH892,Shillong,Anti-diarrheal,Diarrhea,35,444.18,Private,2025-09-17T04:44:26
+PH424,West Khasi Hills,Electrolyte Powder,Cholera,27,68.29,Rural,2025-09-21T22:07:26
+PH919,Cachar,Electrolyte Powder,Cholera,3,83.25,Urban,2025-08-30T14:10:26
+PH856,West Khasi Hills,Antibiotics,Typhoid,29,13.19,Urban,2025-09-22T21:18:26
+PH488,Cachar,Probiotics,Dysentery,25,363.16,Private,2025-09-18T10:42:26
+PH794,Kamrup,Probiotics,Dysentery,30,406.15,Urban,2025-09-20T00:41:26
+PH505,Barpeta,Antibiotics,Typhoid,43,435.66,Private,2025-09-19T14:21:26
+PH501,Kamrup,Antibiotics,Typhoid,71,477.07,Urban,2025-09-22T00:36:26
+PH403,Ri-Bhoi,ORS,Diarrhea,40,211.16,Urban,2025-09-10T16:49:26
+PH831,Barpeta,Probiotics,Dysentery,30,240.14,Govt,2025-09-11T14:20:26
+PH288,Dibrugarh,Antibiotics,Typhoid,42,194.84,Rural,2025-09-03T11:49:26
+PH260,Imphal West,Paracetamol,Fever,25,287.29,Urban,2025-09-22T07:14:26
+PH957,Cachar,Probiotics,Dysentery,2,390.7,Urban,2025-09-07T00:46:26
+PH148,Kohima,Probiotics,Dysentery,5,89.03,Govt,2025-09-08T12:26:26
+PH183,Sonitpur,Probiotics,Dysentery,24,448.0,Urban,2025-09-15T16:29:26
+PH417,Kamrup,ORS,Diarrhea,14,370.35,Urban,2025-09-03T00:50:26
+PH863,Imphal East,Electrolyte Powder,Cholera,6,479.12,Private,2025-09-12T12:54:26
+PH194,Ri-Bhoi,ORS,Diarrhea,12,188.0,Private,2025-09-14T12:03:26
+PH869,Dibrugarh,Paracetamol,Fever,43,121.5,Urban,2025-09-12T09:13:26
+PH219,Kohima,Antibiotics,Typhoid,33,280.22,Private,2025-09-19T20:55:26
+PH666,Barpeta,Probiotics,Dysentery,42,158.38,Rural,2025-08-28T00:10:26
+PH832,Cachar,Paracetamol,Fever,31,153.89,Urban,2025-09-15T21:40:26
+PH318,Kohima,Electrolyte Powder,Cholera,5,474.46,Rural,2025-09-25T00:29:26
+PH558,Kamrup,Probiotics,Dysentery,41,210.52,Private,2025-09-09T05:05:26
+PH642,Kohima,Antibiotics,Typhoid,19,208.29,Govt,2025-09-03T13:55:26
+PH617,Shillong,ORS,Diarrhea,1,148.0,Govt,2025-09-05T22:00:26
+PH518,Kohima,Anti-diarrheal,Diarrhea,49,38.11,Govt,2025-09-24T14:56:26
+PH445,Ri-Bhoi,Antibiotics,Typhoid,10,168.01,Private,2025-09-07T18:19:26
+PH397,Kohima,ORS,Diarrhea,20,460.58,Rural,2025-09-25T02:04:26
+PH361,Sonitpur,ORS,Diarrhea,2,158.08,Govt,2025-09-02T09:57:26
+PH841,Ri-Bhoi,Anti-diarrheal,Diarrhea,33,145.14,Private,2025-09-04T17:50:26
+PH288,Kamrup,Electrolyte Powder,Cholera,76,294.53,Rural,2025-09-23T11:11:26
+PH423,Imphal East,ORS,Diarrhea,12,223.64,Private,2025-09-20T05:29:26
+PH516,Imphal East,Anti-diarrheal,Diarrhea,49,122.69,Urban,2025-08-28T19:55:26
+PH756,Aizawl,Probiotics,Dysentery,27,298.34,Urban,2025-08-28T06:54:26
+PH333,Shillong,Paracetamol,Fever,14,443.59,Rural,2025-09-21T03:02:26
+PH914,East Khasi Hills,Anti-diarrheal,Diarrhea,45,204.43,Urban,2025-09-04T05:13:26
+PH604,West Khasi Hills,ORS,Diarrhea,44,450.61,Urban,2025-09-23T03:51:26
+PH191,Sonitpur,ORS,Diarrhea,49,152.6,Urban,2025-09-09T04:29:26
+PH354,Shillong,Electrolyte Powder,Cholera,9,256.72,Govt,2025-09-04T21:39:26
+PH960,Barpeta,Antibiotics,Typhoid,16,57.9,Urban,2025-09-10T15:31:26
+PH222,Shillong,Anti-diarrheal,Diarrhea,14,289.94,Govt,2025-09-06T10:02:26
+PH766,Shillong,Antibiotics,Typhoid,2,339.91,Govt,2025-09-16T11:53:26
+PH942,Aizawl,Probiotics,Dysentery,5,365.92,Urban,2025-09-01T23:11:26
+PH941,West Khasi Hills,Electrolyte Powder,Cholera,19,166.29,Rural,2025-08-27T00:55:26
+PH211,Sonitpur,ORS,Diarrhea,43,19.55,Govt,2025-08-29T23:08:26
+PH520,Imphal East,Paracetamol,Fever,9,311.21,Rural,2025-09-21T16:14:26
+PH434,Jorhat,Electrolyte Powder,Cholera,45,68.04,Urban,2025-09-22T05:42:26
+PH944,Sonitpur,Electrolyte Powder,Cholera,31,339.85,Urban,2025-09-09T13:47:26
+PH760,Imphal West,Electrolyte Powder,Cholera,12,479.12,Urban,2025-09-15T23:50:26
+PH563,Kamrup,Anti-diarrheal,Diarrhea,31,78.04,Private,2025-09-05T04:56:26
+PH464,Shillong,Paracetamol,Fever,16,303.0,Govt,2025-09-15T23:32:26
+PH856,Shillong,Antibiotics,Typhoid,37,290.12,Rural,2025-08-31T10:34:26
+PH557,West Khasi Hills,Probiotics,Dysentery,14,33.79,Urban,2025-09-25T09:49:26
+PH415,Imphal East,Anti-diarrheal,Diarrhea,12,196.81,Rural,2025-09-10T20:27:26
+PH488,Imphal West,Antibiotics,Typhoid,31,442.74,Urban,2025-08-31T18:13:26
+PH198,Shillong,Paracetamol,Fever,48,173.06,Rural,2025-09-02T16:49:26
+PH551,Imphal West,Paracetamol,Fever,34,332.32,Urban,2025-09-16T22:39:26
+PH611,Kamrup,Paracetamol,Fever,3,265.87,Govt,2025-09-23T20:44:26
+PH692,Sonitpur,Paracetamol,Fever,44,364.02,Private,2025-09-01T02:49:26
+PH883,West Khasi Hills,Anti-diarrheal,Diarrhea,28,15.89,Govt,2025-09-05T21:46:26
+PH602,East Khasi Hills,Anti-diarrheal,Diarrhea,41,307.72,Govt,2025-09-23T20:40:26
+PH106,Cachar,Electrolyte Powder,Cholera,1,130.93,Rural,2025-09-20T09:48:26
+PH443,West Khasi Hills,Probiotics,Dysentery,2,483.99,Urban,2025-09-22T08:03:26
+PH484,West Khasi Hills,ORS,Diarrhea,14,119.45,Urban,2025-08-31T02:17:26
+PH642,Jorhat,Antibiotics,Typhoid,27,428.46,Rural,2025-09-14T02:00:26
+PH917,Barpeta,Probiotics,Dysentery,19,83.26,Private,2025-09-11T03:15:26
+PH340,Jorhat,Anti-diarrheal,Diarrhea,15,121.59,Rural,2025-09-21T07:14:26
+PH638,Aizawl,Antibiotics,Typhoid,33,42.49,Urban,2025-09-26T19:11:26
+PH374,West Khasi Hills,Paracetamol,Fever,39,311.79,Urban,2025-09-06T12:59:26
+PH277,Aizawl,ORS,Diarrhea,37,48.23,Rural,2025-09-11T07:41:26
+PH386,Aizawl,Antibiotics,Typhoid,41,258.13,Private,2025-09-21T00:45:26
+PH731,Imphal West,Antibiotics,Typhoid,6,295.41,Rural,2025-09-24T18:45:26
+PH588,Barpeta,Antibiotics,Typhoid,42,315.27,Private,2025-09-12T02:39:26
+PH644,Kamrup,Antibiotics,Typhoid,136,100.02,Rural,2025-09-23T12:58:26
+PH111,Cachar,Anti-diarrheal,Diarrhea,27,482.28,Rural,2025-09-23T11:07:26
+PH488,West Khasi Hills,Probiotics,Dysentery,32,450.72,Govt,2025-09-19T19:56:26
+PH927,Cachar,Electrolyte Powder,Cholera,36,316.36,Urban,2025-09-18T05:37:26
+PH226,Ri-Bhoi,Probiotics,Dysentery,4,282.02,Urban,2025-09-14T20:58:26
+PH422,East Khasi Hills,Anti-diarrheal,Diarrhea,13,222.25,Rural,2025-09-23T11:50:26
+PH433,Imphal West,ORS,Diarrhea,49,53.54,Private,2025-09-06T23:24:26
+PH252,Shillong,Electrolyte Powder,Cholera,29,43.66,Private,2025-09-01T06:56:26
+PH457,Cachar,Electrolyte Powder,Cholera,1,434.15,Private,2025-09-05T19:41:26
+PH820,Mokokchung,Electrolyte Powder,Cholera,20,471.22,Rural,2025-09-03T20:02:26
+PH573,Mokokchung,Electrolyte Powder,Cholera,18,349.5,Govt,2025-08-30T09:52:26
+PH445,Barpeta,ORS,Diarrhea,14,262.03,Private,2025-08-29T09:40:26
+PH130,Kamrup,Probiotics,Dysentery,7,305.65,Rural,2025-09-20T09:27:26
+PH717,Sonitpur,Electrolyte Powder,Cholera,20,88.04,Govt,2025-09-18T03:23:26
+PH761,Mokokchung,ORS,Diarrhea,3,382.0,Govt,2025-09-24T22:21:26
+PH480,Mokokchung,Electrolyte Powder,Cholera,36,225.79,Urban,2025-09-21T21:29:26
+PH157,Cachar,ORS,Diarrhea,25,450.63,Rural,2025-09-12T09:27:26
+PH143,Sonitpur,Electrolyte Powder,Cholera,16,429.23,Rural,2025-09-17T07:59:26
+PH893,Dibrugarh,Paracetamol,Fever,23,136.33,Govt,2025-08-28T05:50:26
+PH860,Barpeta,Paracetamol,Fever,13,16.43,Rural,2025-09-19T02:52:26
+PH485,Kohima,Antibiotics,Typhoid,25,144.12,Govt,2025-09-13T18:52:26
+PH368,Dibrugarh,Electrolyte Powder,Cholera,38,60.9,Rural,2025-09-04T06:25:26
+PH433,Cachar,Electrolyte Powder,Cholera,13,107.26,Rural,2025-09-12T11:04:26
+PH669,Imphal West,Probiotics,Dysentery,48,379.94,Govt,2025-09-18T10:26:26
+PH712,Mokokchung,Paracetamol,Fever,40,178.96,Rural,2025-08-30T13:59:26
+PH794,Dibrugarh,Anti-diarrheal,Diarrhea,16,153.65,Private,2025-09-03T13:19:26
+PH400,Imphal West,Antibiotics,Typhoid,28,429.57,Govt,2025-09-11T07:39:26
+PH633,Barpeta,ORS,Diarrhea,36,21.63,Rural,2025-08-28T05:32:26
+PH367,Imphal West,Antibiotics,Typhoid,22,223.84,Rural,2025-09-17T19:33:26
+PH766,Sonitpur,Paracetamol,Fever,1,187.35,Private,2025-09-04T03:35:26
+PH713,West Khasi Hills,Antibiotics,Typhoid,48,11.09,Rural,2025-09-14T23:45:26
+PH834,West Khasi Hills,Paracetamol,Fever,44,264.39,Rural,2025-09-03T18:28:26
+PH624,Shillong,ORS,Diarrhea,29,470.21,Rural,2025-09-04T23:25:26
+PH240,Ri-Bhoi,ORS,Diarrhea,29,82.86,Rural,2025-09-04T07:28:26
+PH142,Barpeta,Electrolyte Powder,Cholera,13,481.63,Urban,2025-08-31T04:49:26
+PH788,Aizawl,Anti-diarrheal,Diarrhea,37,74.56,Govt,2025-09-19T11:10:26
+PH930,Imphal East,Paracetamol,Fever,32,413.63,Govt,2025-09-18T12:34:26
+PH382,Barpeta,Anti-diarrheal,Diarrhea,23,71.72,Govt,2025-08-31T03:32:26
+PH631,Shillong,Antibiotics,Typhoid,16,266.57,Urban,2025-09-06T01:11:26
+PH645,Imphal East,Electrolyte Powder,Cholera,16,154.06,Urban,2025-08-28T23:36:26
+PH276,Kamrup,Anti-diarrheal,Diarrhea,61,350.23,Rural,2025-08-31T10:16:26
+PH516,Shillong,Paracetamol,Fever,32,294.95,Govt,2025-09-09T15:57:26
+PH320,East Khasi Hills,Electrolyte Powder,Cholera,21,287.11,Private,2025-09-13T11:04:26
+PH407,Imphal West,Probiotics,Dysentery,43,371.74,Rural,2025-08-30T03:29:26
+PH477,Imphal East,Probiotics,Dysentery,31,415.38,Govt,2025-09-06T05:50:26
+PH139,Imphal West,Probiotics,Dysentery,50,124.48,Govt,2025-09-23T05:57:26
+PH152,Cachar,Paracetamol,Fever,23,259.38,Govt,2025-08-27T07:58:26
+PH412,Imphal East,Paracetamol,Fever,13,311.14,Rural,2025-09-07T20:35:26
+PH823,Kamrup,ORS,Diarrhea,37,417.36,Rural,2025-09-10T05:08:26
+PH625,East Khasi Hills,Antibiotics,Typhoid,23,434.65,Urban,2025-09-21T09:05:26
+PH301,Shillong,Paracetamol,Fever,14,278.22,Urban,2025-09-18T03:34:26
+PH481,Kohima,Anti-diarrheal,Diarrhea,28,67.14,Govt,2025-09-25T03:25:26
+PH938,Sonitpur,Electrolyte Powder,Cholera,16,138.52,Private,2025-09-06T00:11:26
+PH178,Aizawl,Antibiotics,Typhoid,16,99.37,Govt,2025-09-01T20:13:26
+PH357,Barpeta,Probiotics,Dysentery,10,294.36,Govt,2025-09-13T19:32:26
+PH204,Dibrugarh,Probiotics,Dysentery,3,404.76,Private,2025-09-24T21:46:26
+PH823,Imphal East,Antibiotics,Typhoid,7,95.19,Private,2025-09-17T23:19:26
+PH408,Kamrup,Paracetamol,Fever,50,254.5,Govt,2025-09-05T12:18:26
+PH616,Imphal East,ORS,Diarrhea,40,290.99,Govt,2025-09-24T21:57:26
+PH361,Shillong,Probiotics,Dysentery,37,417.41,Private,2025-09-26T16:18:26
+PH852,West Khasi Hills,Electrolyte Powder,Cholera,11,117.64,Private,2025-09-12T01:51:26
+PH746,Cachar,Paracetamol,Fever,37,254.1,Govt,2025-09-03T22:00:26
+PH369,Imphal East,Anti-diarrheal,Diarrhea,14,43.51,Rural,2025-09-20T11:47:26
+PH329,Cachar,ORS,Diarrhea,26,308.49,Govt,2025-09-13T20:02:26
+PH952,Shillong,Antibiotics,Typhoid,25,239.54,Govt,2025-09-09T20:25:26
+PH841,Ri-Bhoi,Paracetamol,Fever,20,48.57,Rural,2025-09-08T06:54:26
+PH532,Ri-Bhoi,Electrolyte Powder,Cholera,19,128.75,Rural,2025-09-24T01:16:26
+PH619,Cachar,Anti-diarrheal,Diarrhea,39,481.3,Private,2025-08-29T08:57:26
+PH520,Kohima,Paracetamol,Fever,33,129.28,Private,2025-09-12T22:21:26
+PH919,West Khasi Hills,Probiotics,Dysentery,1,176.87,Private,2025-09-15T01:05:26
+PH575,Imphal West,Electrolyte Powder,Cholera,38,321.55,Rural,2025-09-18T09:05:26
+PH684,Mokokchung,ORS,Diarrhea,1,467.91,Urban,2025-08-28T02:51:26
+PH977,Mokokchung,ORS,Diarrhea,18,25.63,Private,2025-09-04T10:40:26
+PH211,Cachar,Anti-diarrheal,Diarrhea,41,148.06,Urban,2025-09-21T11:15:26
+PH501,Jorhat,Electrolyte Powder,Cholera,4,382.55,Private,2025-09-17T04:19:26
+PH201,West Khasi Hills,Electrolyte Powder,Cholera,10,147.48,Urban,2025-09-25T17:13:26
+PH277,Ri-Bhoi,ORS,Diarrhea,11,96.56,Urban,2025-09-26T13:43:26
+PH855,Imphal West,ORS,Diarrhea,18,97.25,Govt,2025-08-29T00:28:26
+PH825,Aizawl,Anti-diarrheal,Diarrhea,40,134.41,Govt,2025-09-15T23:59:26
+PH512,Imphal West,Anti-diarrheal,Diarrhea,22,37.42,Govt,2025-09-24T15:22:26
+PH504,Kamrup,Anti-diarrheal,Diarrhea,80,312.16,Private,2025-08-30T15:04:26
+PH143,Imphal East,Antibiotics,Typhoid,39,294.5,Urban,2025-09-07T13:00:26
+PH172,West Khasi Hills,Electrolyte Powder,Cholera,47,60.45,Govt,2025-09-03T05:37:26
+PH779,Jorhat,Probiotics,Dysentery,21,111.17,Govt,2025-09-07T18:25:26
+PH465,East Khasi Hills,ORS,Diarrhea,4,151.92,Rural,2025-09-17T03:39:26
+PH958,Sonitpur,Probiotics,Dysentery,5,225.64,Rural,2025-08-27T10:20:26
+PH555,Jorhat,Electrolyte Powder,Cholera,18,304.05,Govt,2025-09-04T07:43:26
+PH605,Kohima,Electrolyte Powder,Cholera,48,460.7,Rural,2025-09-13T05:31:26
+PH463,Imphal East,Probiotics,Dysentery,11,338.15,Urban,2025-09-02T07:50:26
+PH313,West Khasi Hills,Electrolyte Powder,Cholera,49,215.37,Govt,2025-09-14T06:04:26
+PH619,Dibrugarh,Anti-diarrheal,Diarrhea,3,364.21,Urban,2025-09-17T05:39:26
+PH956,West Khasi Hills,ORS,Diarrhea,21,448.81,Rural,2025-09-21T04:11:26
+PH967,Imphal East,ORS,Diarrhea,44,407.5,Rural,2025-09-02T01:01:26
+PH986,Shillong,Anti-diarrheal,Diarrhea,19,198.78,Private,2025-09-06T23:09:26
+PH866,Imphal East,ORS,Diarrhea,34,233.47,Govt,2025-08-28T03:32:26
+PH196,Kamrup,Antibiotics,Typhoid,85,409.79,Private,2025-09-01T02:31:26
+PH436,Aizawl,Electrolyte Powder,Cholera,6,265.99,Rural,2025-09-19T14:17:26
+PH252,Jorhat,Probiotics,Dysentery,12,378.87,Rural,2025-09-09T10:37:26
+PH557,Cachar,Probiotics,Dysentery,36,350.06,Urban,2025-09-15T21:54:26
+PH733,Mokokchung,Electrolyte Powder,Cholera,14,293.37,Urban,2025-09-12T20:10:26
+PH391,Cachar,Electrolyte Powder,Cholera,44,314.55,Rural,2025-09-18T04:57:26
+PH772,Dibrugarh,ORS,Diarrhea,52,191.47,Rural,2025-09-06T14:34:26
+PH758,Imphal West,Paracetamol,Fever,41,12.2,Private,2025-09-01T22:31:26
+PH139,Sonitpur,ORS,Diarrhea,19,277.29,Rural,2025-09-22T12:45:26
+PH751,Shillong,Paracetamol,Fever,7,369.09,Govt,2025-09-06T01:42:26
+PH423,Aizawl,Antibiotics,Typhoid,17,27.31,Private,2025-09-10T19:21:26
+PH149,Kamrup,Antibiotics,Typhoid,38,37.81,Rural,2025-09-14T06:17:26
+PH445,West Khasi Hills,Antibiotics,Typhoid,45,222.45,Govt,2025-09-21T11:57:26
+PH929,Cachar,Electrolyte Powder,Cholera,21,283.16,Private,2025-09-26T03:06:26
+PH879,Imphal East,Paracetamol,Fever,24,66.45,Rural,2025-09-15T22:48:26
+PH103,Kamrup,Anti-diarrheal,Diarrhea,40,208.79,Private,2025-09-12T13:08:26
+PH650,Sonitpur,Antibiotics,Typhoid,24,352.02,Govt,2025-09-25T05:55:26
+PH195,Shillong,Probiotics,Dysentery,27,436.84,Rural,2025-09-26T20:54:26
+PH553,Imphal East,Anti-diarrheal,Diarrhea,17,419.99,Private,2025-08-29T04:34:26
+PH602,Barpeta,ORS,Diarrhea,48,309.44,Private,2025-09-15T18:35:26
+PH376,Dibrugarh,Anti-diarrheal,Diarrhea,23,352.39,Private,2025-09-03T21:09:26
+PH109,Ri-Bhoi,Antibiotics,Typhoid,40,407.8,Govt,2025-09-25T10:18:26
+PH837,Shillong,Antibiotics,Typhoid,37,277.59,Private,2025-08-29T15:42:26
+PH325,Mokokchung,Paracetamol,Fever,46,400.18,Private,2025-09-13T00:05:26
+PH620,Kamrup,ORS,Diarrhea,132,39.21,Govt,2025-09-20T10:42:26
+PH357,Shillong,Electrolyte Powder,Cholera,41,281.22,Govt,2025-09-05T04:08:26
+PH876,Barpeta,Electrolyte Powder,Cholera,36,181.58,Govt,2025-09-23T02:15:26
+PH822,Sonitpur,Electrolyte Powder,Cholera,15,27.07,Urban,2025-09-17T03:13:26
+PH499,Shillong,Paracetamol,Fever,5,415.97,Private,2025-08-27T02:18:26
+PH968,Cachar,Electrolyte Powder,Cholera,44,278.05,Govt,2025-09-20T00:36:26
+PH151,Kamrup,Probiotics,Dysentery,42,250.62,Private,2025-09-06T16:47:26
+PH128,Kohima,ORS,Diarrhea,21,407.17,Private,2025-09-18T07:26:26
+PH560,Shillong,Antibiotics,Typhoid,3,207.86,Urban,2025-09-07T17:18:26
+PH609,Shillong,Electrolyte Powder,Cholera,39,16.49,Private,2025-09-09T20:33:26
+PH366,Barpeta,ORS,Diarrhea,32,448.79,Private,2025-09-19T00:37:26
+PH401,Dibrugarh,Antibiotics,Typhoid,1,16.78,Rural,2025-09-22T15:17:26
+PH835,Cachar,Anti-diarrheal,Diarrhea,17,106.62,Private,2025-09-06T03:54:26
+PH713,West Khasi Hills,Electrolyte Powder,Cholera,41,135.63,Urban,2025-09-24T10:19:26
+PH359,Imphal East,Paracetamol,Fever,38,359.5,Govt,2025-09-09T01:24:26
+PH855,Kohima,Anti-diarrheal,Diarrhea,27,381.25,Private,2025-09-10T16:56:26
+PH253,Kamrup,Probiotics,Dysentery,35,139.74,Urban,2025-09-06T08:09:26
+PH725,Ri-Bhoi,Paracetamol,Fever,42,49.32,Govt,2025-09-18T09:52:26
+PH276,Cachar,Probiotics,Dysentery,47,15.77,Private,2025-09-23T11:04:26
+PH565,Kohima,Anti-diarrheal,Diarrhea,3,314.81,Private,2025-09-07T03:24:26
+PH744,Jorhat,ORS,Diarrhea,8,199.52,Urban,2025-09-24T14:29:26
+PH308,Cachar,Paracetamol,Fever,45,327.95,Rural,2025-08-29T00:21:26
+PH162,Kohima,Electrolyte Powder,Cholera,24,160.57,Govt,2025-09-21T15:54:26
+PH661,Sonitpur,Paracetamol,Fever,45,73.7,Urban,2025-09-11T07:58:26
+PH715,Mokokchung,Antibiotics,Typhoid,18,429.96,Private,2025-09-07T13:02:26
+PH675,Shillong,ORS,Diarrhea,21,44.07,Urban,2025-09-17T07:04:26
+PH721,Shillong,Antibiotics,Typhoid,15,432.48,Private,2025-08-29T03:25:26
+PH942,Ri-Bhoi,Antibiotics,Typhoid,47,452.84,Urban,2025-09-18T10:32:26
+PH306,Mokokchung,Antibiotics,Typhoid,3,122.59,Rural,2025-09-17T16:24:26
+PH428,Sonitpur,Anti-diarrheal,Diarrhea,19,418.42,Urban,2025-09-11T11:55:26
+PH186,Mokokchung,Paracetamol,Fever,49,179.17,Govt,2025-09-04T09:49:26
+PH520,Dibrugarh,Anti-diarrheal,Diarrhea,125,176.51,Govt,2025-09-14T17:11:26
+PH165,Barpeta,Probiotics,Dysentery,50,68.22,Urban,2025-09-14T19:21:26
+PH347,Cachar,Probiotics,Dysentery,30,235.34,Private,2025-09-21T02:03:26
+PH958,Aizawl,Electrolyte Powder,Cholera,35,495.32,Private,2025-09-01T06:46:26
+PH705,Dibrugarh,ORS,Diarrhea,57,396.69,Urban,2025-09-19T10:50:26
+PH793,Shillong,ORS,Diarrhea,8,344.85,Urban,2025-09-19T05:11:26
+PH488,Kohima,ORS,Diarrhea,44,389.91,Private,2025-08-28T21:35:26
+PH531,Shillong,Paracetamol,Fever,17,117.06,Govt,2025-09-25T14:10:26
+PH679,Imphal West,Electrolyte Powder,Cholera,48,300.95,Private,2025-09-10T03:26:26
+PH604,Barpeta,Electrolyte Powder,Cholera,13,233.27,Private,2025-09-07T23:17:26
+PH177,Ri-Bhoi,Antibiotics,Typhoid,39,88.26,Rural,2025-09-09T21:58:26
+PH330,Sonitpur,Electrolyte Powder,Cholera,21,164.36,Rural,2025-09-02T03:03:26
+PH413,Kamrup,ORS,Diarrhea,43,56.9,Rural,2025-09-17T17:36:26
+PH814,Sonitpur,Anti-diarrheal,Diarrhea,11,175.31,Urban,2025-09-12T23:45:26
+PH693,Kohima,Probiotics,Dysentery,7,156.76,Govt,2025-09-15T10:03:26
+PH484,Sonitpur,Probiotics,Dysentery,46,204.86,Govt,2025-09-11T14:36:26
+PH372,Ri-Bhoi,Antibiotics,Typhoid,17,474.67,Rural,2025-08-28T07:36:26
+PH207,Dibrugarh,Anti-diarrheal,Diarrhea,30,183.15,Private,2025-09-03T18:19:26
+PH540,East Khasi Hills,ORS,Diarrhea,1,329.1,Govt,2025-09-24T15:30:26
+PH377,Kohima,Electrolyte Powder,Cholera,27,325.88,Govt,2025-09-24T16:44:26
+PH498,Imphal East,Paracetamol,Fever,22,261.02,Private,2025-09-22T19:16:26
+PH797,Sonitpur,Anti-diarrheal,Diarrhea,50,127.24,Rural,2025-09-19T04:11:26
+PH528,Barpeta,Probiotics,Dysentery,14,76.3,Govt,2025-08-31T10:15:26
+PH550,Jorhat,Electrolyte Powder,Cholera,32,181.32,Govt,2025-09-25T04:45:26
+PH977,Sonitpur,Anti-diarrheal,Diarrhea,46,28.69,Private,2025-09-13T15:11:26
+PH297,Kamrup,Antibiotics,Typhoid,44,31.44,Rural,2025-09-11T20:50:26
+PH138,Cachar,Electrolyte Powder,Cholera,48,340.55,Rural,2025-09-01T03:34:26
+PH105,West Khasi Hills,ORS,Diarrhea,15,214.09,Urban,2025-09-02T14:44:26
+PH528,Cachar,Anti-diarrheal,Diarrhea,34,151.79,Urban,2025-09-18T18:09:26
+PH133,Dibrugarh,Anti-diarrheal,Diarrhea,12,441.17,Urban,2025-09-17T22:32:26
+PH251,Mokokchung,Antibiotics,Typhoid,48,183.1,Govt,2025-09-24T18:38:26
+PH999,Barpeta,Probiotics,Dysentery,20,403.29,Private,2025-09-04T12:28:26
+PH643,Ri-Bhoi,Paracetamol,Fever,3,441.66,Govt,2025-09-08T07:46:26
+PH345,West Khasi Hills,Anti-diarrheal,Diarrhea,4,159.93,Govt,2025-09-17T10:13:26
+PH814,Sonitpur,Anti-diarrheal,Diarrhea,9,19.23,Rural,2025-08-27T03:33:26
+PH834,Shillong,Paracetamol,Fever,43,93.67,Urban,2025-09-18T21:13:26
+PH145,East Khasi Hills,Electrolyte Powder,Cholera,36,141.39,Private,2025-08-29T18:38:26
+PH201,East Khasi Hills,Electrolyte Powder,Cholera,44,131.87,Rural,2025-09-13T19:01:26
+PH981,West Khasi Hills,Probiotics,Dysentery,15,225.64,Govt,2025-09-22T22:31:26
+PH190,Cachar,ORS,Diarrhea,31,416.98,Rural,2025-09-12T00:17:26
+PH475,Dibrugarh,ORS,Diarrhea,7,373.3,Private,2025-08-27T14:33:26
+PH991,Imphal East,Paracetamol,Fever,21,457.81,Govt,2025-09-06T12:23:26
+PH845,Barpeta,Anti-diarrheal,Diarrhea,49,468.11,Private,2025-09-17T05:59:26
+PH811,Imphal West,Electrolyte Powder,Cholera,23,385.74,Govt,2025-09-10T02:39:26
+PH685,Kamrup,Paracetamol,Fever,11,263.87,Urban,2025-09-18T20:35:26
+PH739,Shillong,ORS,Diarrhea,16,200.39,Rural,2025-09-23T16:28:26
+PH611,Kamrup,Electrolyte Powder,Cholera,40,402.54,Govt,2025-09-26T04:49:26
+PH569,Cachar,Paracetamol,Fever,10,83.21,Urban,2025-09-12T18:31:26
+PH244,Shillong,Electrolyte Powder,Cholera,35,322.17,Urban,2025-09-18T19:18:26
+PH364,Imphal West,Antibiotics,Typhoid,9,476.86,Private,2025-09-17T10:26:26
+PH335,Sonitpur,Antibiotics,Typhoid,1,342.16,Urban,2025-08-29T19:54:26
+PH915,Sonitpur,ORS,Diarrhea,48,228.04,Private,2025-09-09T09:20:26
+PH947,Imphal East,Paracetamol,Fever,15,482.21,Private,2025-09-06T18:21:26
+PH125,Mokokchung,Paracetamol,Fever,48,311.36,Private,2025-09-09T01:18:26
+PH719,Barpeta,Paracetamol,Fever,41,389.33,Private,2025-09-23T01:06:26
+PH253,West Khasi Hills,ORS,Diarrhea,14,56.79,Private,2025-08-28T03:37:26
+PH511,Ri-Bhoi,Anti-diarrheal,Diarrhea,14,55.84,Govt,2025-09-19T17:20:26
+PH958,Dibrugarh,Anti-diarrheal,Diarrhea,4,391.55,Private,2025-09-13T23:50:26
+PH268,East Khasi Hills,Electrolyte Powder,Cholera,49,207.12,Rural,2025-09-22T01:39:26
+PH529,Kamrup,Anti-diarrheal,Diarrhea,1,240.16,Rural,2025-08-28T03:38:26
+PH101,Barpeta,Probiotics,Dysentery,1,280.87,Rural,2025-09-07T07:04:26
+PH302,Jorhat,Antibiotics,Typhoid,20,145.89,Govt,2025-09-19T11:04:26
+PH692,Ri-Bhoi,Antibiotics,Typhoid,37,227.91,Rural,2025-09-12T22:37:26
+PH294,Kohima,Paracetamol,Fever,30,330.87,Private,2025-09-03T22:31:26
+PH628,Cachar,Paracetamol,Fever,32,428.56,Govt,2025-08-28T05:22:26
+PH229,Jorhat,Probiotics,Dysentery,49,133.82,Govt,2025-09-21T08:31:26
+PH271,Jorhat,Paracetamol,Fever,19,67.91,Rural,2025-08-31T10:44:26
+PH546,Cachar,Paracetamol,Fever,43,388.57,Private,2025-09-09T05:39:26
+PH667,Dibrugarh,Anti-diarrheal,Diarrhea,31,385.31,Govt,2025-09-25T15:42:26
+PH695,Barpeta,Antibiotics,Typhoid,8,449.78,Urban,2025-09-18T04:37:26
+PH123,Jorhat,Antibiotics,Typhoid,13,43.58,Urban,2025-09-17T06:30:26
+PH216,West Khasi Hills,ORS,Diarrhea,37,29.0,Urban,2025-09-21T23:58:26
+PH107,West Khasi Hills,Probiotics,Dysentery,22,288.03,Govt,2025-09-20T01:56:26
+PH207,Jorhat,Paracetamol,Fever,2,495.54,Govt,2025-09-24T19:24:26
+PH967,Sonitpur,Probiotics,Dysentery,31,314.55,Rural,2025-09-12T01:07:26
+PH809,Kohima,Antibiotics,Typhoid,41,55.21,Private,2025-08-29T00:50:26
+PH353,Imphal West,Electrolyte Powder,Cholera,4,465.29,Rural,2025-09-03T13:15:26
+PH343,East Khasi Hills,Electrolyte Powder,Cholera,16,494.9,Rural,2025-09-01T20:40:26
+PH487,Aizawl,Antibiotics,Typhoid,7,201.06,Govt,2025-09-11T16:26:26
+PH174,East Khasi Hills,ORS,Diarrhea,26,489.26,Urban,2025-09-17T21:15:26
+PH567,Barpeta,Antibiotics,Typhoid,32,359.94,Govt,2025-09-20T13:24:26
+PH740,West Khasi Hills,Antibiotics,Typhoid,47,462.09,Govt,2025-09-24T16:23:26
+PH950,Jorhat,ORS,Diarrhea,11,47.14,Rural,2025-09-21T09:01:26
+PH601,West Khasi Hills,Anti-diarrheal,Diarrhea,13,499.71,Rural,2025-09-22T16:25:26
+PH628,Kamrup,Electrolyte Powder,Cholera,42,275.7,Govt,2025-09-25T14:02:26
+PH168,East Khasi Hills,Anti-diarrheal,Diarrhea,6,293.67,Rural,2025-08-29T04:18:26
+PH896,Jorhat,Antibiotics,Typhoid,36,64.36,Govt,2025-09-25T13:20:26
+PH356,Barpeta,Paracetamol,Fever,3,134.44,Urban,2025-09-19T15:10:26
+PH707,West Khasi Hills,Paracetamol,Fever,8,269.74,Rural,2025-09-16T18:06:26
+PH961,Sonitpur,Antibiotics,Typhoid,48,157.08,Urban,2025-09-21T00:20:26
+PH636,West Khasi Hills,Antibiotics,Typhoid,27,85.1,Urban,2025-09-18T04:17:26
+PH210,Imphal West,ORS,Diarrhea,34,373.62,Govt,2025-09-22T21:32:26
+PH295,Aizawl,Anti-diarrheal,Diarrhea,39,285.2,Rural,2025-09-12T20:36:26
+PH283,Jorhat,Paracetamol,Fever,4,218.93,Govt,2025-09-23T12:31:26
+PH792,Cachar,Probiotics,Dysentery,11,464.45,Private,2025-09-26T00:36:26
+PH244,Shillong,Antibiotics,Typhoid,2,32.83,Private,2025-09-14T14:46:26
+PH903,Shillong,Paracetamol,Fever,36,121.1,Govt,2025-09-02T16:59:26
+PH341,West Khasi Hills,Paracetamol,Fever,33,44.71,Rural,2025-09-08T04:12:26
+PH614,Dibrugarh,Paracetamol,Fever,16,15.86,Rural,2025-09-24T13:25:26
+PH166,Ri-Bhoi,Probiotics,Dysentery,31,383.34,Private,2025-09-12T03:47:26
+PH587,West Khasi Hills,Probiotics,Dysentery,45,43.98,Private,2025-09-26T13:31:26
+PH427,Cachar,Antibiotics,Typhoid,4,66.35,Private,2025-09-14T19:09:26
+PH851,East Khasi Hills,Probiotics,Dysentery,30,436.7,Rural,2025-09-17T23:46:26
+PH760,Shillong,Paracetamol,Fever,34,228.34,Private,2025-09-06T18:13:26
+PH172,Imphal East,Antibiotics,Typhoid,6,392.32,Private,2025-09-14T07:04:26
+PH735,Kamrup,ORS,Diarrhea,41,392.71,Private,2025-09-12T08:30:26
+PH283,East Khasi Hills,Paracetamol,Fever,27,369.85,Govt,2025-09-19T14:20:26
+PH608,Cachar,Antibiotics,Typhoid,35,39.56,Urban,2025-09-06T03:34:26
+PH593,Mokokchung,Anti-diarrheal,Diarrhea,19,496.11,Govt,2025-09-15T08:23:26
+PH642,East Khasi Hills,Paracetamol,Fever,41,181.76,Private,2025-09-04T14:24:26
+PH675,Imphal West,Electrolyte Powder,Cholera,30,358.19,Urban,2025-09-02T20:29:26
+PH114,Aizawl,Antibiotics,Typhoid,45,199.78,Urban,2025-09-16T19:54:26
+PH163,Ri-Bhoi,Paracetamol,Fever,34,287.19,Private,2025-09-16T05:07:26
+PH989,Mokokchung,Antibiotics,Typhoid,27,201.34,Rural,2025-09-14T11:35:26
+PH432,Shillong,ORS,Diarrhea,2,417.56,Private,2025-09-15T22:22:26
+PH582,Ri-Bhoi,ORS,Diarrhea,9,302.03,Govt,2025-09-02T04:37:26
+PH145,Imphal East,ORS,Diarrhea,13,488.92,Rural,2025-09-16T02:55:26
+PH184,Cachar,Electrolyte Powder,Cholera,12,244.97,Rural,2025-09-23T16:00:26
+PH840,Cachar,Electrolyte Powder,Cholera,26,113.54,Private,2025-09-01T07:32:26
+PH809,Kohima,Paracetamol,Fever,12,456.51,Govt,2025-09-20T11:45:26
+PH836,Kamrup,ORS,Diarrhea,35,271.83,Urban,2025-09-22T06:59:26
+PH100,Cachar,Electrolyte Powder,Cholera,2,266.81,Private,2025-09-02T16:32:26
+PH842,Shillong,Antibiotics,Typhoid,9,276.4,Urban,2025-09-14T03:24:26
+PH113,Jorhat,Paracetamol,Fever,12,256.31,Govt,2025-09-26T07:48:26
+PH724,Ri-Bhoi,Probiotics,Dysentery,42,373.74,Private,2025-08-28T04:04:26
+PH178,Imphal West,ORS,Diarrhea,2,440.96,Rural,2025-09-16T13:22:26
+PH433,Mokokchung,Probiotics,Dysentery,9,13.15,Urban,2025-09-12T23:55:26
+PH593,Imphal East,Electrolyte Powder,Cholera,18,333.81,Urban,2025-09-09T10:16:26
+PH321,West Khasi Hills,Paracetamol,Fever,21,310.18,Govt,2025-09-22T04:09:26
+PH607,Kohima,Probiotics,Dysentery,20,291.17,Govt,2025-09-04T20:43:26
+PH883,Aizawl,Paracetamol,Fever,50,493.6,Urban,2025-09-22T04:39:26
+PH392,Imphal West,Antibiotics,Typhoid,40,411.94,Private,2025-09-20T05:23:26
+PH323,Kohima,Paracetamol,Fever,13,214.83,Urban,2025-09-09T05:28:26
+PH668,Kamrup,ORS,Diarrhea,33,435.29,Private,2025-08-28T11:54:26
+PH474,Jorhat,Probiotics,Dysentery,2,393.65,Urban,2025-09-22T21:33:26
+PH157,Shillong,Paracetamol,Fever,50,432.44,Urban,2025-09-21T02:47:26
+PH670,Imphal East,Paracetamol,Fever,13,74.7,Private,2025-09-06T14:16:26
+PH192,East Khasi Hills,Antibiotics,Typhoid,2,436.99,Private,2025-09-17T09:28:26
+PH579,Cachar,Electrolyte Powder,Cholera,18,188.94,Private,2025-09-02T10:10:26
+PH335,Shillong,Paracetamol,Fever,35,192.41,Govt,2025-09-02T05:05:26
+PH840,West Khasi Hills,Antibiotics,Typhoid,36,280.21,Rural,2025-09-15T11:48:26
+PH162,Barpeta,Electrolyte Powder,Cholera,39,58.76,Private,2025-09-04T09:06:26
+PH480,Imphal East,Antibiotics,Typhoid,29,62.75,Govt,2025-08-27T15:34:26
+PH763,Jorhat,Probiotics,Dysentery,26,366.04,Rural,2025-09-01T09:02:26
+PH395,Sonitpur,Antibiotics,Typhoid,50,461.2,Govt,2025-09-05T22:50:26
+PH448,Shillong,Paracetamol,Fever,47,355.01,Private,2025-08-30T07:28:26
+PH790,Imphal West,ORS,Diarrhea,9,313.85,Urban,2025-08-30T01:47:26
+PH376,Shillong,Electrolyte Powder,Cholera,13,185.13,Rural,2025-09-14T03:26:26
+PH246,Aizawl,Antibiotics,Typhoid,29,316.49,Private,2025-09-22T01:03:26
+PH502,Shillong,Anti-diarrheal,Diarrhea,14,77.16,Govt,2025-09-03T18:42:26
+PH423,East Khasi Hills,Probiotics,Dysentery,4,166.18,Private,2025-09-14T19:51:26
+PH751,Cachar,Probiotics,Dysentery,11,148.0,Urban,2025-09-13T13:26:26
+PH112,Dibrugarh,Paracetamol,Fever,24,340.47,Rural,2025-09-21T14:16:26
+PH214,Mokokchung,Antibiotics,Typhoid,27,274.61,Private,2025-09-21T05:21:26
+PH730,Mokokchung,ORS,Diarrhea,38,70.32,Govt,2025-09-18T21:03:26
+PH725,Dibrugarh,ORS,Diarrhea,2,300.97,Private,2025-09-17T11:01:26
+PH325,Ri-Bhoi,Paracetamol,Fever,17,398.27,Govt,2025-09-20T16:50:26
+PH271,West Khasi Hills,Anti-diarrheal,Diarrhea,21,347.65,Private,2025-08-27T00:36:26
+PH946,Jorhat,Antibiotics,Typhoid,18,63.73,Urban,2025-09-20T22:54:26
+PH232,Kohima,Paracetamol,Fever,35,224.23,Urban,2025-09-08T07:31:26
+PH664,Barpeta,ORS,Diarrhea,32,255.36,Govt,2025-09-19T04:50:26
+PH559,Mokokchung,Antibiotics,Typhoid,46,448.38,Private,2025-09-16T04:50:26
+PH567,Imphal East,Antibiotics,Typhoid,25,10.42,Urban,2025-09-10T05:38:26
+PH271,Cachar,Antibiotics,Typhoid,25,398.25,Rural,2025-09-26T00:09:26
+PH604,Cachar,Probiotics,Dysentery,27,107.86,Urban,2025-09-17T15:15:26
+PH769,Jorhat,ORS,Diarrhea,19,259.7,Govt,2025-09-18T02:14:26
+PH209,Kohima,Electrolyte Powder,Cholera,11,299.76,Private,2025-09-15T18:29:26
+PH509,Barpeta,Anti-diarrheal,Diarrhea,13,365.85,Urban,2025-09-19T05:30:26
+PH490,Cachar,Paracetamol,Fever,42,205.8,Urban,2025-08-31T14:44:26
+PH277,Sonitpur,ORS,Diarrhea,33,55.0,Private,2025-08-29T16:05:26
+PH772,Imphal East,Antibiotics,Typhoid,46,49.22,Urban,2025-09-10T09:35:26
+PH343,Imphal West,Anti-diarrheal,Diarrhea,48,138.23,Urban,2025-09-24T19:50:26
+PH592,Barpeta,Electrolyte Powder,Cholera,31,283.36,Urban,2025-09-24T22:37:26
+PH110,Sonitpur,Anti-diarrheal,Diarrhea,3,259.63,Rural,2025-09-14T04:59:26
+PH995,Aizawl,ORS,Diarrhea,12,146.06,Govt,2025-09-19T04:02:26
+PH983,Kohima,Antibiotics,Typhoid,21,315.57,Urban,2025-08-29T00:32:26
+PH317,Cachar,Paracetamol,Fever,43,88.0,Urban,2025-08-28T02:44:26
+PH896,Jorhat,Electrolyte Powder,Cholera,2,388.11,Rural,2025-09-06T02:15:26
+PH832,West Khasi Hills,ORS,Diarrhea,30,246.99,Rural,2025-09-10T20:58:26
+PH176,Imphal West,Probiotics,Dysentery,23,414.32,Urban,2025-09-04T22:00:26
+PH715,Cachar,Paracetamol,Fever,49,205.26,Rural,2025-09-01T04:44:26
+PH369,East Khasi Hills,Antibiotics,Typhoid,23,396.99,Govt,2025-09-17T05:50:26
+PH403,Aizawl,ORS,Diarrhea,47,166.04,Govt,2025-09-11T10:24:26
+PH399,Mokokchung,Antibiotics,Typhoid,13,468.94,Rural,2025-09-18T16:48:26
+PH934,Cachar,Paracetamol,Fever,13,402.38,Rural,2025-09-17T06:01:26
+PH998,Imphal East,Electrolyte Powder,Cholera,31,134.3,Rural,2025-09-21T17:52:26
+PH703,Kohima,ORS,Diarrhea,39,408.05,Urban,2025-08-31T00:20:26
+PH234,Jorhat,Antibiotics,Typhoid,32,149.67,Urban,2025-08-29T19:26:26
+PH920,Shillong,Paracetamol,Fever,24,499.37,Govt,2025-09-05T19:26:26
+PH531,Imphal West,Probiotics,Dysentery,34,311.85,Private,2025-09-03T23:32:26
+PH150,Shillong,Electrolyte Powder,Cholera,46,449.3,Rural,2025-09-15T11:23:26
+PH807,Imphal West,Probiotics,Dysentery,21,373.67,Private,2025-09-04T16:25:26
+PH478,Jorhat,Probiotics,Dysentery,49,311.77,Govt,2025-09-01T10:41:26
+PH653,Aizawl,Antibiotics,Typhoid,16,454.78,Private,2025-09-20T04:44:26
+PH824,East Khasi Hills,Paracetamol,Fever,19,244.03,Private,2025-09-17T03:27:26
+PH527,Kamrup,Anti-diarrheal,Diarrhea,42,255.7,Private,2025-09-11T05:46:26
+PH735,Imphal East,Anti-diarrheal,Diarrhea,37,193.87,Urban,2025-09-13T12:45:26
+PH660,Mokokchung,Paracetamol,Fever,13,375.32,Rural,2025-08-28T15:33:26
+PH810,Imphal East,Anti-diarrheal,Diarrhea,1,324.32,Govt,2025-09-10T03:48:26
+PH220,Aizawl,ORS,Diarrhea,36,298.29,Urban,2025-09-17T09:05:26
+PH140,Kamrup,Anti-diarrheal,Diarrhea,13,474.83,Govt,2025-09-10T03:09:26
+PH631,East Khasi Hills,Electrolyte Powder,Cholera,29,268.98,Private,2025-09-24T04:42:26
+PH648,Kohima,Paracetamol,Fever,42,119.93,Govt,2025-09-09T22:08:26
+PH538,Sonitpur,ORS,Diarrhea,50,388.23,Govt,2025-08-31T20:11:26
+PH502,Cachar,Probiotics,Dysentery,35,473.76,Rural,2025-09-18T10:04:26
+PH270,Kamrup,Probiotics,Dysentery,74,440.58,Rural,2025-09-24T22:58:26
+PH606,Kohima,Antibiotics,Typhoid,31,372.74,Govt,2025-09-25T17:06:26
+PH578,Barpeta,Antibiotics,Typhoid,20,313.8,Govt,2025-09-01T15:53:26
+PH900,Sonitpur,Probiotics,Dysentery,45,52.89,Govt,2025-09-26T06:46:26
+PH817,Jorhat,Anti-diarrheal,Diarrhea,27,401.65,Private,2025-09-07T18:42:26
+PH136,Kohima,Probiotics,Dysentery,26,29.75,Rural,2025-08-27T15:52:26
+PH124,Jorhat,ORS,Diarrhea,31,365.14,Rural,2025-08-28T07:30:26
+PH613,Cachar,Electrolyte Powder,Cholera,23,212.61,Rural,2025-09-17T23:26:26
+PH672,Aizawl,ORS,Diarrhea,33,314.93,Urban,2025-09-24T22:01:26
+PH267,Kohima,Paracetamol,Fever,46,295.93,Rural,2025-08-29T22:39:26
+PH940,Shillong,ORS,Diarrhea,33,296.0,Rural,2025-09-20T03:07:26
+PH852,Sonitpur,Paracetamol,Fever,40,395.55,Govt,2025-09-26T03:58:26
+PH949,Imphal West,Electrolyte Powder,Cholera,40,103.05,Govt,2025-09-07T19:30:26
+PH506,Cachar,Electrolyte Powder,Cholera,34,148.34,Rural,2025-09-19T10:30:26
+PH117,Kohima,Anti-diarrheal,Diarrhea,23,160.34,Urban,2025-09-03T04:47:26
+PH972,Barpeta,ORS,Diarrhea,17,419.44,Urban,2025-09-24T02:03:26
+PH782,Kamrup,Antibiotics,Typhoid,14,314.57,Govt,2025-09-06T09:19:26
+PH528,Cachar,Anti-diarrheal,Diarrhea,2,255.55,Rural,2025-09-08T12:51:26
+PH831,West Khasi Hills,Anti-diarrheal,Diarrhea,1,329.43,Rural,2025-09-18T02:01:26
+PH357,Cachar,ORS,Diarrhea,5,374.03,Urban,2025-08-29T14:07:26
+PH377,Shillong,Antibiotics,Typhoid,5,349.66,Govt,2025-09-07T09:58:26
+PH440,West Khasi Hills,Probiotics,Dysentery,30,191.45,Private,2025-09-07T11:35:26
+PH653,Shillong,Probiotics,Dysentery,12,143.12,Govt,2025-09-01T06:14:26
+PH609,Ri-Bhoi,ORS,Diarrhea,27,138.55,Urban,2025-09-26T04:53:26
+PH740,Kohima,ORS,Diarrhea,26,329.51,Rural,2025-09-12T03:39:26
+PH988,Aizawl,Antibiotics,Typhoid,38,217.7,Urban,2025-09-15T21:07:26
+PH725,East Khasi Hills,Anti-diarrheal,Diarrhea,8,40.74,Urban,2025-08-28T21:28:26
+PH607,Ri-Bhoi,Antibiotics,Typhoid,7,127.01,Rural,2025-09-13T16:45:26
+PH983,East Khasi Hills,Electrolyte Powder,Cholera,1,244.77,Private,2025-09-26T21:28:26
+PH472,Imphal West,Paracetamol,Fever,15,468.13,Govt,2025-09-22T07:37:26
+PH710,East Khasi Hills,Paracetamol,Fever,36,250.08,Govt,2025-09-07T06:51:26
+PH232,Ri-Bhoi,Probiotics,Dysentery,45,246.57,Govt,2025-09-15T06:28:26
+PH446,West Khasi Hills,ORS,Diarrhea,22,380.2,Rural,2025-09-04T13:45:26
+PH535,Jorhat,ORS,Diarrhea,10,156.85,Urban,2025-09-11T05:58:26
+PH615,Barpeta,Antibiotics,Typhoid,14,134.8,Govt,2025-09-25T20:48:26
+PH599,Ri-Bhoi,Antibiotics,Typhoid,30,110.82,Urban,2025-09-03T11:29:26
+PH637,Kamrup,ORS,Diarrhea,41,21.25,Private,2025-09-18T23:32:26
+PH104,Imphal West,ORS,Diarrhea,37,264.46,Private,2025-09-16T19:15:26
+PH595,West Khasi Hills,Probiotics,Dysentery,11,29.78,Govt,2025-09-01T05:57:26
+PH995,West Khasi Hills,Antibiotics,Typhoid,29,46.48,Private,2025-09-03T06:57:26
+PH292,Imphal East,Anti-diarrheal,Diarrhea,17,116.69,Rural,2025-09-05T15:34:26
+PH501,Kohima,Paracetamol,Fever,23,237.23,Govt,2025-09-18T22:22:26
+PH464,Jorhat,Probiotics,Dysentery,39,127.57,Govt,2025-09-03T12:04:26
+PH110,Imphal East,Electrolyte Powder,Cholera,39,407.84,Rural,2025-08-31T01:49:26
+PH605,Cachar,Electrolyte Powder,Cholera,48,64.74,Urban,2025-09-24T07:40:26
+PH463,Dibrugarh,Paracetamol,Fever,4,141.39,Rural,2025-08-27T05:23:26
+PH600,Dibrugarh,Electrolyte Powder,Cholera,50,116.08,Rural,2025-09-09T04:12:26
+PH516,Barpeta,Electrolyte Powder,Cholera,8,220.46,Rural,2025-08-31T20:44:26
+PH727,West Khasi Hills,Electrolyte Powder,Cholera,19,83.57,Private,2025-09-23T14:34:26
+PH627,Ri-Bhoi,Paracetamol,Fever,41,421.57,Govt,2025-09-14T18:11:26
+PH157,Shillong,Paracetamol,Fever,28,245.52,Urban,2025-09-22T19:45:26
+PH583,Sonitpur,Probiotics,Dysentery,8,123.18,Govt,2025-09-09T05:02:26
+PH159,Aizawl,Paracetamol,Fever,26,417.96,Rural,2025-09-10T07:53:26
+PH644,Imphal East,Electrolyte Powder,Cholera,44,228.35,Urban,2025-09-24T10:22:26
+PH507,Barpeta,Anti-diarrheal,Diarrhea,47,207.29,Govt,2025-09-24T06:58:26
+PH219,Cachar,ORS,Diarrhea,50,202.91,Private,2025-09-13T14:10:26
+PH844,Mokokchung,Probiotics,Dysentery,42,426.89,Urban,2025-09-14T16:30:26
+PH534,Cachar,Anti-diarrheal,Diarrhea,35,272.54,Urban,2025-08-27T11:19:26
+PH879,Barpeta,Electrolyte Powder,Cholera,22,74.54,Urban,2025-09-11T07:42:26
+PH828,Sonitpur,Antibiotics,Typhoid,33,481.58,Urban,2025-09-14T09:04:26
+PH779,Imphal East,Paracetamol,Fever,41,355.99,Urban,2025-09-11T03:56:26
+PH368,East Khasi Hills,Anti-diarrheal,Diarrhea,1,18.72,Urban,2025-09-16T20:45:26
+PH980,Cachar,ORS,Diarrhea,13,189.53,Govt,2025-09-19T07:42:26
+PH167,Kamrup,ORS,Diarrhea,26,166.91,Private,2025-09-14T03:07:26
+PH194,Mokokchung,Antibiotics,Typhoid,13,292.8,Private,2025-09-06T15:22:26
+PH835,West Khasi Hills,Anti-diarrheal,Diarrhea,21,463.73,Urban,2025-09-19T16:30:26
+PH842,East Khasi Hills,Antibiotics,Typhoid,50,391.21,Urban,2025-09-24T00:10:26
+PH330,Kamrup,Probiotics,Dysentery,83,112.14,Urban,2025-08-27T09:39:26
+PH996,Aizawl,Electrolyte Powder,Cholera,15,338.59,Urban,2025-09-04T08:49:26
+PH475,Cachar,Anti-diarrheal,Diarrhea,21,286.04,Govt,2025-09-19T19:49:26
+PH541,West Khasi Hills,Electrolyte Powder,Cholera,45,19.37,Private,2025-09-15T14:44:26
+PH680,Imphal West,Probiotics,Dysentery,6,251.93,Private,2025-09-17T15:59:26
+PH542,Imphal East,Probiotics,Dysentery,27,402.75,Govt,2025-09-25T06:19:26
+PH560,Imphal West,ORS,Diarrhea,50,216.81,Rural,2025-09-23T05:54:26
+PH660,Aizawl,Electrolyte Powder,Cholera,46,487.09,Govt,2025-09-09T20:04:26
+PH442,Imphal East,Probiotics,Dysentery,29,283.14,Private,2025-09-17T18:43:26
+PH438,West Khasi Hills,Probiotics,Dysentery,25,311.76,Govt,2025-09-10T19:28:26
+PH280,Sonitpur,Probiotics,Dysentery,19,412.55,Urban,2025-09-26T11:18:26
+PH124,Imphal West,Electrolyte Powder,Cholera,20,322.08,Govt,2025-09-14T06:01:26
+PH474,Aizawl,Anti-diarrheal,Diarrhea,31,253.38,Private,2025-09-15T04:04:26
+PH404,East Khasi Hills,Anti-diarrheal,Diarrhea,12,319.0,Private,2025-09-23T17:44:26
+PH207,Mokokchung,Electrolyte Powder,Cholera,20,352.96,Rural,2025-09-19T23:42:26
+PH676,Barpeta,Antibiotics,Typhoid,29,259.02,Rural,2025-09-24T14:42:26
+PH890,Dibrugarh,Anti-diarrheal,Diarrhea,73,246.01,Urban,2025-09-10T10:15:26
+PH165,Dibrugarh,ORS,Diarrhea,102,380.48,Govt,2025-09-10T11:12:26
+PH117,Dibrugarh,Probiotics,Dysentery,45,391.38,Govt,2025-09-16T16:53:26
+PH314,Imphal East,Electrolyte Powder,Cholera,25,218.0,Govt,2025-09-25T04:12:26
+PH701,Dibrugarh,Electrolyte Powder,Cholera,15,330.18,Urban,2025-09-11T14:28:26
+PH629,Mokokchung,ORS,Diarrhea,6,359.71,Govt,2025-09-07T11:38:26
+PH680,Kohima,Anti-diarrheal,Diarrhea,29,313.31,Urban,2025-09-21T00:55:26
+PH971,East Khasi Hills,Antibiotics,Typhoid,24,158.16,Govt,2025-09-04T15:41:26
+PH132,Sonitpur,Probiotics,Dysentery,48,124.46,Private,2025-09-10T14:10:26
+PH156,Kamrup,ORS,Diarrhea,33,59.19,Govt,2025-09-13T01:28:26
+PH990,Jorhat,Probiotics,Dysentery,12,43.69,Rural,2025-09-13T03:54:26
+PH131,Cachar,Paracetamol,Fever,16,128.67,Rural,2025-09-25T16:55:26
+PH923,Ri-Bhoi,Electrolyte Powder,Cholera,1,85.3,Govt,2025-09-24T01:21:26
+PH754,Jorhat,Anti-diarrheal,Diarrhea,27,385.92,Urban,2025-08-30T11:10:26
+PH607,Imphal West,ORS,Diarrhea,37,133.56,Rural,2025-09-20T04:39:26
+PH872,Imphal West,Paracetamol,Fever,23,45.21,Govt,2025-08-30T18:38:26
+PH228,Sonitpur,Paracetamol,Fever,44,431.19,Private,2025-09-23T23:21:26
+PH297,East Khasi Hills,Electrolyte Powder,Cholera,12,273.89,Rural,2025-08-29T17:20:26
+PH731,West Khasi Hills,Electrolyte Powder,Cholera,20,491.24,Govt,2025-09-21T19:29:26
+PH512,Sonitpur,Paracetamol,Fever,4,272.81,Govt,2025-09-06T15:04:26
+PH151,Aizawl,Probiotics,Dysentery,22,447.81,Urban,2025-09-17T11:58:26
+PH792,Imphal West,Probiotics,Dysentery,39,388.1,Govt,2025-09-15T17:29:26
+PH624,Jorhat,Probiotics,Dysentery,42,248.83,Urban,2025-09-05T04:02:26
+PH719,Kamrup,Probiotics,Dysentery,69,397.66,Govt,2025-08-30T16:28:26
+PH866,Sonitpur,ORS,Diarrhea,30,480.54,Private,2025-09-09T09:26:26
+PH103,Aizawl,Anti-diarrheal,Diarrhea,1,394.36,Urban,2025-09-06T12:23:26
+PH744,Shillong,Paracetamol,Fever,12,119.63,Govt,2025-09-08T00:57:26
+PH755,Ri-Bhoi,Antibiotics,Typhoid,34,63.38,Rural,2025-09-04T21:00:26
+PH341,West Khasi Hills,Probiotics,Dysentery,30,228.0,Govt,2025-09-08T02:31:26
+PH266,Imphal East,Electrolyte Powder,Cholera,13,438.93,Govt,2025-09-02T05:37:26
+PH439,West Khasi Hills,ORS,Diarrhea,38,20.69,Rural,2025-09-04T21:49:26
+PH799,Cachar,Antibiotics,Typhoid,47,396.25,Urban,2025-09-06T16:34:26
+PH106,Dibrugarh,ORS,Diarrhea,102,466.02,Private,2025-09-06T23:00:26
+PH530,Barpeta,Anti-diarrheal,Diarrhea,11,116.03,Urban,2025-09-13T14:33:26
+PH948,East Khasi Hills,ORS,Diarrhea,25,378.91,Urban,2025-09-22T09:07:26
+PH761,Imphal East,Antibiotics,Typhoid,17,343.44,Urban,2025-09-16T03:23:26
+PH792,West Khasi Hills,Antibiotics,Typhoid,22,211.54,Govt,2025-08-30T23:08:26
+PH465,Aizawl,Probiotics,Dysentery,31,391.74,Govt,2025-09-22T17:52:26
+PH410,Imphal East,ORS,Diarrhea,28,16.71,Rural,2025-09-16T10:05:26
+PH538,Ri-Bhoi,Electrolyte Powder,Cholera,3,482.99,Rural,2025-09-12T08:03:26
+PH884,Mokokchung,Electrolyte Powder,Cholera,4,143.12,Rural,2025-09-16T22:55:26
+PH511,Kohima,Anti-diarrheal,Diarrhea,19,191.68,Private,2025-09-23T18:53:26
+PH303,Ri-Bhoi,Probiotics,Dysentery,11,322.56,Govt,2025-09-26T16:02:26
+PH255,Kohima,Paracetamol,Fever,13,238.88,Private,2025-09-02T20:23:26
+PH646,Imphal East,Electrolyte Powder,Cholera,6,403.41,Govt,2025-09-21T08:50:26
+PH198,Ri-Bhoi,Paracetamol,Fever,50,165.1,Govt,2025-09-19T17:47:26
+PH240,Jorhat,Electrolyte Powder,Cholera,29,256.71,Rural,2025-09-13T11:53:26
+PH815,Imphal East,Probiotics,Dysentery,24,340.23,Rural,2025-09-12T12:44:26
+PH476,Kamrup,Paracetamol,Fever,1,203.26,Private,2025-09-06T05:50:26
+PH317,Barpeta,Probiotics,Dysentery,30,445.55,Private,2025-09-14T17:17:26
+PH515,East Khasi Hills,Anti-diarrheal,Diarrhea,33,393.7,Rural,2025-09-15T19:17:26
+PH594,Jorhat,Paracetamol,Fever,37,175.86,Urban,2025-09-03T03:29:26
+PH116,Kohima,Electrolyte Powder,Cholera,29,332.15,Urban,2025-09-09T14:54:26
+PH502,East Khasi Hills,Antibiotics,Typhoid,34,65.37,Rural,2025-08-29T02:39:26
+PH895,West Khasi Hills,Probiotics,Dysentery,38,118.15,Urban,2025-09-19T00:14:26
+PH756,Jorhat,Anti-diarrheal,Diarrhea,2,19.76,Private,2025-09-11T22:23:26
+PH199,Ri-Bhoi,Antibiotics,Typhoid,45,340.01,Urban,2025-09-22T13:34:26
+PH675,Kohima,Probiotics,Dysentery,37,91.38,Private,2025-09-06T03:47:26
+PH733,Barpeta,Antibiotics,Typhoid,5,308.7,Rural,2025-09-15T11:59:26
+PH503,Ri-Bhoi,Probiotics,Dysentery,44,73.38,Private,2025-09-26T21:28:26
+PH863,Shillong,Anti-diarrheal,Diarrhea,3,35.82,Govt,2025-09-09T18:04:26
+PH798,Mokokchung,Paracetamol,Fever,44,127.51,Govt,2025-09-13T06:55:26
+PH762,Mokokchung,Antibiotics,Typhoid,30,89.14,Govt,2025-09-03T18:45:26
+PH249,East Khasi Hills,ORS,Diarrhea,35,51.13,Rural,2025-09-25T10:02:26
+PH418,Sonitpur,Paracetamol,Fever,20,484.22,Rural,2025-09-09T04:08:26
+PH393,East Khasi Hills,Electrolyte Powder,Cholera,40,18.56,Urban,2025-09-01T11:35:26
+PH913,Imphal West,ORS,Diarrhea,12,462.85,Urban,2025-09-01T20:27:26
+PH262,East Khasi Hills,ORS,Diarrhea,20,70.21,Private,2025-09-18T00:11:26
+PH918,Cachar,ORS,Diarrhea,2,353.87,Govt,2025-09-17T01:34:26
+PH180,Cachar,Electrolyte Powder,Cholera,12,419.2,Rural,2025-09-03T22:59:26
+PH321,Kohima,ORS,Diarrhea,21,197.69,Rural,2025-09-08T14:50:26
+PH626,Imphal West,Antibiotics,Typhoid,11,115.16,Urban,2025-09-06T06:29:26
+PH487,Imphal East,Paracetamol,Fever,34,283.59,Govt,2025-09-07T13:28:26
+PH119,Shillong,Antibiotics,Typhoid,20,365.66,Govt,2025-09-22T11:13:26
+PH404,Cachar,Probiotics,Dysentery,33,240.82,Govt,2025-09-11T13:16:26
+PH580,Imphal East,Paracetamol,Fever,26,363.16,Private,2025-09-03T11:57:26
+PH750,Kohima,Electrolyte Powder,Cholera,25,210.95,Urban,2025-09-23T09:37:26
+PH199,Aizawl,Electrolyte Powder,Cholera,6,78.07,Private,2025-08-30T23:57:26
+PH793,Aizawl,Antibiotics,Typhoid,38,424.61,Urban,2025-09-19T19:53:26
+PH820,Sonitpur,Probiotics,Dysentery,16,431.63,Rural,2025-09-15T14:54:26
+PH608,Shillong,Antibiotics,Typhoid,49,310.23,Rural,2025-09-16T03:47:26
+PH393,East Khasi Hills,Paracetamol,Fever,24,492.01,Govt,2025-09-10T00:23:26
+PH531,Imphal West,Probiotics,Dysentery,1,153.22,Urban,2025-09-21T16:48:26
+PH547,Aizawl,Anti-diarrheal,Diarrhea,26,318.59,Private,2025-09-25T15:40:26
+PH864,West Khasi Hills,Electrolyte Powder,Cholera,48,407.44,Private,2025-09-12T15:42:26
+PH487,Cachar,Probiotics,Dysentery,20,407.92,Urban,2025-09-17T03:42:26
+PH407,Imphal West,Anti-diarrheal,Diarrhea,38,10.08,Urban,2025-09-08T23:02:26
+PH299,Sonitpur,Antibiotics,Typhoid,24,267.7,Private,2025-09-04T05:26:26
+PH304,Aizawl,ORS,Diarrhea,8,434.78,Rural,2025-09-11T22:10:26
+PH253,Dibrugarh,Electrolyte Powder,Cholera,32,387.11,Private,2025-09-08T13:01:26
+PH575,Cachar,Anti-diarrheal,Diarrhea,21,242.75,Private,2025-08-28T16:10:26
+PH804,Sonitpur,Electrolyte Powder,Cholera,43,311.08,Private,2025-09-08T03:11:26
+PH124,Mokokchung,Probiotics,Dysentery,22,111.77,Private,2025-09-12T19:56:26
+PH627,East Khasi Hills,Anti-diarrheal,Diarrhea,12,307.34,Govt,2025-09-10T09:26:26
+PH354,Imphal East,Antibiotics,Typhoid,37,473.16,Rural,2025-09-24T08:59:26
+PH792,Cachar,Electrolyte Powder,Cholera,40,16.02,Govt,2025-09-12T22:53:26
+PH747,Dibrugarh,Antibiotics,Typhoid,19,494.79,Urban,2025-09-08T16:20:26
+PH685,Mokokchung,Anti-diarrheal,Diarrhea,35,300.81,Govt,2025-09-16T06:03:26
+PH433,Shillong,ORS,Diarrhea,11,363.88,Urban,2025-09-12T00:26:26
+PH792,Kohima,Anti-diarrheal,Diarrhea,19,31.07,Govt,2025-08-30T01:50:26
+PH669,Cachar,Antibiotics,Typhoid,36,357.23,Rural,2025-09-20T00:21:26
+PH986,Jorhat,Paracetamol,Fever,30,237.07,Rural,2025-09-16T13:00:26
+PH830,Cachar,Antibiotics,Typhoid,13,244.9,Rural,2025-09-13T15:24:26
+PH338,Dibrugarh,Antibiotics,Typhoid,111,497.2,Private,2025-09-02T19:21:26
+PH994,Ri-Bhoi,Electrolyte Powder,Cholera,4,168.24,Urban,2025-09-05T13:57:26
+PH314,Mokokchung,Paracetamol,Fever,16,382.4,Rural,2025-09-06T03:36:26
+PH336,Barpeta,Probiotics,Dysentery,29,158.32,Private,2025-09-06T20:49:26
+PH553,Kohima,Antibiotics,Typhoid,31,198.22,Rural,2025-09-22T04:43:26
+PH461,East Khasi Hills,Anti-diarrheal,Diarrhea,14,161.47,Private,2025-09-22T11:00:26
+PH279,Barpeta,Paracetamol,Fever,3,124.92,Urban,2025-09-26T03:38:26
+PH267,Ri-Bhoi,Antibiotics,Typhoid,45,335.46,Private,2025-09-06T20:36:26
+PH847,Sonitpur,Anti-diarrheal,Diarrhea,22,166.51,Urban,2025-09-11T00:51:26
+PH269,Ri-Bhoi,Antibiotics,Typhoid,9,207.25,Govt,2025-09-19T07:18:26
+PH117,Jorhat,Antibiotics,Typhoid,34,190.13,Urban,2025-09-12T07:40:26
+PH684,Mokokchung,ORS,Diarrhea,49,420.67,Rural,2025-09-26T21:47:26
+PH451,Kohima,Anti-diarrheal,Diarrhea,8,448.2,Govt,2025-09-26T14:00:26
+PH113,Cachar,Probiotics,Dysentery,39,88.83,Govt,2025-09-18T08:31:26
+PH334,Imphal East,Paracetamol,Fever,15,343.41,Govt,2025-09-10T06:45:26
+PH492,West Khasi Hills,Antibiotics,Typhoid,16,100.64,Rural,2025-09-18T22:03:26
+PH925,Sonitpur,Electrolyte Powder,Cholera,46,445.13,Private,2025-09-10T21:13:26
+PH950,Shillong,Anti-diarrheal,Diarrhea,15,372.38,Urban,2025-09-01T19:34:26
+PH512,Kamrup,Probiotics,Dysentery,16,55.53,Private,2025-09-10T16:55:26
+PH259,Aizawl,ORS,Diarrhea,15,464.18,Govt,2025-09-22T21:14:26
+PH697,Jorhat,Antibiotics,Typhoid,42,168.68,Govt,2025-09-14T10:29:26
+PH343,Shillong,Anti-diarrheal,Diarrhea,39,411.93,Govt,2025-09-01T05:38:26
+PH340,Dibrugarh,Electrolyte Powder,Cholera,52,220.98,Private,2025-09-19T22:23:26
+PH857,Shillong,Electrolyte Powder,Cholera,40,435.41,Urban,2025-09-15T11:55:26
+PH504,Jorhat,ORS,Diarrhea,24,139.6,Rural,2025-09-06T22:11:26
+PH184,Barpeta,Paracetamol,Fever,47,401.71,Private,2025-09-14T08:21:26
+PH865,Mokokchung,Anti-diarrheal,Diarrhea,33,229.48,Govt,2025-08-31T22:50:26
+PH974,Shillong,Anti-diarrheal,Diarrhea,21,174.6,Govt,2025-09-20T11:29:26
+PH772,Kamrup,Electrolyte Powder,Cholera,132,277.3,Rural,2025-09-08T20:23:26
+PH115,Aizawl,Paracetamol,Fever,33,76.01,Rural,2025-08-31T10:06:26
+PH119,Kamrup,Electrolyte Powder,Cholera,18,231.01,Govt,2025-09-13T20:17:26
+PH225,Mokokchung,Electrolyte Powder,Cholera,48,242.44,Private,2025-09-22T01:34:26
+PH490,Dibrugarh,Probiotics,Dysentery,1,104.69,Urban,2025-09-10T15:43:26
+PH925,Ri-Bhoi,Paracetamol,Fever,22,339.65,Govt,2025-09-04T19:15:26
+PH290,Cachar,Electrolyte Powder,Cholera,50,467.02,Private,2025-08-27T12:48:26
+PH435,Kohima,Electrolyte Powder,Cholera,13,499.19,Govt,2025-09-17T01:49:26
+PH408,Dibrugarh,Anti-diarrheal,Diarrhea,7,482.51,Private,2025-09-03T09:51:26
+PH915,Sonitpur,Antibiotics,Typhoid,44,256.87,Rural,2025-08-30T09:07:26
+PH139,Jorhat,ORS,Diarrhea,27,90.02,Govt,2025-09-11T04:23:26
+PH812,Jorhat,Electrolyte Powder,Cholera,22,269.84,Govt,2025-09-03T20:00:26
+PH147,West Khasi Hills,Probiotics,Dysentery,29,127.37,Private,2025-09-25T21:15:26
+PH236,East Khasi Hills,ORS,Diarrhea,37,301.05,Urban,2025-09-01T06:51:26
+PH156,Sonitpur,ORS,Diarrhea,27,215.18,Urban,2025-08-29T10:03:26
+PH691,East Khasi Hills,Antibiotics,Typhoid,43,155.15,Rural,2025-09-04T10:46:26
+PH863,Sonitpur,Paracetamol,Fever,7,21.55,Govt,2025-09-24T02:13:26
+PH377,Mokokchung,Probiotics,Dysentery,6,187.85,Private,2025-09-05T21:12:26
+PH110,Jorhat,Antibiotics,Typhoid,11,145.41,Private,2025-09-05T10:47:26
+PH529,East Khasi Hills,Anti-diarrheal,Diarrhea,37,182.51,Rural,2025-09-05T12:08:26
+PH907,Sonitpur,Electrolyte Powder,Cholera,6,20.57,Rural,2025-09-13T06:19:26
+PH760,Imphal West,Paracetamol,Fever,12,225.52,Govt,2025-08-31T03:36:26
+PH424,Imphal West,Anti-diarrheal,Diarrhea,19,109.77,Urban,2025-09-08T13:08:26
+PH106,Barpeta,Probiotics,Dysentery,37,404.42,Rural,2025-09-17T18:51:26
+PH659,Dibrugarh,ORS,Diarrhea,34,365.24,Private,2025-09-16T18:27:26
+PH740,Aizawl,Antibiotics,Typhoid,32,354.39,Rural,2025-08-30T14:57:26
+PH981,West Khasi Hills,Electrolyte Powder,Cholera,1,106.73,Private,2025-09-25T22:41:26
+PH847,Barpeta,Antibiotics,Typhoid,8,428.55,Govt,2025-08-29T18:02:26
+PH570,Dibrugarh,Paracetamol,Fever,16,148.33,Private,2025-09-26T02:15:26
+PH179,Imphal West,Probiotics,Dysentery,22,417.17,Urban,2025-09-09T17:55:26
+PH920,Imphal East,ORS,Diarrhea,5,292.04,Govt,2025-09-03T19:00:26
+PH349,Barpeta,Paracetamol,Fever,13,87.44,Urban,2025-09-07T05:48:26
+PH983,Cachar,Paracetamol,Fever,22,90.87,Govt,2025-09-20T00:42:26
+PH893,Barpeta,Antibiotics,Typhoid,38,452.34,Urban,2025-09-05T05:14:26
+PH561,Sonitpur,Probiotics,Dysentery,32,330.99,Govt,2025-09-09T21:42:26
+PH164,Ri-Bhoi,Probiotics,Dysentery,10,334.77,Govt,2025-08-28T02:34:26
+PH310,Dibrugarh,Antibiotics,Typhoid,24,137.59,Urban,2025-09-11T05:46:26
+PH644,Aizawl,Probiotics,Dysentery,28,214.06,Rural,2025-09-19T20:44:26
+PH372,Imphal West,Probiotics,Dysentery,27,341.07,Private,2025-09-12T08:09:26
+PH766,Dibrugarh,ORS,Diarrhea,56,107.13,Govt,2025-09-17T14:21:26
+PH774,Mokokchung,Probiotics,Dysentery,6,156.59,Govt,2025-09-06T02:04:26
+PH318,Dibrugarh,Paracetamol,Fever,22,166.19,Rural,2025-09-05T03:04:26
+PH805,West Khasi Hills,Electrolyte Powder,Cholera,32,67.97,Rural,2025-09-22T00:32:26
+PH256,Barpeta,Probiotics,Dysentery,33,281.95,Private,2025-08-30T07:39:26
+PH118,Kamrup,Probiotics,Dysentery,87,14.83,Rural,2025-09-06T18:07:26
+PH686,West Khasi Hills,Antibiotics,Typhoid,18,217.61,Urban,2025-09-08T14:28:26
+PH767,Dibrugarh,ORS,Diarrhea,88,219.77,Rural,2025-08-27T17:20:26
+PH189,Jorhat,Paracetamol,Fever,38,497.58,Urban,2025-09-04T05:07:26
+PH191,Mokokchung,Probiotics,Dysentery,16,262.3,Rural,2025-08-31T01:00:26
+PH162,Jorhat,Probiotics,Dysentery,33,450.78,Govt,2025-09-04T04:24:26
+PH359,Imphal East,Paracetamol,Fever,41,491.56,Private,2025-09-05T19:13:26
+PH891,Ri-Bhoi,Antibiotics,Typhoid,26,423.33,Rural,2025-09-06T09:39:26
+PH858,Kamrup,Probiotics,Dysentery,30,345.68,Rural,2025-09-11T03:54:26
+PH670,West Khasi Hills,Paracetamol,Fever,40,31.09,Govt,2025-09-09T22:05:26
+PH467,Kohima,ORS,Diarrhea,50,211.63,Private,2025-09-14T14:19:26
+PH857,East Khasi Hills,ORS,Diarrhea,24,247.19,Private,2025-09-19T14:26:26
+PH512,Imphal West,Probiotics,Dysentery,47,431.38,Rural,2025-08-31T12:46:26
+PH212,Shillong,ORS,Diarrhea,29,22.87,Private,2025-08-31T07:41:26
+PH510,Kamrup,Antibiotics,Typhoid,17,142.67,Rural,2025-09-18T23:07:26
+PH965,West Khasi Hills,Paracetamol,Fever,21,424.02,Private,2025-09-26T22:04:26
+PH233,Kamrup,Anti-diarrheal,Diarrhea,10,483.06,Private,2025-09-13T09:02:26
+PH558,Mokokchung,Electrolyte Powder,Cholera,5,166.04,Govt,2025-09-03T11:50:26
+PH260,Imphal East,Probiotics,Dysentery,22,332.05,Private,2025-09-24T08:20:26
+PH607,Mokokchung,Electrolyte Powder,Cholera,10,494.46,Govt,2025-09-02T08:10:26
+PH839,Jorhat,Paracetamol,Fever,17,415.2,Rural,2025-09-25T19:33:26
+PH176,Sonitpur,Electrolyte Powder,Cholera,20,65.18,Private,2025-09-10T07:30:26
+PH220,Cachar,Paracetamol,Fever,10,306.86,Govt,2025-09-01T19:00:26
+PH744,Imphal East,Electrolyte Powder,Cholera,34,11.15,Urban,2025-09-11T06:37:26
+PH377,Imphal East,Paracetamol,Fever,43,282.28,Private,2025-09-25T01:51:26
+PH423,Ri-Bhoi,Probiotics,Dysentery,18,403.0,Govt,2025-09-10T10:30:26
+PH413,Shillong,Antibiotics,Typhoid,1,406.39,Urban,2025-09-25T14:29:26
+PH828,Imphal East,Probiotics,Dysentery,14,431.36,Rural,2025-09-07T13:02:26
+PH200,Mokokchung,Paracetamol,Fever,10,217.09,Rural,2025-08-31T12:20:26
+PH392,Jorhat,Anti-diarrheal,Diarrhea,19,283.03,Urban,2025-09-18T19:57:26
+PH486,Jorhat,ORS,Diarrhea,2,355.39,Rural,2025-09-20T07:43:26
+PH707,Barpeta,Probiotics,Dysentery,34,331.74,Private,2025-09-10T13:46:26
+PH217,Kohima,ORS,Diarrhea,32,236.33,Urban,2025-09-23T19:10:26
+PH504,Ri-Bhoi,Anti-diarrheal,Diarrhea,44,279.91,Urban,2025-09-07T07:30:26
+PH699,Barpeta,ORS,Diarrhea,30,415.33,Rural,2025-09-11T22:53:26
+PH545,Imphal West,Anti-diarrheal,Diarrhea,20,381.88,Private,2025-09-03T11:18:26
+PH883,Jorhat,Electrolyte Powder,Cholera,5,140.29,Private,2025-09-22T14:44:26
+PH922,Kohima,Antibiotics,Typhoid,50,207.11,Private,2025-09-09T16:16:26
+PH794,Dibrugarh,Anti-diarrheal,Diarrhea,40,72.77,Private,2025-09-04T09:34:26
+PH941,East Khasi Hills,ORS,Diarrhea,29,202.4,Urban,2025-09-14T22:38:26
+PH954,Barpeta,Probiotics,Dysentery,37,476.18,Urban,2025-08-31T01:38:26
+PH281,Sonitpur,Anti-diarrheal,Diarrhea,4,420.2,Urban,2025-09-24T06:08:26
+PH596,Cachar,ORS,Diarrhea,11,201.85,Private,2025-09-09T05:37:26
+PH232,Dibrugarh,Probiotics,Dysentery,15,102.59,Govt,2025-09-09T22:23:26
+PH501,Barpeta,Antibiotics,Typhoid,18,424.72,Private,2025-09-14T00:32:26
+PH953,Ri-Bhoi,Electrolyte Powder,Cholera,30,472.93,Private,2025-08-28T17:28:26
+PH717,Sonitpur,Antibiotics,Typhoid,6,226.42,Rural,2025-09-04T05:20:26
+PH227,Kamrup,ORS,Diarrhea,55,156.42,Rural,2025-09-04T16:26:26
+PH323,Dibrugarh,Probiotics,Dysentery,22,401.53,Govt,2025-09-06T10:30:26
+PH866,Imphal East,Anti-diarrheal,Diarrhea,1,226.84,Rural,2025-08-30T09:41:26
+PH673,Imphal West,Antibiotics,Typhoid,2,110.06,Govt,2025-09-21T18:26:26
+PH653,Imphal East,Antibiotics,Typhoid,42,447.09,Rural,2025-09-14T11:27:26
+PH173,Cachar,ORS,Diarrhea,41,81.91,Urban,2025-09-05T09:37:26
+PH894,Imphal West,Antibiotics,Typhoid,28,103.27,Rural,2025-09-16T03:04:26
+PH332,Sonitpur,Paracetamol,Fever,19,438.2,Rural,2025-09-16T10:55:26
+PH855,Kamrup,Paracetamol,Fever,104,324.93,Rural,2025-09-13T04:24:26
+PH847,Mokokchung,Antibiotics,Typhoid,43,128.34,Private,2025-09-04T22:05:26
+PH393,Kohima,Anti-diarrheal,Diarrhea,41,51.95,Private,2025-09-03T05:01:26
+PH586,Barpeta,Electrolyte Powder,Cholera,36,45.71,Rural,2025-09-16T21:24:26
+PH985,Sonitpur,Anti-diarrheal,Diarrhea,47,242.54,Govt,2025-09-22T21:04:26
+PH908,Barpeta,Anti-diarrheal,Diarrhea,20,466.7,Private,2025-09-03T17:38:26
+PH140,Kamrup,ORS,Diarrhea,8,440.33,Rural,2025-09-02T13:20:26
+PH684,Dibrugarh,ORS,Diarrhea,7,271.15,Rural,2025-09-15T09:46:26
+PH343,Aizawl,ORS,Diarrhea,27,55.66,Rural,2025-09-15T01:23:26
+PH245,Ri-Bhoi,Anti-diarrheal,Diarrhea,35,183.19,Govt,2025-09-13T03:13:26
+PH385,Sonitpur,Antibiotics,Typhoid,27,334.36,Rural,2025-09-10T18:16:26
+PH856,Jorhat,Electrolyte Powder,Cholera,46,116.81,Urban,2025-09-21T03:15:26
+PH171,Jorhat,Anti-diarrheal,Diarrhea,5,407.93,Govt,2025-09-16T16:22:26
+PH285,Ri-Bhoi,Paracetamol,Fever,2,275.97,Private,2025-09-16T09:20:26
+PH419,West Khasi Hills,Anti-diarrheal,Diarrhea,35,307.63,Private,2025-09-17T16:55:26
+PH208,Imphal West,Electrolyte Powder,Cholera,21,412.18,Urban,2025-09-15T02:48:26
+PH901,Barpeta,ORS,Diarrhea,41,269.99,Rural,2025-09-21T12:18:26
+PH380,Ri-Bhoi,ORS,Diarrhea,7,346.85,Govt,2025-09-23T05:05:26
+PH333,Ri-Bhoi,ORS,Diarrhea,30,137.49,Urban,2025-09-18T04:58:26
+PH561,Kohima,Probiotics,Dysentery,5,459.04,Rural,2025-09-23T23:45:26
+PH883,Imphal East,Electrolyte Powder,Cholera,40,346.83,Govt,2025-09-12T07:33:26
+PH740,Mokokchung,Paracetamol,Fever,37,415.32,Govt,2025-09-19T14:14:26
+PH395,Shillong,ORS,Diarrhea,42,193.77,Govt,2025-09-18T23:51:26
+PH238,Imphal West,Paracetamol,Fever,50,478.96,Private,2025-09-16T19:14:26
+PH645,East Khasi Hills,Probiotics,Dysentery,46,341.97,Urban,2025-09-19T12:20:26
+PH563,Aizawl,Anti-diarrheal,Diarrhea,34,287.76,Govt,2025-09-09T06:41:26
+PH648,Dibrugarh,Probiotics,Dysentery,42,23.24,Urban,2025-09-02T12:31:26
+PH968,Mokokchung,Probiotics,Dysentery,25,459.27,Urban,2025-09-04T22:27:26
+PH869,Sonitpur,Probiotics,Dysentery,32,281.71,Rural,2025-09-11T10:16:26
+PH861,Barpeta,Paracetamol,Fever,50,126.9,Rural,2025-09-01T04:49:26
+PH430,Kohima,Antibiotics,Typhoid,3,85.63,Urban,2025-09-16T17:39:26
+PH296,Kamrup,Electrolyte Powder,Cholera,29,160.73,Urban,2025-08-28T19:22:26
+PH605,Barpeta,Electrolyte Powder,Cholera,39,421.21,Govt,2025-09-01T15:58:26
+PH436,East Khasi Hills,Probiotics,Dysentery,32,465.94,Govt,2025-08-27T03:07:26
+PH940,Imphal West,Anti-diarrheal,Diarrhea,24,475.71,Urban,2025-09-07T16:40:26
+PH881,Shillong,ORS,Diarrhea,8,175.49,Rural,2025-08-30T10:21:26
+PH839,Barpeta,Anti-diarrheal,Diarrhea,18,472.72,Private,2025-09-14T04:17:26
+PH124,Aizawl,Paracetamol,Fever,43,37.52,Govt,2025-09-24T14:29:26
+PH115,Aizawl,ORS,Diarrhea,16,359.2,Urban,2025-09-16T05:20:26
+PH377,Mokokchung,Paracetamol,Fever,25,182.19,Private,2025-08-29T21:34:26
+PH368,Dibrugarh,Anti-diarrheal,Diarrhea,6,109.75,Govt,2025-09-17T00:44:26
+PH694,Aizawl,ORS,Diarrhea,3,456.54,Private,2025-09-16T01:59:26
+PH282,Ri-Bhoi,Paracetamol,Fever,4,286.49,Urban,2025-09-07T19:19:26
+PH387,Kohima,Anti-diarrheal,Diarrhea,24,268.56,Private,2025-09-03T11:29:26
+PH763,Sonitpur,Electrolyte Powder,Cholera,16,226.42,Govt,2025-09-22T18:59:26
+PH625,Aizawl,Paracetamol,Fever,6,214.73,Private,2025-09-06T23:36:26
+PH972,Dibrugarh,Electrolyte Powder,Cholera,28,246.42,Private,2025-09-05T03:22:26
+PH794,Kohima,Paracetamol,Fever,46,182.86,Rural,2025-08-31T05:41:26
+PH578,Kamrup,Paracetamol,Fever,18,338.13,Urban,2025-09-17T05:13:26
+PH394,Imphal West,ORS,Diarrhea,12,143.2,Private,2025-09-09T05:26:26
+PH155,Imphal West,Probiotics,Dysentery,49,422.63,Private,2025-09-12T12:31:26
+PH364,Imphal West,Paracetamol,Fever,48,255.64,Private,2025-08-28T11:04:26
+PH802,Barpeta,ORS,Diarrhea,27,122.16,Urban,2025-09-18T23:05:26
+PH833,East Khasi Hills,Paracetamol,Fever,44,45.69,Govt,2025-09-06T17:51:26
+PH637,Imphal East,Probiotics,Dysentery,28,243.91,Urban,2025-09-08T15:24:26
+PH412,Cachar,Antibiotics,Typhoid,35,164.67,Urban,2025-09-09T03:32:26
+PH707,Imphal West,Electrolyte Powder,Cholera,36,250.76,Private,2025-09-07T08:00:26
+PH809,Ri-Bhoi,Paracetamol,Fever,13,301.78,Urban,2025-09-03T02:17:26
+PH797,Mokokchung,Probiotics,Dysentery,33,312.94,Govt,2025-09-11T16:06:26
+PH731,Ri-Bhoi,Anti-diarrheal,Diarrhea,4,413.12,Govt,2025-09-18T19:30:26
+PH159,East Khasi Hills,Probiotics,Dysentery,24,443.24,Private,2025-09-16T08:48:26
+PH890,West Khasi Hills,Paracetamol,Fever,11,437.86,Govt,2025-09-04T17:45:26
+PH678,Dibrugarh,Antibiotics,Typhoid,41,369.13,Urban,2025-09-13T13:56:26
+PH517,Imphal West,ORS,Diarrhea,34,254.08,Rural,2025-09-10T15:17:26
+PH830,Dibrugarh,Antibiotics,Typhoid,42,381.29,Urban,2025-09-18T14:17:26
+PH993,Imphal East,Antibiotics,Typhoid,50,213.93,Private,2025-08-26T23:52:26
+PH318,Mokokchung,Probiotics,Dysentery,17,285.39,Private,2025-09-25T10:43:26
+PH543,Mokokchung,ORS,Diarrhea,7,435.04,Private,2025-09-20T20:24:26
+PH612,Dibrugarh,ORS,Diarrhea,77,238.1,Urban,2025-09-13T22:21:26
+PH759,Dibrugarh,ORS,Diarrhea,37,174.74,Private,2025-09-26T03:20:26
+PH349,West Khasi Hills,Probiotics,Dysentery,2,354.87,Govt,2025-09-15T04:44:26
+PH785,Aizawl,Probiotics,Dysentery,9,76.69,Govt,2025-08-27T01:19:26
+PH487,Ri-Bhoi,Electrolyte Powder,Cholera,4,317.63,Govt,2025-09-03T03:12:26
+PH986,Shillong,Paracetamol,Fever,19,48.16,Private,2025-09-09T20:48:26
+PH773,Imphal East,ORS,Diarrhea,1,328.22,Urban,2025-09-08T02:47:26
+PH121,East Khasi Hills,Anti-diarrheal,Diarrhea,13,179.32,Rural,2025-09-24T08:43:26
+PH724,Barpeta,Paracetamol,Fever,21,172.31,Rural,2025-09-06T22:34:26
+PH809,Shillong,Probiotics,Dysentery,29,112.65,Rural,2025-09-02T14:09:26
+PH542,Sonitpur,Anti-diarrheal,Diarrhea,2,455.94,Private,2025-09-22T04:12:26
+PH934,East Khasi Hills,Electrolyte Powder,Cholera,23,224.28,Rural,2025-09-20T02:26:26
+PH511,Barpeta,ORS,Diarrhea,15,344.37,Rural,2025-09-17T17:50:26
+PH323,Aizawl,Probiotics,Dysentery,7,405.97,Rural,2025-09-02T04:55:26
+PH988,Ri-Bhoi,Antibiotics,Typhoid,47,221.01,Govt,2025-09-24T15:53:26
+PH235,Jorhat,Antibiotics,Typhoid,41,390.69,Urban,2025-09-16T09:03:26
+PH318,East Khasi Hills,ORS,Diarrhea,44,176.63,Rural,2025-09-05T06:41:26
+PH665,Cachar,Paracetamol,Fever,8,127.71,Private,2025-09-11T09:00:26
+PH835,Cachar,ORS,Diarrhea,14,363.32,Urban,2025-09-25T19:24:26
+PH981,Shillong,Antibiotics,Typhoid,11,424.72,Rural,2025-09-26T16:10:26
+PH518,Mokokchung,Paracetamol,Fever,38,161.69,Private,2025-09-17T22:20:26
+PH775,Shillong,Anti-diarrheal,Diarrhea,31,239.78,Rural,2025-09-04T07:24:26
+PH903,Dibrugarh,ORS,Diarrhea,2,394.75,Govt,2025-09-10T22:39:26
+PH397,Dibrugarh,Paracetamol,Fever,30,282.78,Govt,2025-09-24T11:19:26
+PH285,Shillong,ORS,Diarrhea,13,244.53,Urban,2025-09-10T08:31:26
+PH482,Mokokchung,Antibiotics,Typhoid,8,238.06,Govt,2025-09-14T05:35:26
+PH646,West Khasi Hills,Anti-diarrheal,Diarrhea,12,390.58,Rural,2025-08-29T05:10:26
+PH998,Shillong,Antibiotics,Typhoid,21,32.96,Govt,2025-09-12T17:39:26
+PH881,Imphal West,Paracetamol,Fever,10,466.96,Urban,2025-09-08T09:03:26
+PH800,Kamrup,Antibiotics,Typhoid,137,250.6,Rural,2025-09-14T21:19:26
+PH612,Cachar,ORS,Diarrhea,7,350.57,Urban,2025-09-21T17:06:26
+PH700,Imphal East,Antibiotics,Typhoid,39,74.66,Rural,2025-09-11T14:55:26
+PH973,Dibrugarh,Electrolyte Powder,Cholera,39,405.57,Urban,2025-08-29T13:36:26
+PH257,West Khasi Hills,Paracetamol,Fever,29,151.56,Govt,2025-09-13T07:58:26
+PH845,Aizawl,Anti-diarrheal,Diarrhea,45,326.54,Private,2025-09-20T10:19:26
+PH286,Mokokchung,Anti-diarrheal,Diarrhea,43,202.31,Govt,2025-09-15T17:48:26
+PH302,Imphal East,Probiotics,Dysentery,39,134.45,Rural,2025-09-20T07:35:26
+PH718,Kohima,Paracetamol,Fever,6,210.75,Rural,2025-09-09T07:23:26
+PH819,Sonitpur,ORS,Diarrhea,7,397.31,Private,2025-09-03T18:23:26
+PH653,Imphal West,Electrolyte Powder,Cholera,4,65.51,Urban,2025-09-13T01:14:26
+PH303,Imphal East,Electrolyte Powder,Cholera,35,329.92,Govt,2025-08-31T16:44:26
+PH886,Barpeta,ORS,Diarrhea,5,441.23,Urban,2025-09-07T22:19:26
+PH174,Sonitpur,Anti-diarrheal,Diarrhea,12,68.34,Urban,2025-08-27T18:27:26
+PH120,East Khasi Hills,Antibiotics,Typhoid,8,254.74,Private,2025-09-06T04:48:26
+PH355,Ri-Bhoi,ORS,Diarrhea,16,470.96,Urban,2025-08-27T16:44:26
+PH252,West Khasi Hills,Antibiotics,Typhoid,8,231.88,Private,2025-09-13T03:25:26
+PH668,Dibrugarh,Antibiotics,Typhoid,41,274.14,Private,2025-09-16T12:36:26
+PH548,Dibrugarh,ORS,Diarrhea,67,308.83,Urban,2025-09-14T23:43:26
+PH662,Jorhat,Paracetamol,Fever,50,308.93,Urban,2025-08-27T18:52:26
+PH552,Imphal West,Anti-diarrheal,Diarrhea,45,236.76,Private,2025-09-21T09:25:26
+PH964,Jorhat,Electrolyte Powder,Cholera,29,119.97,Urban,2025-09-11T09:13:26
+PH393,West Khasi Hills,Antibiotics,Typhoid,18,30.71,Urban,2025-09-05T17:22:26
+PH205,Ri-Bhoi,Probiotics,Dysentery,31,405.79,Rural,2025-09-20T00:59:26
+PH258,Cachar,Probiotics,Dysentery,25,123.25,Private,2025-09-20T04:59:26
+PH786,Imphal West,Probiotics,Dysentery,32,39.65,Private,2025-09-17T15:09:26
+PH291,Sonitpur,ORS,Diarrhea,38,482.16,Rural,2025-09-15T13:11:26
+PH343,Shillong,Anti-diarrheal,Diarrhea,8,43.58,Govt,2025-09-13T09:35:26
+PH681,Imphal West,Paracetamol,Fever,2,314.53,Rural,2025-08-28T01:25:26
+PH661,Aizawl,Electrolyte Powder,Cholera,40,63.76,Private,2025-09-22T16:19:26
+PH508,Jorhat,ORS,Diarrhea,35,119.95,Urban,2025-08-30T12:07:26
+PH809,West Khasi Hills,Antibiotics,Typhoid,9,341.43,Govt,2025-08-28T19:51:26
+PH918,Barpeta,Electrolyte Powder,Cholera,43,266.52,Private,2025-08-31T23:51:26
+PH890,Sonitpur,Probiotics,Dysentery,38,162.46,Govt,2025-09-21T13:29:26
+PH406,Shillong,Electrolyte Powder,Cholera,31,376.29,Rural,2025-09-15T09:09:26
+PH110,Jorhat,Antibiotics,Typhoid,34,11.88,Private,2025-09-03T13:15:26
+PH928,Barpeta,Antibiotics,Typhoid,14,222.77,Urban,2025-09-24T00:10:26
+PH482,Kohima,Probiotics,Dysentery,35,257.99,Govt,2025-09-26T02:08:26
+PH311,Dibrugarh,Anti-diarrheal,Diarrhea,26,131.11,Urban,2025-08-27T10:31:26
+PH604,Dibrugarh,Anti-diarrheal,Diarrhea,66,330.29,Private,2025-08-26T23:21:26
+PH435,Kamrup,Antibiotics,Typhoid,8,97.4,Private,2025-09-24T13:06:26
+PH551,Shillong,Anti-diarrheal,Diarrhea,4,10.2,Rural,2025-08-28T03:30:26
+PH808,West Khasi Hills,Antibiotics,Typhoid,29,314.24,Private,2025-09-26T16:13:26
+PH324,Cachar,Antibiotics,Typhoid,6,455.72,Private,2025-09-03T06:23:26
+PH746,Imphal West,Antibiotics,Typhoid,41,23.75,Private,2025-09-24T07:39:26
+PH692,Jorhat,Anti-diarrheal,Diarrhea,4,198.69,Rural,2025-09-08T04:53:26
+PH138,Kohima,ORS,Diarrhea,14,146.7,Urban,2025-09-07T16:59:26
+PH161,Imphal East,ORS,Diarrhea,6,208.87,Urban,2025-09-19T18:10:26
+PH562,Barpeta,ORS,Diarrhea,25,394.39,Private,2025-08-26T23:09:26
+PH934,Barpeta,Anti-diarrheal,Diarrhea,48,455.38,Private,2025-09-26T17:17:26
+PH829,Barpeta,Antibiotics,Typhoid,28,141.42,Urban,2025-09-15T14:51:26
+PH911,Jorhat,Anti-diarrheal,Diarrhea,17,95.17,Govt,2025-09-15T14:58:26
+PH738,Sonitpur,Paracetamol,Fever,16,134.33,Govt,2025-08-27T07:15:26
+PH757,Imphal West,ORS,Diarrhea,21,83.62,Urban,2025-09-09T13:25:26
+PH644,Dibrugarh,ORS,Diarrhea,69,123.71,Urban,2025-08-27T23:30:26
+PH327,Dibrugarh,Probiotics,Dysentery,129,182.74,Urban,2025-09-12T14:40:26
+PH314,East Khasi Hills,Antibiotics,Typhoid,6,302.37,Rural,2025-09-23T22:53:26
+PH275,Jorhat,Electrolyte Powder,Cholera,10,224.45,Govt,2025-09-22T06:47:26
+PH524,Jorhat,Paracetamol,Fever,24,250.78,Govt,2025-09-25T00:17:26
+PH974,East Khasi Hills,Anti-diarrheal,Diarrhea,14,233.72,Rural,2025-08-29T07:39:26
+PH247,Sonitpur,Electrolyte Powder,Cholera,36,268.52,Govt,2025-08-29T22:04:26
+PH773,Mokokchung,Probiotics,Dysentery,8,48.96,Rural,2025-08-31T00:30:26
+PH112,Barpeta,Anti-diarrheal,Diarrhea,13,40.03,Private,2025-08-31T08:18:26
+PH882,Kamrup,Antibiotics,Typhoid,85,51.11,Rural,2025-09-22T13:09:26
+PH250,Kamrup,Probiotics,Dysentery,77,66.29,Rural,2025-08-27T11:11:26
+PH724,Kamrup,Electrolyte Powder,Cholera,48,116.05,Rural,2025-09-03T05:45:26
+PH825,Kohima,Probiotics,Dysentery,24,357.06,Rural,2025-08-27T00:22:26
+PH165,East Khasi Hills,ORS,Diarrhea,28,71.41,Urban,2025-09-23T00:49:26
+PH437,Sonitpur,Antibiotics,Typhoid,2,158.22,Rural,2025-08-28T05:27:26
+PH842,Imphal West,Probiotics,Dysentery,6,329.53,Urban,2025-09-10T05:12:26
+PH478,Imphal West,Antibiotics,Typhoid,8,111.4,Rural,2025-09-15T01:35:26
+PH638,Shillong,ORS,Diarrhea,9,490.16,Private,2025-09-11T00:50:26
+PH113,Imphal West,Probiotics,Dysentery,40,480.56,Private,2025-09-04T10:19:26
+PH461,Barpeta,Antibiotics,Typhoid,23,492.84,Govt,2025-09-21T00:56:26
+PH590,Cachar,Electrolyte Powder,Cholera,19,132.06,Private,2025-09-15T09:08:26
+PH130,Mokokchung,ORS,Diarrhea,48,433.8,Urban,2025-09-02T06:37:26
+PH838,Kamrup,Antibiotics,Typhoid,107,419.83,Govt,2025-09-25T18:00:26
+PH879,Jorhat,Paracetamol,Fever,15,353.24,Private,2025-08-30T20:31:26
+PH411,Mokokchung,Antibiotics,Typhoid,34,477.17,Rural,2025-09-12T20:44:26
+PH782,Jorhat,Anti-diarrheal,Diarrhea,25,493.75,Rural,2025-09-07T07:58:26
+PH341,Imphal West,Electrolyte Powder,Cholera,14,400.55,Rural,2025-09-11T11:23:26
+PH201,Imphal West,Paracetamol,Fever,42,263.82,Private,2025-09-05T02:32:26
+PH324,Mokokchung,Probiotics,Dysentery,34,289.33,Govt,2025-09-16T02:49:26
+PH893,Barpeta,Antibiotics,Typhoid,39,270.59,Private,2025-09-04T15:03:26
+PH711,West Khasi Hills,ORS,Diarrhea,30,458.25,Urban,2025-09-04T13:03:26
+PH763,Kohima,Paracetamol,Fever,8,361.17,Govt,2025-09-07T20:03:26
+PH123,Sonitpur,Paracetamol,Fever,10,492.63,Urban,2025-09-02T00:30:26
+PH129,Mokokchung,Paracetamol,Fever,50,374.77,Govt,2025-09-17T13:56:26
+PH326,Dibrugarh,Anti-diarrheal,Diarrhea,96,487.92,Govt,2025-09-24T10:22:26
+PH481,East Khasi Hills,Paracetamol,Fever,39,306.58,Private,2025-09-17T07:35:26
+PH968,Jorhat,Electrolyte Powder,Cholera,21,246.63,Urban,2025-09-15T02:04:26
+PH412,West Khasi Hills,Paracetamol,Fever,4,180.81,Private,2025-09-01T20:48:26
+PH315,Imphal West,ORS,Diarrhea,46,180.71,Rural,2025-09-03T18:06:26
+PH862,East Khasi Hills,Anti-diarrheal,Diarrhea,38,309.57,Urban,2025-09-13T18:34:26
+PH738,Imphal East,Paracetamol,Fever,36,159.85,Govt,2025-09-06T06:42:26
+PH256,Sonitpur,Probiotics,Dysentery,41,110.18,Urban,2025-09-22T21:12:26
+PH458,Imphal West,Electrolyte Powder,Cholera,5,322.28,Private,2025-09-03T16:43:26
+PH325,East Khasi Hills,Paracetamol,Fever,41,38.76,Private,2025-08-27T13:03:26
+PH931,Shillong,Paracetamol,Fever,29,50.96,Private,2025-09-13T13:40:26
+PH392,Kohima,Antibiotics,Typhoid,16,294.28,Govt,2025-08-30T07:54:26
+PH466,Shillong,Anti-diarrheal,Diarrhea,25,348.81,Urban,2025-08-29T23:30:26
+PH295,Jorhat,ORS,Diarrhea,7,161.54,Urban,2025-09-05T05:39:26
+PH697,Aizawl,Antibiotics,Typhoid,11,108.44,Govt,2025-09-26T22:53:26
+PH709,Aizawl,Paracetamol,Fever,42,84.99,Private,2025-09-14T12:14:26
+PH108,Sonitpur,Probiotics,Dysentery,22,207.75,Private,2025-09-24T03:34:26
+PH834,Mokokchung,ORS,Diarrhea,38,449.59,Urban,2025-09-21T21:04:26
+PH924,Shillong,Paracetamol,Fever,21,127.65,Govt,2025-09-04T18:23:26
+PH505,Mokokchung,Electrolyte Powder,Cholera,33,293.43,Rural,2025-09-09T20:42:26
+PH536,Cachar,Antibiotics,Typhoid,41,380.8,Urban,2025-09-09T23:01:26
+PH290,Shillong,Paracetamol,Fever,30,212.24,Urban,2025-09-13T15:07:26
+PH123,Ri-Bhoi,Probiotics,Dysentery,17,229.15,Rural,2025-09-07T22:25:26
+PH677,Ri-Bhoi,ORS,Diarrhea,37,459.98,Rural,2025-09-12T22:05:26
+PH584,Kamrup,ORS,Diarrhea,3,73.38,Rural,2025-09-11T23:30:26
+PH155,Aizawl,Probiotics,Dysentery,39,16.44,Private,2025-09-25T19:23:26
+PH576,Imphal West,Probiotics,Dysentery,20,340.55,Rural,2025-09-14T12:24:26
+PH203,Jorhat,Paracetamol,Fever,26,448.82,Govt,2025-09-22T23:32:26
+PH566,Imphal West,ORS,Diarrhea,37,444.9,Urban,2025-09-01T03:50:26
+PH878,West Khasi Hills,Electrolyte Powder,Cholera,9,495.94,Private,2025-09-06T12:08:26
+PH919,Jorhat,Antibiotics,Typhoid,33,432.24,Govt,2025-08-31T05:57:26
+PH121,Dibrugarh,Electrolyte Powder,Cholera,36,143.45,Rural,2025-08-28T11:58:26
+PH865,Aizawl,ORS,Diarrhea,28,173.86,Urban,2025-09-07T06:04:26
+PH617,East Khasi Hills,Anti-diarrheal,Diarrhea,28,183.78,Govt,2025-09-08T07:00:26
+PH782,Barpeta,Electrolyte Powder,Cholera,44,253.64,Govt,2025-09-04T23:21:26
+PH755,Mokokchung,Anti-diarrheal,Diarrhea,13,394.94,Urban,2025-09-19T10:19:26
+PH310,West Khasi Hills,ORS,Diarrhea,34,227.09,Govt,2025-09-12T23:14:26
+PH797,Cachar,Paracetamol,Fever,35,393.61,Private,2025-09-06T12:27:26
+PH653,Dibrugarh,Antibiotics,Typhoid,43,177.15,Urban,2025-09-06T12:52:26
+PH876,Sonitpur,Antibiotics,Typhoid,48,293.05,Private,2025-09-25T20:17:26
+PH533,Imphal East,Paracetamol,Fever,49,245.5,Private,2025-09-07T18:51:26
+PH112,Dibrugarh,Electrolyte Powder,Cholera,23,371.66,Govt,2025-09-06T22:10:26
+PH603,Mokokchung,Paracetamol,Fever,44,468.72,Private,2025-09-13T07:50:26
+PH339,Barpeta,Electrolyte Powder,Cholera,33,81.66,Urban,2025-09-14T22:26:26
+PH685,West Khasi Hills,Probiotics,Dysentery,28,156.29,Govt,2025-09-10T16:22:26
+PH132,Shillong,Probiotics,Dysentery,26,233.96,Private,2025-09-01T18:04:26
+PH723,Imphal East,Probiotics,Dysentery,30,475.47,Rural,2025-09-01T15:52:26
+PH622,Jorhat,Anti-diarrheal,Diarrhea,40,331.35,Rural,2025-09-18T13:17:26
+PH541,East Khasi Hills,Paracetamol,Fever,19,402.06,Urban,2025-08-29T06:41:26
+PH487,West Khasi Hills,Probiotics,Dysentery,21,112.39,Rural,2025-09-01T16:17:26
+PH785,Cachar,Paracetamol,Fever,27,353.29,Urban,2025-09-10T02:35:26

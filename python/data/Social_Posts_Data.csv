@@ -1,0 +1,501 @@
+postId,district,platform,content,sentiment,reach,timeStamp
+S0001,Imphal East,Facebook,People in Imphal East complaining about dirty water and cases of Hepatitis A.,Neutral,Low,2025-09-07T22:40:26
+S0002,Mokokchung,Twitter,Is the water safe in Mokokchung? Many have symptoms like Muscle cramps.,Positive,Medium,2025-09-10T22:09:26
+S0003,Kamrup,Facebook,"🚨 Outbreak alert! Many people in Kamrup are suffering from Typhoid, showing Headache.",Positive,Low,2025-09-25T19:11:26
+S0004,Shillong,Twitter,People in Shillong complaining about dirty water and cases of Typhoid.,Negative,High,2025-09-07T03:04:26
+S0005,Ri-Bhoi,Whatsapp,People in Ri-Bhoi complaining about dirty water and cases of Typhoid.,Negative,Low,2025-09-17T18:47:26
+S0006,Imphal West,Facebook,Shortage of Probiotics reported in Imphal West pharmacies.,Negative,Medium,2025-08-31T15:22:26
+S0007,East Khasi Hills,News,Is the water safe in East Khasi Hills? Many have symptoms like Stomach cramps.,Negative,Low,2025-09-01T01:10:26
+S0008,Kohima,Whatsapp,Rumors spreading on WhatsApp in Kohima about unsafe drinking water.,Negative,Low,2025-09-26T16:27:26
+S0009,Imphal West,Forum,Is the water safe in Imphal West? Many have symptoms like Fever.,Negative,Medium,2025-08-30T10:14:26
+S0010,West Khasi Hills,Twitter,Hospitals in West Khasi Hills are seeing more patients with Hepatitis A.,Negative,Low,2025-09-14T04:26:26
+S0011,Dibrugarh,Forum,Is the water safe in Dibrugarh? Many have symptoms like Bloody diarrhea.,Neutral,Medium,2025-08-30T05:50:26
+S0012,Imphal West,News,Awareness camp in Imphal West about preventing Dysentery.,Positive,Low,2025-08-30T05:19:26
+S0013,West Khasi Hills,Facebook,People in West Khasi Hills complaining about dirty water and cases of Diarrhea.,Positive,Medium,2025-09-16T19:47:26
+S0014,Aizawl,Facebook,People in Aizawl complaining about dirty water and cases of Cholera.,Positive,High,2025-08-31T23:14:26
+S0015,Sonitpur,Facebook,Shortage of ORS reported in Sonitpur pharmacies.,Neutral,Medium,2025-09-08T02:28:26
+S0016,Barpeta,Facebook,Rumors spreading on WhatsApp in Barpeta about unsafe drinking water.,Positive,Medium,2025-09-15T16:38:26
+S0017,Aizawl,Forum,Hospitals in Aizawl are seeing more patients with Cholera.,Positive,High,2025-09-20T08:20:26
+S0018,Kamrup,News,Rumors spreading on WhatsApp in Kamrup about unsafe drinking water.,Neutral,Low,2025-09-23T08:08:26
+S0019,Aizawl,Whatsapp,Rumors spreading on WhatsApp in Aizawl about unsafe drinking water.,Neutral,Medium,2025-09-23T14:56:26
+S0020,Shillong,Forum,Shortage of Electrolyte Powder reported in Shillong pharmacies.,Positive,Medium,2025-09-23T23:35:26
+S0021,Jorhat,Forum,People in Jorhat complaining about dirty water and cases of Dysentery.,Positive,High,2025-09-11T16:01:26
+S0022,Ri-Bhoi,Whatsapp,Awareness camp in Ri-Bhoi about preventing Typhoid.,Neutral,Low,2025-09-11T08:09:26
+S0023,Sonitpur,Forum,Hospitals in Sonitpur are seeing more patients with Typhoid.,Positive,Low,2025-09-14T20:00:26
+S0024,Barpeta,News,Awareness camp in Barpeta about preventing Dysentery.,Positive,Low,2025-09-24T11:22:26
+S0025,Imphal West,Whatsapp,Shortage of Electrolyte Powder reported in Imphal West pharmacies.,Positive,Medium,2025-08-28T23:08:26
+S0026,Jorhat,Twitter,Rumors spreading on WhatsApp in Jorhat about unsafe drinking water.,Neutral,Medium,2025-09-26T17:28:26
+S0027,Imphal West,Whatsapp,Awareness camp in Imphal West about preventing Typhoid.,Positive,Low,2025-09-15T16:06:26
+S0028,Mokokchung,Forum,Is the water safe in Mokokchung? Many have symptoms like Headache.,Positive,Low,2025-09-22T13:10:26
+S0029,Kohima,Whatsapp,People in Kohima complaining about dirty water and cases of Typhoid.,Negative,Medium,2025-08-28T11:44:26
+S0030,Sonitpur,News,Shortage of ORS reported in Sonitpur pharmacies.,Neutral,Medium,2025-09-03T00:46:26
+S0031,Ri-Bhoi,Forum,Shortage of Anti-diarrheal reported in Ri-Bhoi pharmacies.,Negative,Low,2025-09-22T17:00:26
+S0032,Sonitpur,News,Shortage of Paracetamol reported in Sonitpur pharmacies.,Negative,High,2025-09-18T01:56:26
+S0033,Ri-Bhoi,Whatsapp,Shortage of ORS reported in Ri-Bhoi pharmacies.,Neutral,Medium,2025-09-15T00:15:26
+S0034,Mokokchung,Whatsapp,Hospitals in Mokokchung are seeing more patients with Cholera.,Negative,Medium,2025-09-10T06:02:26
+S0035,Dibrugarh,News,Hospitals in Dibrugarh are seeing more patients with Typhoid.,Positive,Low,2025-09-02T08:42:26
+S0036,Imphal West,Whatsapp,Hospitals in Imphal West are seeing more patients with Dysentery.,Positive,Low,2025-09-21T21:11:26
+S0037,Barpeta,Facebook,Awareness camp in Barpeta about preventing Cholera.,Negative,Low,2025-09-23T20:48:26
+S0038,Cachar,Twitter,Awareness camp in Cachar about preventing Diarrhea.,Negative,High,2025-08-28T11:36:26
+S0039,West Khasi Hills,News,Awareness camp in West Khasi Hills about preventing Diarrhea.,Negative,Medium,2025-09-05T09:10:26
+S0040,Cachar,Facebook,People in Cachar complaining about dirty water and cases of Dysentery.,Neutral,High,2025-09-18T06:52:26
+S0041,Shillong,Whatsapp,Is the water safe in Shillong? Many have symptoms like Bloody diarrhea.,Positive,High,2025-09-03T04:46:26
+S0042,East Khasi Hills,Twitter,Hospitals in East Khasi Hills are seeing more patients with Typhoid.,Positive,High,2025-09-22T15:12:26
+S0043,Cachar,Whatsapp,Shortage of Paracetamol reported in Cachar pharmacies.,Negative,High,2025-09-22T19:04:26
+S0044,East Khasi Hills,Twitter,Shortage of ORS reported in East Khasi Hills pharmacies.,Neutral,Medium,2025-08-29T14:43:26
+S0045,Sonitpur,News,People in Sonitpur complaining about dirty water and cases of Hepatitis A.,Neutral,Low,2025-08-27T05:51:26
+S0046,Imphal East,Whatsapp,Shortage of ORS reported in Imphal East pharmacies.,Positive,Low,2025-09-26T00:37:26
+S0047,Sonitpur,Twitter,Shortage of Electrolyte Powder reported in Sonitpur pharmacies.,Positive,Low,2025-09-23T19:44:26
+S0048,Barpeta,Facebook,Hospitals in Barpeta are seeing more patients with Cholera.,Neutral,High,2025-08-29T06:04:26
+S0049,Ri-Bhoi,Twitter,Shortage of ORS reported in Ri-Bhoi pharmacies.,Positive,Low,2025-09-05T00:31:26
+S0050,Kamrup,News,"🚨 Outbreak alert! Many people in Kamrup are suffering from Hepatitis A, showing Dark urine.",Positive,High,2025-09-22T00:58:26
+S0051,Jorhat,Twitter,Awareness camp in Jorhat about preventing Cholera.,Negative,Low,2025-09-24T21:49:26
+S0052,Cachar,News,Hospitals in Cachar are seeing more patients with Diarrhea.,Neutral,High,2025-09-02T23:52:26
+S0053,Kamrup,Whatsapp,Shortage of Antibiotics reported in Kamrup pharmacies.,Positive,Medium,2025-09-14T09:39:26
+S0054,Mokokchung,Whatsapp,Rumors spreading on WhatsApp in Mokokchung about unsafe drinking water.,Neutral,High,2025-09-08T01:35:26
+S0055,Sonitpur,Whatsapp,Shortage of Antibiotics reported in Sonitpur pharmacies.,Positive,Low,2025-08-27T16:54:26
+S0056,Imphal West,Whatsapp,People in Imphal West complaining about dirty water and cases of Dysentery.,Positive,High,2025-09-24T15:32:26
+S0057,Ri-Bhoi,News,Awareness camp in Ri-Bhoi about preventing Dysentery.,Negative,Low,2025-09-09T04:22:26
+S0058,Barpeta,Facebook,Awareness camp in Barpeta about preventing Dysentery.,Neutral,Medium,2025-09-11T22:01:26
+S0059,Sonitpur,Twitter,Shortage of ORS reported in Sonitpur pharmacies.,Negative,Medium,2025-09-24T10:48:26
+S0060,Imphal West,Whatsapp,People in Imphal West complaining about dirty water and cases of Cholera.,Negative,Low,2025-09-02T19:00:26
+S0061,Aizawl,News,Shortage of Antibiotics reported in Aizawl pharmacies.,Positive,High,2025-09-17T11:55:26
+S0062,Kamrup,Whatsapp,People in Kamrup complaining about dirty water and cases of Cholera.,Positive,High,2025-08-28T05:54:26
+S0063,Barpeta,Forum,People in Barpeta complaining about dirty water and cases of Diarrhea.,Negative,Low,2025-09-21T09:58:26
+S0064,Sonitpur,Whatsapp,People in Sonitpur complaining about dirty water and cases of Hepatitis A.,Neutral,Medium,2025-09-11T19:45:26
+S0065,Kamrup,Whatsapp,"🚨 Outbreak alert! Many people in Kamrup are suffering from Diarrhea, showing Stomach cramps.",Negative,High,2025-08-28T20:42:26
+S0066,Jorhat,Whatsapp,Is the water safe in Jorhat? Many have symptoms like Headache.,Positive,Medium,2025-09-19T20:28:26
+S0067,West Khasi Hills,Facebook,Is the water safe in West Khasi Hills? Many have symptoms like Abdominal pain.,Negative,High,2025-08-28T12:50:26
+S0068,Sonitpur,Facebook,Shortage of Electrolyte Powder reported in Sonitpur pharmacies.,Negative,Medium,2025-09-15T09:26:26
+S0069,Cachar,Facebook,Shortage of Probiotics reported in Cachar pharmacies.,Positive,Medium,2025-09-20T15:39:26
+S0070,Kamrup,Twitter,"🚨 Outbreak alert! Many people in Kamrup are suffering from Typhoid, showing Weakness.",Neutral,Medium,2025-08-29T14:40:26
+S0071,Shillong,Twitter,Shortage of ORS reported in Shillong pharmacies.,Negative,Medium,2025-09-24T12:07:26
+S0072,Dibrugarh,Forum,"🚨 Outbreak alert! Many people in Dibrugarh are suffering from Dysentery, showing Bloody diarrhea.",Positive,Low,2025-09-22T13:25:26
+S0073,Ri-Bhoi,Forum,Shortage of Electrolyte Powder reported in Ri-Bhoi pharmacies.,Positive,Medium,2025-09-16T18:30:26
+S0074,Imphal East,Twitter,Awareness camp in Imphal East about preventing Cholera.,Negative,High,2025-09-22T05:23:26
+S0075,Kohima,Forum,Rumors spreading on WhatsApp in Kohima about unsafe drinking water.,Positive,Medium,2025-09-21T22:54:26
+S0076,Jorhat,News,Is the water safe in Jorhat? Many have symptoms like Loose stools.,Neutral,Low,2025-09-17T01:28:26
+S0077,Ri-Bhoi,Whatsapp,Hospitals in Ri-Bhoi are seeing more patients with Cholera.,Negative,Low,2025-09-05T12:36:26
+S0078,Kohima,News,Shortage of Anti-diarrheal reported in Kohima pharmacies.,Negative,Low,2025-09-23T16:16:26
+S0079,Dibrugarh,Forum,Is the water safe in Dibrugarh? Many have symptoms like Dark urine.,Neutral,High,2025-09-20T15:50:26
+S0080,Aizawl,Forum,Hospitals in Aizawl are seeing more patients with Hepatitis A.,Negative,Low,2025-09-04T09:14:26
+S0081,Kamrup,Forum,Shortage of Probiotics reported in Kamrup pharmacies.,Neutral,Medium,2025-09-10T13:49:26
+S0082,Kohima,Twitter,Hospitals in Kohima are seeing more patients with Diarrhea.,Negative,High,2025-09-10T18:18:26
+S0083,Jorhat,Whatsapp,People in Jorhat complaining about dirty water and cases of Hepatitis A.,Neutral,High,2025-08-29T12:17:26
+S0084,Kohima,Whatsapp,People in Kohima complaining about dirty water and cases of Diarrhea.,Negative,Medium,2025-08-31T00:32:26
+S0085,Kohima,Whatsapp,Is the water safe in Kohima? Many have symptoms like Muscle cramps.,Neutral,High,2025-09-23T04:23:26
+S0086,East Khasi Hills,Whatsapp,Awareness camp in East Khasi Hills about preventing Cholera.,Positive,Low,2025-08-30T00:21:26
+S0087,Jorhat,Forum,Rumors spreading on WhatsApp in Jorhat about unsafe drinking water.,Positive,High,2025-08-28T16:52:26
+S0088,Ri-Bhoi,Forum,Awareness camp in Ri-Bhoi about preventing Cholera.,Negative,High,2025-09-14T01:55:26
+S0089,Aizawl,Twitter,Awareness camp in Aizawl about preventing Dysentery.,Neutral,Low,2025-08-28T09:17:26
+S0090,Barpeta,Whatsapp,Rumors spreading on WhatsApp in Barpeta about unsafe drinking water.,Positive,High,2025-09-12T18:55:26
+S0091,Dibrugarh,News,"🚨 Outbreak alert! Many people in Dibrugarh are suffering from Hepatitis A, showing Dark urine.",Positive,Low,2025-09-01T12:36:26
+S0092,Mokokchung,Facebook,Rumors spreading on WhatsApp in Mokokchung about unsafe drinking water.,Positive,High,2025-08-30T06:22:26
+S0093,Imphal East,Twitter,Hospitals in Imphal East are seeing more patients with Diarrhea.,Neutral,High,2025-09-16T09:04:26
+S0094,Jorhat,News,Is the water safe in Jorhat? Many have symptoms like Abdominal pain.,Positive,Low,2025-09-24T00:52:26
+S0095,Ri-Bhoi,Facebook,Is the water safe in Ri-Bhoi? Many have symptoms like Abdominal pain.,Negative,Medium,2025-09-11T18:03:26
+S0096,Cachar,Whatsapp,Hospitals in Cachar are seeing more patients with Diarrhea.,Positive,Low,2025-09-01T00:12:26
+S0097,Cachar,Facebook,Is the water safe in Cachar? Many have symptoms like Fever.,Neutral,Low,2025-09-09T01:28:26
+S0098,Ri-Bhoi,Facebook,Rumors spreading on WhatsApp in Ri-Bhoi about unsafe drinking water.,Positive,Medium,2025-08-31T06:22:26
+S0099,Aizawl,News,Is the water safe in Aizawl? Many have symptoms like Weakness.,Neutral,Low,2025-09-02T10:32:26
+S0100,West Khasi Hills,News,People in West Khasi Hills complaining about dirty water and cases of Diarrhea.,Negative,High,2025-09-24T05:31:26
+S0101,Ri-Bhoi,Forum,Awareness camp in Ri-Bhoi about preventing Cholera.,Positive,High,2025-09-10T09:10:26
+S0102,West Khasi Hills,Whatsapp,Awareness camp in West Khasi Hills about preventing Dysentery.,Neutral,Low,2025-09-23T10:24:26
+S0103,Dibrugarh,News,Is the water safe in Dibrugarh? Many have symptoms like Vomiting.,Neutral,Low,2025-09-22T07:08:26
+S0104,East Khasi Hills,Forum,Rumors spreading on WhatsApp in East Khasi Hills about unsafe drinking water.,Positive,Low,2025-09-05T04:15:26
+S0105,Dibrugarh,News,Is the water safe in Dibrugarh? Many have symptoms like Abdominal pain.,Negative,Low,2025-09-01T17:43:26
+S0106,Barpeta,Forum,Is the water safe in Barpeta? Many have symptoms like Abdominal pain.,Positive,High,2025-09-07T00:17:26
+S0107,Cachar,Whatsapp,Awareness camp in Cachar about preventing Diarrhea.,Neutral,Low,2025-09-02T16:38:26
+S0108,Kohima,News,Shortage of Antibiotics reported in Kohima pharmacies.,Negative,Medium,2025-09-20T02:10:26
+S0109,Dibrugarh,Whatsapp,Rumors spreading on WhatsApp in Dibrugarh about unsafe drinking water.,Negative,Medium,2025-08-29T18:08:26
+S0110,Sonitpur,Forum,Hospitals in Sonitpur are seeing more patients with Dysentery.,Neutral,High,2025-09-25T03:51:26
+S0111,Aizawl,Twitter,Awareness camp in Aizawl about preventing Diarrhea.,Neutral,Low,2025-09-21T13:27:26
+S0112,Imphal West,Forum,Is the water safe in Imphal West? Many have symptoms like Abdominal pain.,Negative,High,2025-09-24T20:48:26
+S0113,Shillong,Twitter,Awareness camp in Shillong about preventing Typhoid.,Negative,Low,2025-08-29T08:05:26
+S0114,East Khasi Hills,News,Rumors spreading on WhatsApp in East Khasi Hills about unsafe drinking water.,Neutral,Medium,2025-08-27T13:17:26
+S0115,Shillong,Forum,People in Shillong complaining about dirty water and cases of Diarrhea.,Positive,Low,2025-09-07T13:57:26
+S0116,Sonitpur,Twitter,Is the water safe in Sonitpur? Many have symptoms like Dark urine.,Positive,High,2025-09-14T13:50:26
+S0117,Barpeta,News,People in Barpeta complaining about dirty water and cases of Dysentery.,Neutral,Low,2025-09-25T16:04:26
+S0118,Dibrugarh,Facebook,"🚨 Outbreak alert! Many people in Dibrugarh are suffering from Diarrhea, showing Loose stools.",Negative,High,2025-09-12T17:35:26
+S0119,Ri-Bhoi,Facebook,Rumors spreading on WhatsApp in Ri-Bhoi about unsafe drinking water.,Positive,Low,2025-09-12T15:09:26
+S0120,Shillong,Forum,Awareness camp in Shillong about preventing Hepatitis A.,Negative,High,2025-09-13T05:42:26
+S0121,Dibrugarh,Forum,"🚨 Outbreak alert! Many people in Dibrugarh are suffering from Typhoid, showing Fever.",Neutral,High,2025-09-06T23:34:26
+S0122,Ri-Bhoi,Facebook,People in Ri-Bhoi complaining about dirty water and cases of Typhoid.,Positive,Low,2025-09-15T19:02:26
+S0123,Shillong,Twitter,Rumors spreading on WhatsApp in Shillong about unsafe drinking water.,Negative,Low,2025-09-10T08:09:26
+S0124,Imphal West,Forum,Hospitals in Imphal West are seeing more patients with Diarrhea.,Negative,Medium,2025-08-30T11:37:26
+S0125,Aizawl,Facebook,Shortage of Anti-diarrheal reported in Aizawl pharmacies.,Positive,Low,2025-09-25T04:04:26
+S0126,West Khasi Hills,News,Awareness camp in West Khasi Hills about preventing Cholera.,Neutral,Medium,2025-09-20T07:51:26
+S0127,Dibrugarh,News,Rumors spreading on WhatsApp in Dibrugarh about unsafe drinking water.,Neutral,Low,2025-09-07T16:30:26
+S0128,Cachar,Whatsapp,Rumors spreading on WhatsApp in Cachar about unsafe drinking water.,Neutral,Low,2025-09-08T06:46:26
+S0129,Barpeta,News,Awareness camp in Barpeta about preventing Cholera.,Negative,Medium,2025-09-09T19:07:26
+S0130,Jorhat,Twitter,People in Jorhat complaining about dirty water and cases of Dysentery.,Positive,Medium,2025-09-21T22:28:26
+S0131,Aizawl,Whatsapp,Awareness camp in Aizawl about preventing Cholera.,Positive,Medium,2025-09-06T22:47:26
+S0132,Imphal West,Whatsapp,Awareness camp in Imphal West about preventing Hepatitis A.,Neutral,Medium,2025-09-02T10:36:26
+S0133,Imphal West,Whatsapp,Hospitals in Imphal West are seeing more patients with Dysentery.,Neutral,Medium,2025-09-25T22:45:26
+S0134,Kamrup,Facebook,Awareness camp in Kamrup about preventing Hepatitis A.,Neutral,Medium,2025-09-21T15:53:26
+S0135,Imphal East,News,People in Imphal East complaining about dirty water and cases of Dysentery.,Positive,Medium,2025-09-20T23:17:26
+S0136,Mokokchung,Whatsapp,Rumors spreading on WhatsApp in Mokokchung about unsafe drinking water.,Neutral,Low,2025-08-31T19:31:26
+S0137,Imphal West,Facebook,People in Imphal West complaining about dirty water and cases of Hepatitis A.,Positive,High,2025-09-07T10:00:26
+S0138,Mokokchung,News,Is the water safe in Mokokchung? Many have symptoms like Fatigue.,Positive,Low,2025-09-16T10:48:26
+S0139,West Khasi Hills,Forum,Hospitals in West Khasi Hills are seeing more patients with Dysentery.,Negative,Medium,2025-08-30T09:34:26
+S0140,Mokokchung,Forum,Awareness camp in Mokokchung about preventing Cholera.,Neutral,High,2025-08-29T21:14:26
+S0141,Sonitpur,Whatsapp,People in Sonitpur complaining about dirty water and cases of Dysentery.,Neutral,Medium,2025-09-06T00:08:26
+S0142,Imphal West,Whatsapp,Rumors spreading on WhatsApp in Imphal West about unsafe drinking water.,Negative,Medium,2025-09-13T00:30:26
+S0143,Barpeta,News,Awareness camp in Barpeta about preventing Dysentery.,Negative,Low,2025-09-18T08:36:26
+S0144,Sonitpur,Whatsapp,Shortage of ORS reported in Sonitpur pharmacies.,Positive,Low,2025-09-10T18:03:26
+S0145,Imphal East,Facebook,Shortage of Anti-diarrheal reported in Imphal East pharmacies.,Neutral,High,2025-09-03T09:47:26
+S0146,Imphal East,Forum,Rumors spreading on WhatsApp in Imphal East about unsafe drinking water.,Negative,Low,2025-09-26T10:54:26
+S0147,Barpeta,Whatsapp,Rumors spreading on WhatsApp in Barpeta about unsafe drinking water.,Positive,Medium,2025-09-16T11:31:26
+S0148,Imphal West,Whatsapp,Hospitals in Imphal West are seeing more patients with Diarrhea.,Negative,High,2025-09-08T03:08:26
+S0149,Aizawl,Forum,Rumors spreading on WhatsApp in Aizawl about unsafe drinking water.,Positive,High,2025-09-25T10:57:26
+S0150,West Khasi Hills,Whatsapp,Hospitals in West Khasi Hills are seeing more patients with Cholera.,Negative,Medium,2025-09-16T08:37:26
+S0151,East Khasi Hills,Whatsapp,Shortage of ORS reported in East Khasi Hills pharmacies.,Neutral,Medium,2025-09-09T05:48:26
+S0152,West Khasi Hills,News,Hospitals in West Khasi Hills are seeing more patients with Diarrhea.,Neutral,High,2025-09-09T06:00:26
+S0153,Ri-Bhoi,Facebook,Awareness camp in Ri-Bhoi about preventing Hepatitis A.,Negative,High,2025-09-18T09:05:26
+S0154,Sonitpur,Twitter,Rumors spreading on WhatsApp in Sonitpur about unsafe drinking water.,Neutral,Medium,2025-09-21T16:05:26
+S0155,East Khasi Hills,Whatsapp,Awareness camp in East Khasi Hills about preventing Typhoid.,Negative,Low,2025-09-26T02:31:26
+S0156,Cachar,News,Awareness camp in Cachar about preventing Cholera.,Positive,Medium,2025-09-11T07:27:26
+S0157,Dibrugarh,Facebook,Rumors spreading on WhatsApp in Dibrugarh about unsafe drinking water.,Negative,Low,2025-09-05T16:35:26
+S0158,Mokokchung,Whatsapp,Hospitals in Mokokchung are seeing more patients with Hepatitis A.,Neutral,Low,2025-08-27T22:37:26
+S0159,Imphal West,Facebook,People in Imphal West complaining about dirty water and cases of Dysentery.,Negative,Medium,2025-09-01T19:09:26
+S0160,Imphal West,Facebook,People in Imphal West complaining about dirty water and cases of Diarrhea.,Negative,Medium,2025-09-11T17:25:26
+S0161,Kamrup,Facebook,"🚨 Outbreak alert! Many people in Kamrup are suffering from Cholera, showing Watery diarrhea.",Negative,Low,2025-09-20T16:25:26
+S0162,Mokokchung,Whatsapp,Shortage of Anti-diarrheal reported in Mokokchung pharmacies.,Neutral,Low,2025-08-31T11:27:26
+S0163,Kohima,Twitter,People in Kohima complaining about dirty water and cases of Dysentery.,Negative,High,2025-09-14T21:44:26
+S0164,Kamrup,Twitter,Hospitals in Kamrup are seeing more patients with Dysentery.,Positive,Medium,2025-09-23T02:09:26
+S0165,Sonitpur,News,People in Sonitpur complaining about dirty water and cases of Dysentery.,Neutral,Low,2025-08-31T16:45:26
+S0166,East Khasi Hills,News,Hospitals in East Khasi Hills are seeing more patients with Diarrhea.,Negative,High,2025-08-29T21:00:26
+S0167,Dibrugarh,News,"🚨 Outbreak alert! Many people in Dibrugarh are suffering from Hepatitis A, showing Dark urine.",Negative,Low,2025-09-15T14:07:26
+S0168,Imphal East,News,People in Imphal East complaining about dirty water and cases of Hepatitis A.,Negative,High,2025-08-30T19:32:26
+S0169,Kamrup,Whatsapp,Rumors spreading on WhatsApp in Kamrup about unsafe drinking water.,Negative,Medium,2025-09-23T15:27:26
+S0170,Ri-Bhoi,Whatsapp,Is the water safe in Ri-Bhoi? Many have symptoms like Vomiting.,Negative,High,2025-09-26T08:42:26
+S0171,Kohima,Whatsapp,Shortage of ORS reported in Kohima pharmacies.,Positive,High,2025-09-05T02:07:26
+S0172,Mokokchung,Forum,Awareness camp in Mokokchung about preventing Diarrhea.,Negative,High,2025-09-02T18:20:26
+S0173,East Khasi Hills,Forum,People in East Khasi Hills complaining about dirty water and cases of Dysentery.,Positive,Low,2025-08-30T15:46:26
+S0174,East Khasi Hills,Twitter,People in East Khasi Hills complaining about dirty water and cases of Cholera.,Negative,High,2025-09-25T06:42:26
+S0175,Kohima,News,People in Kohima complaining about dirty water and cases of Typhoid.,Neutral,Medium,2025-09-12T21:27:26
+S0176,West Khasi Hills,Whatsapp,Awareness camp in West Khasi Hills about preventing Typhoid.,Neutral,Medium,2025-09-02T22:02:26
+S0177,Sonitpur,Forum,Awareness camp in Sonitpur about preventing Cholera.,Positive,High,2025-08-29T07:41:26
+S0178,Kohima,Facebook,Hospitals in Kohima are seeing more patients with Hepatitis A.,Neutral,Low,2025-09-16T13:11:26
+S0179,Imphal East,Forum,People in Imphal East complaining about dirty water and cases of Hepatitis A.,Neutral,Low,2025-09-14T08:24:26
+S0180,Aizawl,Forum,Hospitals in Aizawl are seeing more patients with Dysentery.,Neutral,Medium,2025-08-31T17:32:26
+S0181,Shillong,Whatsapp,Awareness camp in Shillong about preventing Dysentery.,Positive,High,2025-09-08T05:36:26
+S0182,Dibrugarh,Facebook,Hospitals in Dibrugarh are seeing more patients with Typhoid.,Neutral,High,2025-09-06T10:49:26
+S0183,Barpeta,Forum,Hospitals in Barpeta are seeing more patients with Cholera.,Negative,Medium,2025-09-02T16:48:26
+S0184,Shillong,Facebook,Shortage of Antibiotics reported in Shillong pharmacies.,Neutral,High,2025-09-22T08:34:26
+S0185,Sonitpur,Forum,Rumors spreading on WhatsApp in Sonitpur about unsafe drinking water.,Neutral,High,2025-09-06T15:05:26
+S0186,East Khasi Hills,Forum,Awareness camp in East Khasi Hills about preventing Diarrhea.,Negative,Medium,2025-09-05T16:22:26
+S0187,West Khasi Hills,Forum,Awareness camp in West Khasi Hills about preventing Typhoid.,Negative,Medium,2025-09-06T21:24:26
+S0188,Mokokchung,Forum,Hospitals in Mokokchung are seeing more patients with Typhoid.,Neutral,Medium,2025-09-25T04:20:26
+S0189,Kamrup,Whatsapp,Rumors spreading on WhatsApp in Kamrup about unsafe drinking water.,Negative,High,2025-08-30T12:55:26
+S0190,Sonitpur,Twitter,Rumors spreading on WhatsApp in Sonitpur about unsafe drinking water.,Negative,High,2025-09-03T15:25:26
+S0191,Kohima,Whatsapp,Awareness camp in Kohima about preventing Diarrhea.,Neutral,Medium,2025-09-03T09:57:26
+S0192,Kamrup,News,Hospitals in Kamrup are seeing more patients with Diarrhea.,Negative,Low,2025-09-24T23:37:26
+S0193,Mokokchung,Whatsapp,People in Mokokchung complaining about dirty water and cases of Typhoid.,Negative,High,2025-09-18T00:02:26
+S0194,Ri-Bhoi,Twitter,People in Ri-Bhoi complaining about dirty water and cases of Dysentery.,Negative,Low,2025-08-31T11:55:26
+S0195,West Khasi Hills,Whatsapp,Rumors spreading on WhatsApp in West Khasi Hills about unsafe drinking water.,Positive,High,2025-09-19T19:03:26
+S0196,Cachar,Facebook,Hospitals in Cachar are seeing more patients with Dysentery.,Negative,Medium,2025-09-22T12:47:26
+S0197,Kamrup,Facebook,Is the water safe in Kamrup? Many have symptoms like Bloody diarrhea.,Negative,Low,2025-09-12T14:49:26
+S0198,East Khasi Hills,Whatsapp,People in East Khasi Hills complaining about dirty water and cases of Typhoid.,Positive,Low,2025-09-24T12:41:26
+S0199,Kohima,Whatsapp,Is the water safe in Kohima? Many have symptoms like Fever.,Positive,Medium,2025-09-21T18:53:26
+S0200,Jorhat,Whatsapp,Hospitals in Jorhat are seeing more patients with Diarrhea.,Neutral,Medium,2025-08-31T23:34:26
+S0201,Barpeta,News,Shortage of Electrolyte Powder reported in Barpeta pharmacies.,Negative,High,2025-09-22T11:29:26
+S0202,Imphal West,News,Awareness camp in Imphal West about preventing Dysentery.,Neutral,High,2025-09-04T19:26:26
+S0203,Sonitpur,Facebook,Hospitals in Sonitpur are seeing more patients with Hepatitis A.,Negative,Low,2025-09-19T11:11:26
+S0204,Sonitpur,Facebook,Shortage of Anti-diarrheal reported in Sonitpur pharmacies.,Negative,High,2025-09-03T23:31:26
+S0205,Kamrup,Forum,Awareness camp in Kamrup about preventing Typhoid.,Negative,Low,2025-08-28T04:17:26
+S0206,Sonitpur,News,Shortage of Electrolyte Powder reported in Sonitpur pharmacies.,Positive,Low,2025-09-17T12:30:26
+S0207,East Khasi Hills,Facebook,Is the water safe in East Khasi Hills? Many have symptoms like Nausea.,Positive,Medium,2025-09-20T19:42:26
+S0208,Ri-Bhoi,Whatsapp,Awareness camp in Ri-Bhoi about preventing Dysentery.,Positive,Medium,2025-09-04T02:34:26
+S0209,Dibrugarh,News,"🚨 Outbreak alert! Many people in Dibrugarh are suffering from Dysentery, showing Fever.",Negative,Medium,2025-09-24T19:28:26
+S0210,Dibrugarh,Twitter,Rumors spreading on WhatsApp in Dibrugarh about unsafe drinking water.,Negative,Low,2025-09-04T23:23:26
+S0211,East Khasi Hills,Forum,Hospitals in East Khasi Hills are seeing more patients with Cholera.,Negative,Medium,2025-09-19T15:28:26
+S0212,Imphal East,Whatsapp,Shortage of Electrolyte Powder reported in Imphal East pharmacies.,Negative,Medium,2025-09-17T06:32:26
+S0213,Sonitpur,Forum,Hospitals in Sonitpur are seeing more patients with Typhoid.,Negative,Medium,2025-09-04T01:22:26
+S0214,Imphal West,Facebook,Shortage of Antibiotics reported in Imphal West pharmacies.,Negative,Low,2025-09-23T05:00:26
+S0215,Cachar,Twitter,Is the water safe in Cachar? Many have symptoms like Stomach cramps.,Positive,Low,2025-09-26T14:15:26
+S0216,Mokokchung,News,Is the water safe in Mokokchung? Many have symptoms like Dark urine.,Negative,Medium,2025-09-10T19:16:26
+S0217,Sonitpur,Twitter,Shortage of Antibiotics reported in Sonitpur pharmacies.,Negative,High,2025-09-09T01:39:26
+S0218,Jorhat,Twitter,Hospitals in Jorhat are seeing more patients with Cholera.,Positive,Medium,2025-09-07T01:22:26
+S0219,Kohima,Twitter,Shortage of Probiotics reported in Kohima pharmacies.,Neutral,Low,2025-09-03T04:31:26
+S0220,Imphal West,Twitter,Shortage of Paracetamol reported in Imphal West pharmacies.,Negative,Medium,2025-09-20T09:01:26
+S0221,Dibrugarh,Whatsapp,Awareness camp in Dibrugarh about preventing Diarrhea.,Positive,High,2025-09-21T10:19:26
+S0222,Imphal West,Whatsapp,Is the water safe in Imphal West? Many have symptoms like Stomach cramps.,Neutral,Low,2025-09-20T11:25:26
+S0223,Kamrup,Whatsapp,Rumors spreading on WhatsApp in Kamrup about unsafe drinking water.,Positive,Low,2025-09-26T05:13:26
+S0224,Kamrup,Whatsapp,Rumors spreading on WhatsApp in Kamrup about unsafe drinking water.,Positive,Low,2025-09-08T01:44:26
+S0225,East Khasi Hills,Twitter,Is the water safe in East Khasi Hills? Many have symptoms like Nausea.,Positive,Low,2025-08-30T06:31:26
+S0226,Aizawl,News,Hospitals in Aizawl are seeing more patients with Cholera.,Positive,High,2025-08-27T00:12:26
+S0227,Cachar,Twitter,Shortage of Electrolyte Powder reported in Cachar pharmacies.,Positive,Low,2025-09-10T15:11:26
+S0228,Imphal West,Forum,People in Imphal West complaining about dirty water and cases of Diarrhea.,Negative,Low,2025-08-31T05:55:26
+S0229,Kohima,Facebook,Hospitals in Kohima are seeing more patients with Dysentery.,Neutral,Low,2025-09-10T21:31:26
+S0230,Sonitpur,Whatsapp,Awareness camp in Sonitpur about preventing Typhoid.,Positive,Low,2025-09-15T01:37:26
+S0231,East Khasi Hills,News,Is the water safe in East Khasi Hills? Many have symptoms like Severe dehydration.,Positive,Low,2025-09-12T17:20:26
+S0232,East Khasi Hills,Whatsapp,Awareness camp in East Khasi Hills about preventing Hepatitis A.,Positive,Low,2025-09-14T18:26:26
+S0233,West Khasi Hills,News,Hospitals in West Khasi Hills are seeing more patients with Diarrhea.,Neutral,Medium,2025-09-14T04:31:26
+S0234,Sonitpur,Twitter,Awareness camp in Sonitpur about preventing Diarrhea.,Neutral,High,2025-08-29T18:16:26
+S0235,Barpeta,News,Rumors spreading on WhatsApp in Barpeta about unsafe drinking water.,Positive,Medium,2025-09-11T08:15:26
+S0236,Shillong,Whatsapp,Is the water safe in Shillong? Many have symptoms like Headache.,Positive,Low,2025-09-21T02:15:26
+S0237,Dibrugarh,Facebook,"🚨 Outbreak alert! Many people in Dibrugarh are suffering from Cholera, showing Watery diarrhea.",Neutral,Low,2025-09-21T10:02:26
+S0238,Imphal West,Facebook,Rumors spreading on WhatsApp in Imphal West about unsafe drinking water.,Neutral,Low,2025-09-15T20:30:26
+S0239,Barpeta,Facebook,Shortage of Paracetamol reported in Barpeta pharmacies.,Neutral,Low,2025-09-11T17:05:26
+S0240,Dibrugarh,Whatsapp,Is the water safe in Dibrugarh? Many have symptoms like Nausea.,Neutral,High,2025-08-29T10:41:26
+S0241,East Khasi Hills,Facebook,Is the water safe in East Khasi Hills? Many have symptoms like Abdominal pain.,Negative,High,2025-09-15T23:33:26
+S0242,Cachar,Forum,Hospitals in Cachar are seeing more patients with Dysentery.,Negative,High,2025-09-15T07:23:26
+S0243,Shillong,Facebook,Hospitals in Shillong are seeing more patients with Dysentery.,Negative,High,2025-09-07T18:46:26
+S0244,West Khasi Hills,Whatsapp,Is the water safe in West Khasi Hills? Many have symptoms like Loose stools.,Neutral,Medium,2025-09-02T05:13:26
+S0245,Mokokchung,Forum,Shortage of Probiotics reported in Mokokchung pharmacies.,Neutral,Low,2025-09-12T17:52:26
+S0246,Ri-Bhoi,Forum,Hospitals in Ri-Bhoi are seeing more patients with Diarrhea.,Negative,High,2025-09-23T02:16:26
+S0247,Imphal West,Forum,Awareness camp in Imphal West about preventing Diarrhea.,Neutral,Medium,2025-09-02T17:20:26
+S0248,Ri-Bhoi,Forum,Awareness camp in Ri-Bhoi about preventing Hepatitis A.,Positive,Medium,2025-09-26T15:14:26
+S0249,Dibrugarh,Facebook,Hospitals in Dibrugarh are seeing more patients with Typhoid.,Positive,Medium,2025-09-23T17:36:26
+S0250,Dibrugarh,News,"🚨 Outbreak alert! Many people in Dibrugarh are suffering from Hepatitis A, showing Nausea.",Neutral,Medium,2025-09-12T22:30:26
+S0251,Imphal West,Twitter,Hospitals in Imphal West are seeing more patients with Cholera.,Negative,High,2025-08-27T17:37:26
+S0252,Imphal West,News,Hospitals in Imphal West are seeing more patients with Diarrhea.,Negative,Low,2025-09-19T16:22:26
+S0253,Sonitpur,Forum,Awareness camp in Sonitpur about preventing Hepatitis A.,Neutral,High,2025-09-10T13:50:26
+S0254,Barpeta,Facebook,Is the water safe in Barpeta? Many have symptoms like Fatigue.,Neutral,High,2025-09-16T12:30:26
+S0255,Shillong,Facebook,Shortage of Probiotics reported in Shillong pharmacies.,Neutral,Low,2025-09-02T20:39:26
+S0256,Imphal West,Forum,Is the water safe in Imphal West? Many have symptoms like Watery diarrhea.,Neutral,Medium,2025-09-23T02:36:26
+S0257,Ri-Bhoi,News,Awareness camp in Ri-Bhoi about preventing Typhoid.,Positive,Low,2025-09-15T19:11:26
+S0258,Barpeta,Forum,Hospitals in Barpeta are seeing more patients with Hepatitis A.,Negative,Medium,2025-09-03T12:04:26
+S0259,Aizawl,Whatsapp,Hospitals in Aizawl are seeing more patients with Hepatitis A.,Negative,Medium,2025-09-07T07:02:26
+S0260,Cachar,News,People in Cachar complaining about dirty water and cases of Typhoid.,Neutral,Low,2025-09-08T20:21:26
+S0261,Ri-Bhoi,Whatsapp,Shortage of Electrolyte Powder reported in Ri-Bhoi pharmacies.,Negative,Low,2025-09-13T00:18:26
+S0262,Shillong,Whatsapp,Shortage of Antibiotics reported in Shillong pharmacies.,Negative,Medium,2025-09-17T09:20:26
+S0263,Sonitpur,Whatsapp,Is the water safe in Sonitpur? Many have symptoms like Dark urine.,Negative,Low,2025-08-27T22:18:26
+S0264,Barpeta,Twitter,Hospitals in Barpeta are seeing more patients with Typhoid.,Negative,Low,2025-09-20T06:02:26
+S0265,Imphal West,Twitter,Hospitals in Imphal West are seeing more patients with Hepatitis A.,Negative,High,2025-09-19T01:06:26
+S0266,Cachar,Facebook,Awareness camp in Cachar about preventing Cholera.,Neutral,High,2025-09-14T01:14:26
+S0267,Barpeta,News,Shortage of Anti-diarrheal reported in Barpeta pharmacies.,Positive,Low,2025-09-16T01:50:26
+S0268,East Khasi Hills,News,Hospitals in East Khasi Hills are seeing more patients with Diarrhea.,Positive,High,2025-09-23T07:57:26
+S0269,Kamrup,Twitter,People in Kamrup complaining about dirty water and cases of Diarrhea.,Negative,Medium,2025-09-18T08:45:26
+S0270,Cachar,News,Rumors spreading on WhatsApp in Cachar about unsafe drinking water.,Negative,Low,2025-09-22T18:57:26
+S0271,Ri-Bhoi,Facebook,Awareness camp in Ri-Bhoi about preventing Diarrhea.,Neutral,High,2025-09-12T09:13:26
+S0272,Jorhat,News,Is the water safe in Jorhat? Many have symptoms like Muscle cramps.,Neutral,High,2025-09-14T22:46:26
+S0273,Mokokchung,Forum,Rumors spreading on WhatsApp in Mokokchung about unsafe drinking water.,Neutral,Medium,2025-09-21T03:17:26
+S0274,Kohima,Facebook,Hospitals in Kohima are seeing more patients with Typhoid.,Negative,Low,2025-09-20T06:48:26
+S0275,Kohima,Twitter,Rumors spreading on WhatsApp in Kohima about unsafe drinking water.,Positive,Medium,2025-09-12T13:03:26
+S0276,Shillong,Facebook,Shortage of ORS reported in Shillong pharmacies.,Positive,Low,2025-09-16T04:55:26
+S0277,Shillong,Whatsapp,Shortage of ORS reported in Shillong pharmacies.,Neutral,High,2025-09-21T01:01:26
+S0278,Jorhat,Facebook,Is the water safe in Jorhat? Many have symptoms like Fever.,Neutral,Medium,2025-08-28T21:36:26
+S0279,West Khasi Hills,News,Shortage of Electrolyte Powder reported in West Khasi Hills pharmacies.,Neutral,Low,2025-09-07T15:13:26
+S0280,Mokokchung,Forum,People in Mokokchung complaining about dirty water and cases of Cholera.,Positive,High,2025-09-21T16:21:26
+S0281,Aizawl,Twitter,Is the water safe in Aizawl? Many have symptoms like Watery diarrhea.,Positive,High,2025-09-23T04:39:26
+S0282,Imphal West,Facebook,Awareness camp in Imphal West about preventing Hepatitis A.,Neutral,Medium,2025-09-20T18:02:26
+S0283,Barpeta,News,Is the water safe in Barpeta? Many have symptoms like Vomiting.,Positive,Medium,2025-08-29T06:35:26
+S0284,Jorhat,News,Awareness camp in Jorhat about preventing Cholera.,Negative,High,2025-09-06T19:46:26
+S0285,Ri-Bhoi,Forum,Is the water safe in Ri-Bhoi? Many have symptoms like Stomach cramps.,Neutral,Low,2025-09-03T00:50:26
+S0286,Imphal West,Facebook,Awareness camp in Imphal West about preventing Typhoid.,Positive,Low,2025-08-28T12:32:26
+S0287,Sonitpur,Forum,Shortage of Antibiotics reported in Sonitpur pharmacies.,Negative,Low,2025-09-06T16:08:26
+S0288,Imphal West,News,Awareness camp in Imphal West about preventing Typhoid.,Neutral,Medium,2025-08-30T11:40:26
+S0289,East Khasi Hills,Facebook,Is the water safe in East Khasi Hills? Many have symptoms like Nausea.,Positive,Low,2025-09-13T08:18:26
+S0290,Kamrup,Twitter,Hospitals in Kamrup are seeing more patients with Diarrhea.,Positive,Medium,2025-09-11T22:24:26
+S0291,Barpeta,Forum,People in Barpeta complaining about dirty water and cases of Typhoid.,Positive,Medium,2025-09-03T17:45:26
+S0292,Sonitpur,News,Shortage of Antibiotics reported in Sonitpur pharmacies.,Negative,High,2025-09-14T18:43:26
+S0293,Shillong,News,Is the water safe in Shillong? Many have symptoms like Loose stools.,Negative,Low,2025-09-22T23:49:26
+S0294,Kohima,Twitter,Is the water safe in Kohima? Many have symptoms like Abdominal pain.,Neutral,Low,2025-09-09T19:55:26
+S0295,West Khasi Hills,Whatsapp,Is the water safe in West Khasi Hills? Many have symptoms like Fatigue.,Positive,Low,2025-09-11T23:57:26
+S0296,Shillong,Whatsapp,Awareness camp in Shillong about preventing Typhoid.,Positive,Medium,2025-09-04T19:06:26
+S0297,Mokokchung,Whatsapp,Rumors spreading on WhatsApp in Mokokchung about unsafe drinking water.,Positive,Low,2025-09-02T11:34:26
+S0298,Kamrup,News,Rumors spreading on WhatsApp in Kamrup about unsafe drinking water.,Neutral,Medium,2025-09-20T04:49:26
+S0299,Kamrup,News,"🚨 Outbreak alert! Many people in Kamrup are suffering from Typhoid, showing Headache.",Positive,Medium,2025-09-08T12:37:26
+S0300,Shillong,Forum,Is the water safe in Shillong? Many have symptoms like Dehydration.,Positive,Medium,2025-09-07T21:36:26
+S0301,Cachar,Facebook,Hospitals in Cachar are seeing more patients with Cholera.,Negative,High,2025-09-10T04:36:26
+S0302,Aizawl,Twitter,Hospitals in Aizawl are seeing more patients with Dysentery.,Negative,Low,2025-09-22T18:34:26
+S0303,Cachar,Forum,People in Cachar complaining about dirty water and cases of Typhoid.,Neutral,Medium,2025-09-25T04:33:26
+S0304,West Khasi Hills,Twitter,People in West Khasi Hills complaining about dirty water and cases of Typhoid.,Neutral,High,2025-09-02T09:45:26
+S0305,Jorhat,Forum,Awareness camp in Jorhat about preventing Typhoid.,Negative,Medium,2025-09-21T13:09:26
+S0306,West Khasi Hills,News,Hospitals in West Khasi Hills are seeing more patients with Diarrhea.,Neutral,Low,2025-08-30T02:17:26
+S0307,West Khasi Hills,Whatsapp,Shortage of Electrolyte Powder reported in West Khasi Hills pharmacies.,Neutral,Medium,2025-09-13T21:44:26
+S0308,East Khasi Hills,News,Awareness camp in East Khasi Hills about preventing Typhoid.,Positive,Medium,2025-09-12T01:50:26
+S0309,Kamrup,Whatsapp,Rumors spreading on WhatsApp in Kamrup about unsafe drinking water.,Neutral,Low,2025-09-21T09:51:26
+S0310,Imphal East,Facebook,People in Imphal East complaining about dirty water and cases of Typhoid.,Positive,Low,2025-09-24T11:53:26
+S0311,Jorhat,Facebook,Shortage of Anti-diarrheal reported in Jorhat pharmacies.,Negative,Low,2025-09-26T21:21:26
+S0312,Cachar,News,People in Cachar complaining about dirty water and cases of Typhoid.,Positive,Low,2025-09-10T09:35:26
+S0313,Sonitpur,News,Shortage of Antibiotics reported in Sonitpur pharmacies.,Neutral,Low,2025-09-08T06:39:26
+S0314,East Khasi Hills,Whatsapp,Hospitals in East Khasi Hills are seeing more patients with Dysentery.,Positive,Medium,2025-09-25T17:55:26
+S0315,East Khasi Hills,Facebook,Shortage of Paracetamol reported in East Khasi Hills pharmacies.,Negative,High,2025-09-01T00:47:26
+S0316,West Khasi Hills,Facebook,Rumors spreading on WhatsApp in West Khasi Hills about unsafe drinking water.,Positive,Medium,2025-09-17T11:40:26
+S0317,Imphal East,News,Is the water safe in Imphal East? Many have symptoms like Abdominal pain.,Neutral,High,2025-09-16T06:34:26
+S0318,Aizawl,Facebook,Is the water safe in Aizawl? Many have symptoms like Vomiting.,Positive,High,2025-09-11T18:56:26
+S0319,Imphal East,Whatsapp,People in Imphal East complaining about dirty water and cases of Typhoid.,Neutral,High,2025-09-14T07:54:26
+S0320,Dibrugarh,Whatsapp,Rumors spreading on WhatsApp in Dibrugarh about unsafe drinking water.,Positive,Low,2025-09-17T05:46:26
+S0321,Aizawl,Forum,Shortage of Probiotics reported in Aizawl pharmacies.,Neutral,Medium,2025-09-02T23:14:26
+S0322,Dibrugarh,News,"🚨 Outbreak alert! Many people in Dibrugarh are suffering from Typhoid, showing Weakness.",Positive,Low,2025-08-31T07:00:26
+S0323,Ri-Bhoi,Facebook,Rumors spreading on WhatsApp in Ri-Bhoi about unsafe drinking water.,Negative,Medium,2025-09-26T21:15:26
+S0324,Cachar,Forum,Hospitals in Cachar are seeing more patients with Diarrhea.,Positive,Medium,2025-09-23T14:38:26
+S0325,Kohima,Twitter,Is the water safe in Kohima? Many have symptoms like Vomiting.,Negative,Low,2025-09-23T23:14:26
+S0326,Cachar,Whatsapp,Rumors spreading on WhatsApp in Cachar about unsafe drinking water.,Negative,Low,2025-09-10T01:43:26
+S0327,West Khasi Hills,Twitter,Is the water safe in West Khasi Hills? Many have symptoms like Abdominal pain.,Neutral,High,2025-08-31T08:28:26
+S0328,Jorhat,Forum,Is the water safe in Jorhat? Many have symptoms like Fever.,Negative,Low,2025-09-14T18:56:26
+S0329,Jorhat,Facebook,Hospitals in Jorhat are seeing more patients with Typhoid.,Negative,Low,2025-09-20T09:19:26
+S0330,Dibrugarh,News,People in Dibrugarh complaining about dirty water and cases of Hepatitis A.,Negative,Low,2025-09-21T14:38:26
+S0331,Mokokchung,News,Awareness camp in Mokokchung about preventing Dysentery.,Neutral,High,2025-09-25T12:02:26
+S0332,Aizawl,Facebook,Hospitals in Aizawl are seeing more patients with Typhoid.,Positive,High,2025-08-29T15:49:26
+S0333,Imphal East,Facebook,Awareness camp in Imphal East about preventing Hepatitis A.,Negative,Medium,2025-09-06T06:38:26
+S0334,Mokokchung,Whatsapp,Hospitals in Mokokchung are seeing more patients with Typhoid.,Neutral,Medium,2025-09-18T10:43:26
+S0335,East Khasi Hills,News,People in East Khasi Hills complaining about dirty water and cases of Typhoid.,Positive,High,2025-09-16T16:50:26
+S0336,Kohima,Forum,People in Kohima complaining about dirty water and cases of Cholera.,Positive,Low,2025-08-31T16:49:26
+S0337,Ri-Bhoi,Whatsapp,Rumors spreading on WhatsApp in Ri-Bhoi about unsafe drinking water.,Positive,High,2025-09-06T22:26:26
+S0338,Kohima,Forum,Is the water safe in Kohima? Many have symptoms like Jaundice.,Positive,Medium,2025-09-16T06:54:26
+S0339,Imphal East,News,Shortage of Anti-diarrheal reported in Imphal East pharmacies.,Neutral,Medium,2025-09-21T01:38:26
+S0340,West Khasi Hills,Whatsapp,Awareness camp in West Khasi Hills about preventing Hepatitis A.,Positive,High,2025-09-03T10:30:26
+S0341,Dibrugarh,Whatsapp,"🚨 Outbreak alert! Many people in Dibrugarh are suffering from Diarrhea, showing Loose stools.",Neutral,High,2025-09-19T02:37:26
+S0342,Imphal East,News,People in Imphal East complaining about dirty water and cases of Diarrhea.,Neutral,Low,2025-09-22T23:36:26
+S0343,Imphal West,Forum,Hospitals in Imphal West are seeing more patients with Dysentery.,Neutral,High,2025-09-16T06:51:26
+S0344,Shillong,Facebook,Awareness camp in Shillong about preventing Diarrhea.,Negative,Medium,2025-09-25T15:52:26
+S0345,Shillong,Whatsapp,Hospitals in Shillong are seeing more patients with Diarrhea.,Neutral,Low,2025-09-10T16:48:26
+S0346,Sonitpur,News,People in Sonitpur complaining about dirty water and cases of Typhoid.,Neutral,Low,2025-09-04T20:22:26
+S0347,Mokokchung,Whatsapp,Hospitals in Mokokchung are seeing more patients with Typhoid.,Negative,Low,2025-09-01T05:25:26
+S0348,Kamrup,Whatsapp,"🚨 Outbreak alert! Many people in Kamrup are suffering from Typhoid, showing Weakness.",Positive,Medium,2025-08-29T02:31:26
+S0349,Cachar,Forum,Is the water safe in Cachar? Many have symptoms like Dark urine.,Negative,Low,2025-09-12T22:42:26
+S0350,Kohima,Forum,Awareness camp in Kohima about preventing Diarrhea.,Positive,High,2025-08-31T08:31:26
+S0351,West Khasi Hills,Facebook,People in West Khasi Hills complaining about dirty water and cases of Typhoid.,Neutral,High,2025-09-14T13:42:26
+S0352,Sonitpur,Whatsapp,People in Sonitpur complaining about dirty water and cases of Cholera.,Negative,High,2025-09-08T02:03:26
+S0353,Kohima,Twitter,Hospitals in Kohima are seeing more patients with Diarrhea.,Negative,High,2025-09-09T23:46:26
+S0354,Jorhat,Whatsapp,Awareness camp in Jorhat about preventing Typhoid.,Neutral,High,2025-09-25T05:48:26
+S0355,Kamrup,Whatsapp,Is the water safe in Kamrup? Many have symptoms like Vomiting.,Positive,Low,2025-09-04T22:55:26
+S0356,Shillong,Whatsapp,People in Shillong complaining about dirty water and cases of Typhoid.,Negative,Low,2025-09-07T04:08:26
+S0357,Ri-Bhoi,Twitter,Shortage of Anti-diarrheal reported in Ri-Bhoi pharmacies.,Positive,Medium,2025-08-29T21:05:26
+S0358,Aizawl,Facebook,Awareness camp in Aizawl about preventing Dysentery.,Neutral,Medium,2025-09-21T05:10:26
+S0359,Ri-Bhoi,Forum,Awareness camp in Ri-Bhoi about preventing Typhoid.,Negative,Medium,2025-08-31T07:06:26
+S0360,Cachar,Whatsapp,People in Cachar complaining about dirty water and cases of Diarrhea.,Neutral,Medium,2025-08-28T12:58:26
+S0361,Dibrugarh,Forum,"🚨 Outbreak alert! Many people in Dibrugarh are suffering from Hepatitis A, showing Fatigue.",Negative,Low,2025-09-08T04:23:26
+S0362,Jorhat,Facebook,Is the water safe in Jorhat? Many have symptoms like Weakness.,Negative,Low,2025-08-28T13:01:26
+S0363,Sonitpur,News,Is the water safe in Sonitpur? Many have symptoms like Dehydration.,Neutral,Low,2025-09-07T04:52:26
+S0364,Mokokchung,Whatsapp,Hospitals in Mokokchung are seeing more patients with Hepatitis A.,Negative,Low,2025-09-12T07:46:26
+S0365,Kohima,Whatsapp,Awareness camp in Kohima about preventing Cholera.,Neutral,High,2025-09-03T09:34:26
+S0366,Ri-Bhoi,Twitter,People in Ri-Bhoi complaining about dirty water and cases of Typhoid.,Positive,Low,2025-09-25T21:54:26
+S0367,Mokokchung,Whatsapp,Awareness camp in Mokokchung about preventing Cholera.,Positive,High,2025-09-19T06:16:26
+S0368,Ri-Bhoi,News,Rumors spreading on WhatsApp in Ri-Bhoi about unsafe drinking water.,Positive,High,2025-09-08T18:04:26
+S0369,Imphal East,Facebook,Is the water safe in Imphal East? Many have symptoms like Fatigue.,Negative,High,2025-09-06T19:38:26
+S0370,Dibrugarh,Whatsapp,Rumors spreading on WhatsApp in Dibrugarh about unsafe drinking water.,Negative,Medium,2025-09-18T22:39:26
+S0371,Barpeta,Twitter,Is the water safe in Barpeta? Many have symptoms like Nausea.,Neutral,Medium,2025-09-25T19:33:26
+S0372,Sonitpur,Twitter,Hospitals in Sonitpur are seeing more patients with Cholera.,Negative,Medium,2025-09-07T20:15:26
+S0373,Jorhat,Twitter,Is the water safe in Jorhat? Many have symptoms like Dark urine.,Neutral,Medium,2025-09-14T11:03:26
+S0374,Kamrup,News,"🚨 Outbreak alert! Many people in Kamrup are suffering from Cholera, showing Vomiting.",Positive,Medium,2025-09-03T10:25:26
+S0375,Kohima,Whatsapp,Is the water safe in Kohima? Many have symptoms like Nausea.,Neutral,Low,2025-09-22T09:09:26
+S0376,Kohima,Twitter,People in Kohima complaining about dirty water and cases of Diarrhea.,Positive,High,2025-09-10T12:14:26
+S0377,Dibrugarh,Whatsapp,Hospitals in Dibrugarh are seeing more patients with Hepatitis A.,Positive,Medium,2025-08-31T03:54:26
+S0378,Barpeta,Facebook,Is the water safe in Barpeta? Many have symptoms like Muscle cramps.,Positive,High,2025-09-08T09:58:26
+S0379,Ri-Bhoi,Forum,People in Ri-Bhoi complaining about dirty water and cases of Cholera.,Negative,Low,2025-09-13T15:57:26
+S0380,Mokokchung,Forum,Rumors spreading on WhatsApp in Mokokchung about unsafe drinking water.,Positive,Low,2025-09-06T23:52:26
+S0381,Mokokchung,News,Is the water safe in Mokokchung? Many have symptoms like Headache.,Negative,Medium,2025-09-02T17:06:26
+S0382,Sonitpur,News,Shortage of Probiotics reported in Sonitpur pharmacies.,Negative,Low,2025-09-26T01:54:26
+S0383,Cachar,Facebook,Hospitals in Cachar are seeing more patients with Dysentery.,Negative,Medium,2025-09-20T23:42:26
+S0384,Ri-Bhoi,Forum,Awareness camp in Ri-Bhoi about preventing Hepatitis A.,Positive,Medium,2025-09-03T04:01:26
+S0385,West Khasi Hills,News,Awareness camp in West Khasi Hills about preventing Cholera.,Positive,Medium,2025-09-09T18:04:26
+S0386,West Khasi Hills,Facebook,Awareness camp in West Khasi Hills about preventing Diarrhea.,Positive,Medium,2025-09-08T13:00:26
+S0387,Ri-Bhoi,Twitter,Hospitals in Ri-Bhoi are seeing more patients with Dysentery.,Positive,Low,2025-09-10T02:21:26
+S0388,Kamrup,Whatsapp,Hospitals in Kamrup are seeing more patients with Cholera.,Negative,High,2025-08-29T10:51:26
+S0389,Mokokchung,Whatsapp,Hospitals in Mokokchung are seeing more patients with Dysentery.,Neutral,Low,2025-09-11T15:24:26
+S0390,Cachar,News,Hospitals in Cachar are seeing more patients with Hepatitis A.,Negative,Low,2025-09-19T03:31:26
+S0391,West Khasi Hills,Whatsapp,Is the water safe in West Khasi Hills? Many have symptoms like Fatigue.,Neutral,Low,2025-09-26T01:13:26
+S0392,Shillong,Twitter,Is the water safe in Shillong? Many have symptoms like Stomach cramps.,Neutral,High,2025-09-24T09:42:26
+S0393,Imphal West,Facebook,Shortage of Electrolyte Powder reported in Imphal West pharmacies.,Positive,Medium,2025-09-09T03:26:26
+S0394,Dibrugarh,Forum,Rumors spreading on WhatsApp in Dibrugarh about unsafe drinking water.,Positive,High,2025-09-20T05:41:26
+S0395,Mokokchung,Whatsapp,Is the water safe in Mokokchung? Many have symptoms like Dehydration.,Neutral,Low,2025-09-21T19:30:26
+S0396,Shillong,News,Hospitals in Shillong are seeing more patients with Hepatitis A.,Positive,High,2025-09-13T21:56:26
+S0397,Imphal East,Forum,People in Imphal East complaining about dirty water and cases of Diarrhea.,Positive,High,2025-09-14T05:50:26
+S0398,Dibrugarh,Twitter,Shortage of Anti-diarrheal reported in Dibrugarh pharmacies.,Neutral,Medium,2025-09-26T07:24:26
+S0399,Dibrugarh,News,"🚨 Outbreak alert! Many people in Dibrugarh are suffering from Dysentery, showing Abdominal pain.",Neutral,Medium,2025-09-16T04:04:26
+S0400,Kohima,Facebook,Rumors spreading on WhatsApp in Kohima about unsafe drinking water.,Negative,Medium,2025-09-13T07:24:26
+S0401,Jorhat,News,Awareness camp in Jorhat about preventing Cholera.,Negative,Medium,2025-08-27T06:13:26
+S0402,Barpeta,Whatsapp,Is the water safe in Barpeta? Many have symptoms like Fatigue.,Negative,Low,2025-08-31T20:02:26
+S0403,Kohima,Whatsapp,People in Kohima complaining about dirty water and cases of Hepatitis A.,Positive,Medium,2025-09-20T17:36:26
+S0404,Jorhat,Twitter,Hospitals in Jorhat are seeing more patients with Cholera.,Positive,Medium,2025-09-02T05:47:26
+S0405,West Khasi Hills,Twitter,Hospitals in West Khasi Hills are seeing more patients with Dysentery.,Neutral,Low,2025-08-30T17:30:26
+S0406,Aizawl,News,Awareness camp in Aizawl about preventing Cholera.,Neutral,Medium,2025-09-19T20:56:26
+S0407,Imphal West,Twitter,Is the water safe in Imphal West? Many have symptoms like Dehydration.,Negative,Low,2025-09-20T18:53:26
+S0408,Cachar,News,Hospitals in Cachar are seeing more patients with Diarrhea.,Negative,High,2025-08-31T21:43:26
+S0409,Jorhat,Forum,Rumors spreading on WhatsApp in Jorhat about unsafe drinking water.,Neutral,High,2025-09-03T04:44:26
+S0410,Mokokchung,Whatsapp,Hospitals in Mokokchung are seeing more patients with Typhoid.,Negative,High,2025-09-08T23:37:26
+S0411,Imphal West,Forum,Hospitals in Imphal West are seeing more patients with Dysentery.,Neutral,High,2025-09-23T23:13:26
+S0412,Cachar,Twitter,Hospitals in Cachar are seeing more patients with Dysentery.,Positive,Medium,2025-09-02T14:15:26
+S0413,Imphal East,Facebook,Awareness camp in Imphal East about preventing Typhoid.,Neutral,Medium,2025-09-13T10:54:26
+S0414,Imphal East,Forum,Is the water safe in Imphal East? Many have symptoms like Abdominal pain.,Negative,High,2025-09-16T17:59:26
+S0415,Aizawl,Forum,Shortage of ORS reported in Aizawl pharmacies.,Negative,Low,2025-09-21T08:49:26
+S0416,Shillong,News,Awareness camp in Shillong about preventing Hepatitis A.,Positive,Low,2025-09-02T16:23:26
+S0417,Cachar,Facebook,People in Cachar complaining about dirty water and cases of Diarrhea.,Negative,High,2025-08-27T04:21:26
+S0418,East Khasi Hills,Facebook,Hospitals in East Khasi Hills are seeing more patients with Cholera.,Negative,Medium,2025-08-27T11:24:26
+S0419,Jorhat,Facebook,Is the water safe in Jorhat? Many have symptoms like Jaundice.,Neutral,High,2025-09-22T03:59:26
+S0420,Cachar,Forum,Hospitals in Cachar are seeing more patients with Diarrhea.,Neutral,Low,2025-09-03T08:57:26
+S0421,East Khasi Hills,Whatsapp,Awareness camp in East Khasi Hills about preventing Typhoid.,Negative,High,2025-09-06T16:06:26
+S0422,Imphal East,Twitter,Hospitals in Imphal East are seeing more patients with Hepatitis A.,Positive,High,2025-09-26T07:50:26
+S0423,Barpeta,Forum,Shortage of Electrolyte Powder reported in Barpeta pharmacies.,Neutral,High,2025-09-11T11:10:26
+S0424,Shillong,News,People in Shillong complaining about dirty water and cases of Hepatitis A.,Neutral,Medium,2025-09-24T06:19:26
+S0425,Shillong,Whatsapp,Rumors spreading on WhatsApp in Shillong about unsafe drinking water.,Negative,High,2025-09-04T19:13:26
+S0426,Kohima,Forum,Shortage of Antibiotics reported in Kohima pharmacies.,Negative,High,2025-09-08T18:02:26
+S0427,Aizawl,Twitter,People in Aizawl complaining about dirty water and cases of Typhoid.,Negative,High,2025-09-03T19:56:26
+S0428,Ri-Bhoi,Whatsapp,Awareness camp in Ri-Bhoi about preventing Cholera.,Neutral,High,2025-09-25T00:34:26
+S0429,West Khasi Hills,Whatsapp,Is the water safe in West Khasi Hills? Many have symptoms like Dark urine.,Negative,High,2025-09-15T23:59:26
+S0430,Imphal East,Facebook,Rumors spreading on WhatsApp in Imphal East about unsafe drinking water.,Negative,Medium,2025-09-13T16:42:26
+S0431,Dibrugarh,Whatsapp,Awareness camp in Dibrugarh about preventing Typhoid.,Neutral,Low,2025-08-31T13:19:26
+S0432,Imphal West,Twitter,Awareness camp in Imphal West about preventing Hepatitis A.,Negative,Low,2025-09-19T22:48:26
+S0433,Imphal East,Forum,Is the water safe in Imphal East? Many have symptoms like Stomach cramps.,Neutral,Medium,2025-08-27T05:02:26
+S0434,West Khasi Hills,Whatsapp,Shortage of Electrolyte Powder reported in West Khasi Hills pharmacies.,Positive,Low,2025-09-25T03:06:26
+S0435,Kamrup,News,"🚨 Outbreak alert! Many people in Kamrup are suffering from Hepatitis A, showing Nausea.",Negative,High,2025-09-17T16:00:26
+S0436,Kamrup,Twitter,"🚨 Outbreak alert! Many people in Kamrup are suffering from Diarrhea, showing Dehydration.",Positive,Low,2025-09-03T03:59:26
+S0437,West Khasi Hills,Twitter,Awareness camp in West Khasi Hills about preventing Typhoid.,Neutral,High,2025-09-19T02:19:26
+S0438,Mokokchung,Forum,Shortage of Paracetamol reported in Mokokchung pharmacies.,Negative,Low,2025-09-22T22:57:26
+S0439,Mokokchung,News,Is the water safe in Mokokchung? Many have symptoms like Stomach cramps.,Neutral,High,2025-09-21T17:21:26
+S0440,Aizawl,Whatsapp,Rumors spreading on WhatsApp in Aizawl about unsafe drinking water.,Neutral,Medium,2025-09-18T05:18:26
+S0441,Aizawl,Whatsapp,Is the water safe in Aizawl? Many have symptoms like Abdominal pain.,Negative,Medium,2025-09-01T13:34:26
+S0442,West Khasi Hills,Facebook,Hospitals in West Khasi Hills are seeing more patients with Cholera.,Neutral,Low,2025-09-25T17:03:26
+S0443,Jorhat,Forum,Is the water safe in Jorhat? Many have symptoms like Weakness.,Neutral,Medium,2025-09-19T15:05:26
+S0444,Sonitpur,Forum,People in Sonitpur complaining about dirty water and cases of Cholera.,Negative,Medium,2025-09-17T01:54:26
+S0445,Kohima,News,Rumors spreading on WhatsApp in Kohima about unsafe drinking water.,Negative,Medium,2025-09-17T01:06:26
+S0446,Kamrup,Facebook,"🚨 Outbreak alert! Many people in Kamrup are suffering from Typhoid, showing Fever.",Neutral,High,2025-09-11T14:36:26
+S0447,East Khasi Hills,Whatsapp,Rumors spreading on WhatsApp in East Khasi Hills about unsafe drinking water.,Positive,Low,2025-09-13T17:13:26
+S0448,West Khasi Hills,Facebook,Rumors spreading on WhatsApp in West Khasi Hills about unsafe drinking water.,Positive,Medium,2025-09-19T14:40:26
+S0449,Sonitpur,Facebook,Awareness camp in Sonitpur about preventing Typhoid.,Positive,Low,2025-09-14T10:28:26
+S0450,Aizawl,Forum,Is the water safe in Aizawl? Many have symptoms like Headache.,Neutral,High,2025-09-23T17:13:26
+S0451,Sonitpur,Facebook,Hospitals in Sonitpur are seeing more patients with Hepatitis A.,Negative,High,2025-09-15T17:07:26
+S0452,East Khasi Hills,Twitter,Awareness camp in East Khasi Hills about preventing Typhoid.,Positive,Medium,2025-09-20T14:10:26
+S0453,Sonitpur,Forum,Is the water safe in Sonitpur? Many have symptoms like Abdominal pain.,Neutral,High,2025-09-01T13:01:26
+S0454,Cachar,Twitter,Is the water safe in Cachar? Many have symptoms like Abdominal pain.,Positive,Low,2025-08-31T02:57:26
+S0455,Cachar,Facebook,People in Cachar complaining about dirty water and cases of Typhoid.,Positive,Medium,2025-08-30T14:55:26
+S0456,Shillong,Whatsapp,Hospitals in Shillong are seeing more patients with Diarrhea.,Negative,Low,2025-09-15T14:32:26
+S0457,Barpeta,Whatsapp,Hospitals in Barpeta are seeing more patients with Typhoid.,Neutral,Medium,2025-09-23T11:34:26
+S0458,Sonitpur,Whatsapp,People in Sonitpur complaining about dirty water and cases of Typhoid.,Neutral,High,2025-09-07T08:15:26
+S0459,West Khasi Hills,News,Awareness camp in West Khasi Hills about preventing Cholera.,Negative,High,2025-09-12T23:51:26
+S0460,Imphal East,Forum,Hospitals in Imphal East are seeing more patients with Diarrhea.,Negative,Low,2025-08-31T13:13:26
+S0461,Cachar,Whatsapp,Rumors spreading on WhatsApp in Cachar about unsafe drinking water.,Negative,Medium,2025-08-27T00:04:26
+S0462,Aizawl,Whatsapp,Shortage of Electrolyte Powder reported in Aizawl pharmacies.,Negative,Low,2025-08-29T18:11:26
+S0463,Sonitpur,Whatsapp,Rumors spreading on WhatsApp in Sonitpur about unsafe drinking water.,Negative,Low,2025-09-22T03:53:26
+S0464,Sonitpur,News,Is the water safe in Sonitpur? Many have symptoms like Jaundice.,Positive,Low,2025-09-15T12:31:26
+S0465,Shillong,Forum,Rumors spreading on WhatsApp in Shillong about unsafe drinking water.,Neutral,Low,2025-09-22T15:00:26
+S0466,Imphal East,Facebook,Awareness camp in Imphal East about preventing Typhoid.,Neutral,Low,2025-09-24T08:45:26
+S0467,West Khasi Hills,Whatsapp,Is the water safe in West Khasi Hills? Many have symptoms like Stomach cramps.,Positive,Medium,2025-09-07T16:32:26
+S0468,Imphal East,Facebook,People in Imphal East complaining about dirty water and cases of Hepatitis A.,Neutral,Low,2025-09-12T07:07:26
+S0469,Shillong,News,Hospitals in Shillong are seeing more patients with Cholera.,Neutral,Low,2025-09-12T10:17:26
+S0470,Kohima,Facebook,Is the water safe in Kohima? Many have symptoms like Abdominal pain.,Negative,Low,2025-08-28T22:45:26
+S0471,West Khasi Hills,Forum,People in West Khasi Hills complaining about dirty water and cases of Hepatitis A.,Neutral,Medium,2025-08-28T15:55:26
+S0472,Kamrup,Twitter,"🚨 Outbreak alert! Many people in Kamrup are suffering from Hepatitis A, showing Jaundice.",Negative,Low,2025-09-12T18:59:26
+S0473,Aizawl,Forum,Is the water safe in Aizawl? Many have symptoms like Jaundice.,Neutral,High,2025-09-21T16:58:26
+S0474,Kamrup,Twitter,"🚨 Outbreak alert! Many people in Kamrup are suffering from Cholera, showing Muscle cramps.",Positive,Low,2025-08-29T00:50:26
+S0475,Cachar,Facebook,Hospitals in Cachar are seeing more patients with Typhoid.,Negative,Low,2025-09-26T19:10:26
+S0476,Aizawl,Forum,Is the water safe in Aizawl? Many have symptoms like Fever.,Neutral,High,2025-09-20T07:28:26
+S0477,Ri-Bhoi,Twitter,Is the water safe in Ri-Bhoi? Many have symptoms like Dehydration.,Negative,High,2025-09-10T12:05:26
+S0478,Kohima,Whatsapp,Hospitals in Kohima are seeing more patients with Diarrhea.,Neutral,Low,2025-08-29T22:42:26
+S0479,East Khasi Hills,Twitter,Is the water safe in East Khasi Hills? Many have symptoms like Severe dehydration.,Negative,Medium,2025-09-13T02:44:26
+S0480,Imphal East,Twitter,Rumors spreading on WhatsApp in Imphal East about unsafe drinking water.,Positive,High,2025-09-19T09:25:26
+S0481,Mokokchung,News,People in Mokokchung complaining about dirty water and cases of Dysentery.,Neutral,Low,2025-09-05T00:53:26
+S0482,Mokokchung,News,Shortage of Probiotics reported in Mokokchung pharmacies.,Neutral,Low,2025-09-25T14:01:26
+S0483,Shillong,News,Awareness camp in Shillong about preventing Cholera.,Negative,Medium,2025-09-07T02:42:26
+S0484,Shillong,Whatsapp,Rumors spreading on WhatsApp in Shillong about unsafe drinking water.,Positive,Medium,2025-09-09T01:02:26
+S0485,Barpeta,Facebook,Is the water safe in Barpeta? Many have symptoms like Abdominal pain.,Negative,Medium,2025-08-29T11:44:26
+S0486,Imphal East,News,Hospitals in Imphal East are seeing more patients with Cholera.,Positive,Medium,2025-09-09T09:58:26
+S0487,Jorhat,Twitter,Awareness camp in Jorhat about preventing Dysentery.,Neutral,Low,2025-09-09T15:15:26
+S0488,Jorhat,News,People in Jorhat complaining about dirty water and cases of Typhoid.,Positive,High,2025-09-16T14:21:26
+S0489,Shillong,News,Rumors spreading on WhatsApp in Shillong about unsafe drinking water.,Positive,Medium,2025-08-29T20:15:26
+S0490,Aizawl,Facebook,Hospitals in Aizawl are seeing more patients with Hepatitis A.,Neutral,High,2025-09-01T06:07:26
+S0491,Ri-Bhoi,Facebook,Is the water safe in Ri-Bhoi? Many have symptoms like Loose stools.,Neutral,Low,2025-09-23T16:27:26
+S0492,Shillong,Whatsapp,Is the water safe in Shillong? Many have symptoms like Vomiting.,Neutral,Low,2025-09-16T12:52:26
+S0493,Jorhat,Facebook,Hospitals in Jorhat are seeing more patients with Hepatitis A.,Positive,Medium,2025-09-16T11:35:26
+S0494,Imphal East,Forum,People in Imphal East complaining about dirty water and cases of Typhoid.,Negative,High,2025-09-02T02:40:26
+S0495,Kamrup,Twitter,Awareness camp in Kamrup about preventing Typhoid.,Neutral,High,2025-09-21T21:16:26
+S0496,Jorhat,Forum,Awareness camp in Jorhat about preventing Hepatitis A.,Positive,Medium,2025-09-11T14:49:26
+S0497,West Khasi Hills,Forum,Rumors spreading on WhatsApp in West Khasi Hills about unsafe drinking water.,Positive,High,2025-09-18T12:22:26
+S0498,Kohima,News,Is the water safe in Kohima? Many have symptoms like Loose stools.,Neutral,Medium,2025-09-22T03:09:26
+S0499,Mokokchung,Whatsapp,People in Mokokchung complaining about dirty water and cases of Dysentery.,Negative,Low,2025-09-11T02:52:26
+S0500,Dibrugarh,News,"🚨 Outbreak alert! Many people in Dibrugarh are suffering from Typhoid, showing Abdominal pain.",Neutral,High,2025-09-11T23:36:26

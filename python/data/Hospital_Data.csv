@@ -1,0 +1,1501 @@
+patientId,district,hospitalId,doctorId,age,gender,symptoms,diagnosis,severity,reportedBy,outcome,visitDate
+P0001,Jorhat,H577,D6420,55,Other,Severe dehydration,Cholera,Medium,Clinic,Deceased,2025-08-31T22:43:26
+P0002,Ri-Bhoi,H642,D8869,64,Other,Fever,Typhoid,Low,Clinic,Hospitalized,2025-09-26T01:57:26
+P0003,Imphal East,H889,D8246,86,Other,Jaundice,Hepatitis A,Medium,ASHA Worker,Recovered,2025-09-06T17:07:26
+P0004,West Khasi Hills,H641,D8948,31,Female,Headache,Typhoid,Low,Clinic,Hospitalized,2025-09-16T12:20:26
+P0005,Cachar,H181,D9307,21,Male,Fever,Typhoid,Medium,ASHA Worker,Recovered,2025-09-22T04:54:26
+P0006,Kohima,H732,D8397,3,Female,Loose stools,Diarrhea,High,Clinic,Deceased,2025-09-02T18:58:26
+P0007,Shillong,H266,D2089,74,Female,Bloody diarrhea,Dysentery,Medium,Clinic,Recovered,2025-09-19T07:15:26
+P0008,Dibrugarh,H717,D4344,84,Male,Nausea,Hepatitis A,Medium,Clinic,Recovered,2025-09-02T00:04:26
+P0009,Jorhat,H461,D1915,72,Other,Fatigue,Hepatitis A,High,ASHA Worker,Deceased,2025-09-06T12:13:26
+P0010,Kamrup,H546,D3832,77,Other,Watery diarrhea,Cholera,High,ASHA Worker,Hospitalized,2025-09-20T10:53:26
+P0011,Barpeta,H809,D5625,15,Other,Loose stools,Diarrhea,High,Hospital,Recovered,2025-08-29T07:31:26
+P0012,Aizawl,H281,D3582,76,Other,Dark urine,Hepatitis A,Low,Clinic,Deceased,2025-08-28T01:02:26
+P0013,Mokokchung,H383,D9299,54,Female,Fatigue,Hepatitis A,High,Clinic,Hospitalized,2025-09-25T01:06:26
+P0014,Kohima,H155,D6619,44,Female,Muscle cramps,Cholera,Medium,Hospital,Hospitalized,2025-09-18T19:51:26
+P0015,West Khasi Hills,H247,D4026,21,Female,Dark urine,Hepatitis A,High,Hospital,Deceased,2025-09-05T21:22:26
+P0016,Imphal East,H480,D1524,11,Other,Stomach cramps,Diarrhea,Medium,ASHA Worker,Recovered,2025-09-11T16:53:26
+P0017,Kohima,H436,D8494,54,Other,Weakness,Typhoid,High,Hospital,Deceased,2025-09-25T07:41:26
+P0018,Imphal West,H369,D4858,54,Other,Vomiting,Cholera,Low,Clinic,Hospitalized,2025-09-12T09:22:26
+P0019,Aizawl,H528,D8594,12,Other,Weakness,Typhoid,High,ASHA Worker,Deceased,2025-08-31T04:34:26
+P0020,Kohima,H112,D1101,3,Male,Vomiting,Cholera,Medium,Clinic,Hospitalized,2025-09-04T13:53:26
+P0021,Aizawl,H904,D5300,37,Female,Nausea,Hepatitis A,High,Clinic,Hospitalized,2025-09-20T18:29:26
+P0022,Mokokchung,H565,D9962,32,Other,Stomach cramps,Diarrhea,High,ASHA Worker,Hospitalized,2025-09-10T10:59:26
+P0023,Aizawl,H514,D4226,75,Male,Abdominal pain,Dysentery,High,ASHA Worker,Recovered,2025-09-18T04:03:26
+P0024,Imphal West,H525,D6088,59,Male,Loose stools,Diarrhea,High,Clinic,Deceased,2025-08-27T01:09:26
+P0025,Barpeta,H165,D9647,88,Other,Weakness,Typhoid,Low,Clinic,Recovered,2025-09-10T05:04:26
+P0026,Aizawl,H138,D9921,43,Female,Dehydration,Diarrhea,Low,ASHA Worker,Deceased,2025-09-14T18:55:26
+P0027,West Khasi Hills,H704,D2458,66,Female,Loose stools,Diarrhea,High,ASHA Worker,Hospitalized,2025-09-03T16:40:26
+P0028,Kohima,H473,D2275,9,Other,Loose stools,Diarrhea,Low,ASHA Worker,Recovered,2025-09-09T06:33:26
+P0029,East Khasi Hills,H210,D1838,52,Male,Fatigue,Hepatitis A,High,Clinic,Recovered,2025-09-07T18:07:26
+P0030,Imphal West,H718,D3088,86,Other,Watery diarrhea,Cholera,High,Hospital,Deceased,2025-09-11T02:52:26
+P0031,Barpeta,H678,D4317,67,Other,Bloody diarrhea,Dysentery,Medium,Hospital,Deceased,2025-09-16T12:51:26
+P0032,Shillong,H937,D9759,65,Female,Bloody diarrhea,Dysentery,Medium,Clinic,Recovered,2025-09-22T04:21:26
+P0033,Mokokchung,H226,D7411,76,Other,Bloody diarrhea,Dysentery,Medium,Clinic,Deceased,2025-09-06T18:34:26
+P0034,Imphal East,H874,D9431,70,Male,Dark urine,Hepatitis A,High,ASHA Worker,Hospitalized,2025-08-31T14:01:26
+P0035,Imphal West,H850,D8787,19,Male,Abdominal pain,Dysentery,Medium,Clinic,Deceased,2025-09-17T16:44:26
+P0036,Cachar,H768,D1479,33,Female,Muscle cramps,Cholera,High,Clinic,Deceased,2025-09-18T13:48:26
+P0037,Dibrugarh,H472,D6677,43,Male,Watery diarrhea,Cholera,High,ASHA Worker,Deceased,2025-09-07T04:54:26
+P0038,Sonitpur,H555,D2090,32,Female,Jaundice,Hepatitis A,High,Clinic,Recovered,2025-08-31T08:10:26
+P0039,Barpeta,H447,D8270,71,Male,Fatigue,Hepatitis A,High,Clinic,Recovered,2025-09-08T12:02:26
+P0040,Mokokchung,H568,D1677,15,Male,Stomach cramps,Diarrhea,Medium,Hospital,Hospitalized,2025-09-13T11:26:26
+P0041,Imphal West,H788,D7881,84,Female,Stomach cramps,Diarrhea,High,Clinic,Hospitalized,2025-09-01T05:23:26
+P0042,Imphal East,H560,D5751,90,Male,Weakness,Typhoid,Low,Clinic,Hospitalized,2025-09-09T16:28:26
+P0043,Cachar,H718,D9061,85,Male,Jaundice,Hepatitis A,Low,Clinic,Deceased,2025-08-30T23:13:26
+P0044,Barpeta,H889,D1851,41,Female,Fatigue,Hepatitis A,Medium,Hospital,Deceased,2025-09-07T08:01:26
+P0045,Aizawl,H387,D7668,33,Other,Vomiting,Cholera,High,Clinic,Hospitalized,2025-09-02T06:24:26
+P0046,East Khasi Hills,H872,D1506,23,Female,Jaundice,Hepatitis A,Medium,Clinic,Deceased,2025-09-18T10:11:26
+P0047,Sonitpur,H806,D8948,49,Other,Stomach cramps,Diarrhea,High,Hospital,Recovered,2025-09-06T07:15:26
+P0048,Imphal West,H417,D5441,34,Female,Abdominal pain,Dysentery,Medium,ASHA Worker,Deceased,2025-09-26T17:39:26
+P0049,Barpeta,H722,D5968,35,Other,Fatigue,Hepatitis A,Low,ASHA Worker,Hospitalized,2025-09-24T17:16:26
+P0050,Imphal West,H610,D9684,36,Female,Fatigue,Hepatitis A,Medium,Clinic,Recovered,2025-08-27T09:28:26
+P0051,Ri-Bhoi,H489,D1525,82,Male,Fever,Typhoid,Medium,Clinic,Recovered,2025-09-04T03:08:26
+P0052,Kohima,H377,D2495,85,Male,Muscle cramps,Cholera,Low,ASHA Worker,Hospitalized,2025-08-30T01:12:26
+P0053,Kamrup,H329,D3708,6,Female,Abdominal pain,Typhoid,Medium,Hospital,Deceased,2025-09-21T11:30:26
+P0054,Imphal East,H380,D5864,80,Other,Vomiting,Cholera,Low,Hospital,Deceased,2025-09-10T07:37:26
+P0055,Imphal West,H375,D7160,1,Other,Fever,Dysentery,High,ASHA Worker,Hospitalized,2025-09-16T10:07:26
+P0056,Kohima,H839,D5403,12,Other,Abdominal pain,Dysentery,Low,Hospital,Hospitalized,2025-09-10T01:47:26
+P0057,Kamrup,H478,D8515,90,Male,Stomach cramps,Diarrhea,Medium,ASHA Worker,Hospitalized,2025-09-04T15:52:26
+P0058,Barpeta,H908,D1973,35,Other,Stomach cramps,Diarrhea,Medium,Hospital,Hospitalized,2025-09-01T15:12:26
+P0059,Imphal East,H578,D6745,77,Female,Dehydration,Diarrhea,High,Clinic,Deceased,2025-09-04T04:07:26
+P0060,Kamrup,H141,D9971,21,Female,Muscle cramps,Cholera,High,Clinic,Recovered,2025-08-31T23:18:26
+P0061,Kamrup,H960,D2285,15,Female,Stomach cramps,Diarrhea,Medium,Hospital,Deceased,2025-09-22T04:51:26
+P0062,Jorhat,H830,D9232,79,Male,Muscle cramps,Cholera,Low,ASHA Worker,Deceased,2025-09-04T19:00:26
+P0063,West Khasi Hills,H268,D2749,3,Female,Nausea,Hepatitis A,Medium,Hospital,Recovered,2025-08-29T09:44:26
+P0064,Mokokchung,H908,D2526,54,Female,Abdominal pain,Dysentery,Low,ASHA Worker,Recovered,2025-09-16T20:37:26
+P0065,Cachar,H858,D3832,5,Female,Loose stools,Diarrhea,Medium,Clinic,Deceased,2025-09-10T11:23:26
+P0066,Cachar,H194,D9288,6,Male,Fever,Typhoid,Medium,Hospital,Recovered,2025-09-16T12:12:26
+P0067,Jorhat,H666,D8858,30,Male,Vomiting,Cholera,High,Clinic,Recovered,2025-08-30T01:11:26
+P0068,Cachar,H308,D6803,88,Male,Weakness,Typhoid,High,ASHA Worker,Deceased,2025-08-30T15:43:26
+P0069,Cachar,H491,D1980,54,Other,Severe dehydration,Cholera,High,ASHA Worker,Deceased,2025-09-24T07:58:26
+P0070,Jorhat,H873,D5690,36,Female,Abdominal pain,Typhoid,High,ASHA Worker,Hospitalized,2025-09-09T09:07:26
+P0071,Sonitpur,H670,D2962,25,Male,Fatigue,Hepatitis A,Medium,ASHA Worker,Hospitalized,2025-09-12T15:49:26
+P0072,Imphal East,H288,D5460,26,Male,Abdominal pain,Typhoid,Low,Hospital,Deceased,2025-09-15T12:20:26
+P0073,Cachar,H890,D1112,42,Other,Stomach cramps,Diarrhea,Low,Hospital,Deceased,2025-09-21T09:44:26
+P0074,Jorhat,H165,D6659,40,Other,Abdominal pain,Dysentery,Medium,ASHA Worker,Recovered,2025-09-10T23:35:26
+P0075,Imphal West,H196,D2995,35,Male,Severe dehydration,Cholera,Medium,Clinic,Hospitalized,2025-09-13T11:37:26
+P0076,East Khasi Hills,H435,D9715,61,Other,Stomach cramps,Diarrhea,Medium,Clinic,Deceased,2025-09-06T07:50:26
+P0077,Mokokchung,H190,D4840,52,Other,Weakness,Typhoid,High,ASHA Worker,Recovered,2025-09-08T14:42:26
+P0078,Jorhat,H190,D5975,85,Female,Stomach cramps,Diarrhea,Medium,Hospital,Recovered,2025-09-18T23:20:26
+P0079,Aizawl,H673,D6565,36,Female,Dark urine,Hepatitis A,Low,Clinic,Hospitalized,2025-09-14T12:51:26
+P0080,Kohima,H153,D2863,53,Male,Fever,Typhoid,Low,ASHA Worker,Recovered,2025-09-20T16:33:26
+P0081,Kamrup,H373,D9062,18,Male,Dehydration,Diarrhea,Medium,Clinic,Deceased,2025-09-14T14:00:26
+P0082,Kamrup,H807,D5302,10,Male,Jaundice,Hepatitis A,High,ASHA Worker,Hospitalized,2025-09-02T18:51:26
+P0083,Dibrugarh,H241,D2372,16,Female,Abdominal pain,Dysentery,High,ASHA Worker,Deceased,2025-08-31T08:35:26
+P0084,Mokokchung,H304,D5614,14,Male,Loose stools,Diarrhea,Medium,Clinic,Deceased,2025-09-19T06:26:26
+P0085,Ri-Bhoi,H575,D7460,66,Female,Weakness,Typhoid,High,Clinic,Deceased,2025-09-17T13:14:26
+P0086,Kamrup,H843,D7911,52,Male,Dark urine,Hepatitis A,Medium,ASHA Worker,Hospitalized,2025-09-23T06:47:26
+P0087,Barpeta,H655,D6628,15,Female,Jaundice,Hepatitis A,High,ASHA Worker,Deceased,2025-08-31T21:13:26
+P0088,Imphal East,H971,D9568,87,Other,Headache,Typhoid,Medium,Hospital,Deceased,2025-09-24T23:31:26
+P0089,Jorhat,H778,D9547,69,Male,Fever,Typhoid,Low,ASHA Worker,Recovered,2025-09-08T13:10:26
+P0090,Aizawl,H375,D5879,15,Male,Bloody diarrhea,Dysentery,High,ASHA Worker,Recovered,2025-08-29T00:17:26
+P0091,Kohima,H605,D8876,15,Female,Loose stools,Diarrhea,High,Clinic,Hospitalized,2025-09-15T23:49:26
+P0092,Ri-Bhoi,H721,D7712,84,Female,Watery diarrhea,Cholera,Medium,Clinic,Deceased,2025-09-26T22:50:26
+P0093,Kohima,H931,D3294,20,Male,Severe dehydration,Cholera,Medium,ASHA Worker,Deceased,2025-08-30T06:53:26
+P0094,Dibrugarh,H882,D5335,6,Female,Fever,Dysentery,Medium,Hospital,Hospitalized,2025-09-25T21:50:26
+P0095,Kohima,H730,D4412,31,Female,Stomach cramps,Diarrhea,High,ASHA Worker,Recovered,2025-09-16T19:44:26
+P0096,Barpeta,H173,D8590,13,Male,Fatigue,Hepatitis A,Medium,Hospital,Recovered,2025-09-12T02:12:26
+P0097,Aizawl,H161,D4726,35,Other,Vomiting,Cholera,High,ASHA Worker,Recovered,2025-09-14T23:57:26
+P0098,Kohima,H697,D7561,32,Male,Fatigue,Hepatitis A,High,Hospital,Hospitalized,2025-09-25T23:14:26
+P0099,East Khasi Hills,H624,D4142,82,Female,Headache,Typhoid,High,Hospital,Hospitalized,2025-09-13T10:28:26
+P0100,Barpeta,H853,D5145,63,Male,Fever,Typhoid,High,Hospital,Hospitalized,2025-09-24T19:25:26
+P0101,Kohima,H869,D8997,65,Female,Fever,Dysentery,Medium,Clinic,Deceased,2025-09-13T10:02:26
+P0102,West Khasi Hills,H643,D2050,26,Female,Abdominal pain,Dysentery,Low,Clinic,Hospitalized,2025-09-05T22:10:26
+P0103,Dibrugarh,H979,D9935,34,Other,Muscle cramps,Cholera,High,Clinic,Hospitalized,2025-08-30T19:06:26
+P0104,West Khasi Hills,H526,D3845,23,Other,Vomiting,Cholera,Medium,Clinic,Recovered,2025-09-15T23:13:26
+P0105,Dibrugarh,H187,D9151,52,Male,Abdominal pain,Typhoid,High,Clinic,Hospitalized,2025-09-02T06:32:26
+P0106,Shillong,H377,D8392,9,Female,Dark urine,Hepatitis A,High,Clinic,Deceased,2025-09-16T09:33:26
+P0107,West Khasi Hills,H282,D2336,73,Female,Jaundice,Hepatitis A,Medium,Clinic,Recovered,2025-09-10T07:49:26
+P0108,Shillong,H373,D9854,65,Other,Watery diarrhea,Cholera,Medium,Clinic,Deceased,2025-08-27T21:19:26
+P0109,Ri-Bhoi,H712,D6390,78,Male,Fever,Typhoid,Low,Clinic,Deceased,2025-09-18T13:49:26
+P0110,Sonitpur,H493,D4253,13,Male,Abdominal pain,Dysentery,High,Clinic,Recovered,2025-09-01T20:17:26
+P0111,Dibrugarh,H676,D3178,16,Other,Bloody diarrhea,Dysentery,Medium,Hospital,Hospitalized,2025-09-08T02:46:26
+P0112,Aizawl,H724,D1451,68,Other,Abdominal pain,Typhoid,Medium,Hospital,Recovered,2025-08-30T00:00:26
+P0113,East Khasi Hills,H772,D6066,39,Female,Severe dehydration,Cholera,High,Hospital,Hospitalized,2025-09-26T02:11:26
+P0114,West Khasi Hills,H387,D5208,63,Female,Jaundice,Hepatitis A,Medium,Clinic,Deceased,2025-09-10T19:02:26
+P0115,Jorhat,H962,D6918,31,Female,Jaundice,Hepatitis A,High,Hospital,Hospitalized,2025-09-14T23:42:26
+P0116,Imphal West,H276,D7634,82,Female,Jaundice,Hepatitis A,Medium,Hospital,Deceased,2025-09-05T14:36:26
+P0117,Cachar,H483,D8728,54,Other,Loose stools,Diarrhea,High,Clinic,Hospitalized,2025-09-09T08:01:26
+P0118,Shillong,H495,D5010,10,Male,Stomach cramps,Diarrhea,Low,Hospital,Recovered,2025-09-24T04:19:26
+P0119,Ri-Bhoi,H849,D5648,47,Male,Fatigue,Hepatitis A,Medium,ASHA Worker,Deceased,2025-09-17T22:51:26
+P0120,Ri-Bhoi,H647,D1681,15,Other,Fever,Typhoid,Medium,ASHA Worker,Deceased,2025-09-16T04:09:26
+P0121,Aizawl,H758,D4423,26,Male,Nausea,Hepatitis A,Low,Hospital,Deceased,2025-09-03T01:40:26
+P0122,Cachar,H839,D2802,40,Female,Abdominal pain,Typhoid,Medium,Hospital,Hospitalized,2025-08-28T05:25:26
+P0123,Barpeta,H676,D8303,23,Female,Jaundice,Hepatitis A,Medium,Hospital,Recovered,2025-09-23T18:00:26
+P0124,Sonitpur,H699,D1970,49,Female,Dark urine,Hepatitis A,High,Clinic,Deceased,2025-08-28T16:16:26
+P0125,Shillong,H949,D9506,51,Male,Abdominal pain,Typhoid,Low,ASHA Worker,Hospitalized,2025-08-28T07:28:26
+P0126,East Khasi Hills,H225,D3461,6,Other,Fever,Typhoid,Low,Clinic,Recovered,2025-09-17T19:07:26
+P0127,Cachar,H156,D1253,2,Female,Jaundice,Hepatitis A,High,Hospital,Hospitalized,2025-09-18T07:09:26
+P0128,Sonitpur,H385,D6377,7,Female,Headache,Typhoid,Medium,Hospital,Hospitalized,2025-09-23T07:28:26
+P0129,Dibrugarh,H797,D3192,43,Other,Jaundice,Hepatitis A,Medium,Clinic,Hospitalized,2025-09-07T11:38:26
+P0130,Ri-Bhoi,H268,D1938,31,Female,Stomach cramps,Diarrhea,Medium,ASHA Worker,Deceased,2025-09-09T18:04:26
+P0131,Shillong,H797,D5639,49,Male,Abdominal pain,Dysentery,High,ASHA Worker,Deceased,2025-09-05T11:46:26
+P0132,Barpeta,H966,D9129,64,Other,Stomach cramps,Diarrhea,Low,ASHA Worker,Hospitalized,2025-09-18T02:18:26
+P0133,Ri-Bhoi,H997,D8705,50,Female,Dehydration,Diarrhea,Low,Clinic,Hospitalized,2025-09-14T16:09:26
+P0134,Cachar,H886,D4408,31,Female,Loose stools,Diarrhea,High,ASHA Worker,Recovered,2025-09-08T19:11:26
+P0135,Kohima,H202,D9894,7,Other,Loose stools,Diarrhea,Medium,ASHA Worker,Recovered,2025-09-20T19:26:26
+P0136,Dibrugarh,H400,D7679,48,Male,Jaundice,Hepatitis A,Medium,ASHA Worker,Recovered,2025-09-10T10:34:26
+P0137,Ri-Bhoi,H726,D8434,11,Female,Headache,Typhoid,Low,Clinic,Recovered,2025-09-02T19:58:26
+P0138,Ri-Bhoi,H143,D7540,76,Other,Dehydration,Diarrhea,High,Hospital,Recovered,2025-09-14T01:00:26
+P0139,Ri-Bhoi,H195,D4257,3,Male,Dark urine,Hepatitis A,Low,Clinic,Recovered,2025-09-24T04:29:26
+P0140,Ri-Bhoi,H557,D1186,29,Other,Dehydration,Diarrhea,Low,Hospital,Recovered,2025-09-20T11:19:26
+P0141,Kohima,H545,D2001,74,Female,Loose stools,Diarrhea,Low,ASHA Worker,Recovered,2025-08-31T06:25:26
+P0142,Kohima,H141,D1940,67,Other,Fever,Dysentery,Low,Hospital,Hospitalized,2025-09-18T14:09:26
+P0143,Shillong,H540,D7865,47,Male,Headache,Typhoid,Medium,Clinic,Hospitalized,2025-09-05T20:41:26
+P0144,Imphal East,H222,D1263,67,Other,Loose stools,Diarrhea,High,ASHA Worker,Hospitalized,2025-09-16T22:45:26
+P0145,Kamrup,H498,D9128,87,Female,Stomach cramps,Diarrhea,High,ASHA Worker,Recovered,2025-09-07T06:52:26
+P0146,Cachar,H973,D6008,9,Other,Abdominal pain,Dysentery,High,ASHA Worker,Recovered,2025-09-11T14:49:26
+P0147,Barpeta,H231,D2836,48,Male,Loose stools,Diarrhea,Medium,Clinic,Recovered,2025-09-05T21:16:26
+P0148,Jorhat,H661,D9245,61,Other,Fever,Typhoid,High,Hospital,Recovered,2025-09-01T17:56:26
+P0149,West Khasi Hills,H270,D8770,45,Male,Muscle cramps,Cholera,Low,Hospital,Hospitalized,2025-09-25T13:32:26
+P0150,Barpeta,H786,D2409,31,Other,Loose stools,Diarrhea,Medium,Clinic,Hospitalized,2025-09-21T19:36:26
+P0151,Imphal East,H423,D8446,29,Other,Jaundice,Hepatitis A,Medium,ASHA Worker,Hospitalized,2025-09-18T07:46:26
+P0152,Imphal East,H201,D2581,28,Other,Bloody diarrhea,Dysentery,High,ASHA Worker,Hospitalized,2025-09-06T22:54:26
+P0153,Imphal West,H109,D1253,1,Female,Watery diarrhea,Cholera,Medium,ASHA Worker,Hospitalized,2025-09-07T14:26:26
+P0154,Mokokchung,H194,D1270,19,Female,Dark urine,Hepatitis A,Low,ASHA Worker,Deceased,2025-09-10T16:08:26
+P0155,Shillong,H966,D7746,48,Male,Weakness,Typhoid,Low,Clinic,Deceased,2025-09-16T13:43:26
+P0156,Aizawl,H375,D1712,13,Other,Nausea,Hepatitis A,Medium,Hospital,Hospitalized,2025-09-10T01:37:26
+P0157,Ri-Bhoi,H242,D4371,27,Male,Muscle cramps,Cholera,High,ASHA Worker,Hospitalized,2025-09-01T23:30:26
+P0158,Mokokchung,H765,D5624,41,Male,Fatigue,Hepatitis A,High,Hospital,Deceased,2025-09-12T17:09:26
+P0159,Sonitpur,H561,D3424,89,Other,Loose stools,Diarrhea,Medium,Hospital,Deceased,2025-08-31T12:51:26
+P0160,Sonitpur,H145,D6371,2,Other,Watery diarrhea,Cholera,High,Hospital,Hospitalized,2025-09-01T03:22:26
+P0161,West Khasi Hills,H392,D6997,23,Male,Abdominal pain,Typhoid,High,Clinic,Hospitalized,2025-09-05T05:51:26
+P0162,Sonitpur,H146,D5959,68,Male,Loose stools,Diarrhea,High,ASHA Worker,Deceased,2025-09-14T08:34:26
+P0163,Dibrugarh,H721,D5600,81,Female,Weakness,Typhoid,High,Clinic,Hospitalized,2025-08-30T11:33:26
+P0164,East Khasi Hills,H376,D5332,86,Other,Jaundice,Hepatitis A,Medium,ASHA Worker,Hospitalized,2025-09-15T06:04:26
+P0165,Imphal East,H145,D4626,49,Other,Fever,Typhoid,Medium,Hospital,Recovered,2025-09-08T03:58:26
+P0166,Barpeta,H671,D5955,18,Female,Bloody diarrhea,Dysentery,Medium,ASHA Worker,Deceased,2025-09-25T00:25:26
+P0167,Shillong,H671,D3386,5,Other,Fever,Dysentery,Medium,ASHA Worker,Hospitalized,2025-09-06T02:43:26
+P0168,Jorhat,H482,D5890,87,Other,Abdominal pain,Typhoid,Medium,ASHA Worker,Recovered,2025-09-22T08:12:26
+P0169,Dibrugarh,H374,D6808,72,Male,Muscle cramps,Cholera,High,ASHA Worker,Recovered,2025-09-24T08:32:26
+P0170,Imphal West,H470,D3141,87,Other,Muscle cramps,Cholera,Medium,Clinic,Hospitalized,2025-09-05T22:13:26
+P0171,Mokokchung,H710,D9263,43,Male,Fever,Dysentery,Medium,Hospital,Recovered,2025-09-20T13:03:26
+P0172,West Khasi Hills,H912,D5118,34,Other,Headache,Typhoid,High,Hospital,Deceased,2025-08-30T09:35:26
+P0173,East Khasi Hills,H426,D3234,9,Other,Bloody diarrhea,Dysentery,Low,ASHA Worker,Deceased,2025-09-06T00:49:26
+P0174,East Khasi Hills,H746,D3033,34,Other,Fever,Dysentery,Low,ASHA Worker,Hospitalized,2025-09-25T19:20:26
+P0175,East Khasi Hills,H299,D9232,21,Female,Stomach cramps,Diarrhea,Medium,Hospital,Recovered,2025-09-16T06:41:26
+P0176,Mokokchung,H594,D8113,46,Male,Fever,Dysentery,Medium,Clinic,Recovered,2025-09-14T14:32:26
+P0177,Barpeta,H746,D9136,61,Female,Jaundice,Hepatitis A,High,Hospital,Deceased,2025-09-24T07:17:26
+P0178,Kamrup,H827,D1739,44,Male,Jaundice,Hepatitis A,High,Hospital,Recovered,2025-09-08T18:18:26
+P0179,Jorhat,H786,D1491,29,Male,Loose stools,Diarrhea,Low,Hospital,Deceased,2025-09-24T22:13:26
+P0180,Kamrup,H149,D8214,84,Male,Fever,Dysentery,Medium,ASHA Worker,Deceased,2025-09-21T07:17:26
+P0181,Barpeta,H356,D2305,22,Other,Fever,Typhoid,Low,ASHA Worker,Recovered,2025-09-02T05:08:26
+P0182,Imphal East,H164,D6236,1,Female,Dark urine,Hepatitis A,High,Clinic,Recovered,2025-09-12T20:48:26
+P0183,Mokokchung,H953,D7832,19,Male,Bloody diarrhea,Dysentery,Medium,Clinic,Hospitalized,2025-09-05T09:41:26
+P0184,Imphal West,H481,D8882,19,Female,Dehydration,Diarrhea,High,Hospital,Hospitalized,2025-09-15T22:31:26
+P0185,Shillong,H926,D2550,82,Other,Bloody diarrhea,Dysentery,High,Clinic,Recovered,2025-09-13T21:25:26
+P0186,West Khasi Hills,H597,D2170,46,Female,Watery diarrhea,Cholera,Low,Clinic,Deceased,2025-09-17T14:38:26
+P0187,Sonitpur,H656,D4175,69,Male,Nausea,Hepatitis A,Medium,ASHA Worker,Hospitalized,2025-09-21T02:40:26
+P0188,East Khasi Hills,H236,D7532,8,Female,Jaundice,Hepatitis A,Low,Clinic,Recovered,2025-09-14T18:09:26
+P0189,Kamrup,H788,D7670,77,Other,Dehydration,Diarrhea,Medium,Clinic,Deceased,2025-09-08T08:41:26
+P0190,Ri-Bhoi,H435,D4955,72,Male,Loose stools,Diarrhea,Medium,ASHA Worker,Deceased,2025-09-26T00:15:26
+P0191,Imphal West,H573,D3926,25,Female,Abdominal pain,Dysentery,High,Clinic,Recovered,2025-09-06T06:28:26
+P0192,Imphal East,H408,D9923,80,Male,Weakness,Typhoid,Medium,Clinic,Hospitalized,2025-09-23T02:04:26
+P0193,Imphal East,H961,D8139,81,Female,Severe dehydration,Cholera,Medium,Clinic,Recovered,2025-09-11T13:33:26
+P0194,Kohima,H987,D2389,9,Other,Dehydration,Diarrhea,Low,ASHA Worker,Deceased,2025-09-09T08:19:26
+P0195,Jorhat,H209,D4569,86,Male,Watery diarrhea,Cholera,Low,Hospital,Deceased,2025-09-03T08:09:26
+P0196,Sonitpur,H362,D7506,36,Female,Nausea,Hepatitis A,Medium,Clinic,Hospitalized,2025-09-06T03:10:26
+P0197,Barpeta,H290,D2989,11,Male,Severe dehydration,Cholera,High,Hospital,Deceased,2025-08-29T18:33:26
+P0198,East Khasi Hills,H482,D7090,71,Female,Severe dehydration,Cholera,Low,ASHA Worker,Recovered,2025-08-28T18:39:26
+P0199,West Khasi Hills,H179,D6389,43,Male,Fever,Typhoid,Low,ASHA Worker,Recovered,2025-08-30T00:03:26
+P0200,East Khasi Hills,H121,D1215,51,Other,Abdominal pain,Dysentery,Medium,Clinic,Recovered,2025-09-17T17:40:26
+P0201,Dibrugarh,H711,D7196,40,Other,Jaundice,Hepatitis A,High,Hospital,Recovered,2025-09-05T19:07:26
+P0202,Imphal East,H831,D3074,45,Male,Bloody diarrhea,Dysentery,Medium,Clinic,Hospitalized,2025-09-06T19:51:26
+P0203,Imphal East,H978,D5670,15,Other,Watery diarrhea,Cholera,High,Clinic,Hospitalized,2025-09-25T21:03:26
+P0204,Imphal East,H679,D9461,19,Female,Stomach cramps,Diarrhea,High,Clinic,Deceased,2025-09-03T19:22:26
+P0205,Sonitpur,H639,D4446,62,Male,Fever,Dysentery,Medium,Clinic,Deceased,2025-09-05T03:19:26
+P0206,Dibrugarh,H170,D1050,26,Other,Dehydration,Diarrhea,High,Clinic,Recovered,2025-09-16T21:34:26
+P0207,Ri-Bhoi,H728,D3243,32,Female,Abdominal pain,Dysentery,Medium,ASHA Worker,Hospitalized,2025-08-27T02:03:26
+P0208,Aizawl,H328,D6363,65,Female,Fatigue,Hepatitis A,Medium,Clinic,Hospitalized,2025-09-10T11:37:26
+P0209,Imphal East,H167,D8870,82,Other,Abdominal pain,Typhoid,Medium,Clinic,Recovered,2025-09-09T23:23:26
+P0210,Kohima,H657,D9690,39,Male,Stomach cramps,Diarrhea,Low,Clinic,Hospitalized,2025-09-02T23:58:26
+P0211,West Khasi Hills,H493,D1554,44,Other,Abdominal pain,Dysentery,Medium,ASHA Worker,Deceased,2025-09-02T22:29:26
+P0212,Kamrup,H503,D3505,61,Other,Weakness,Typhoid,Medium,Hospital,Deceased,2025-08-28T04:15:26
+P0213,Imphal East,H536,D1013,57,Other,Fever,Dysentery,Low,Hospital,Recovered,2025-09-23T15:23:26
+P0214,Cachar,H391,D3603,1,Other,Watery diarrhea,Cholera,Low,Clinic,Deceased,2025-09-25T04:11:26
+P0215,Ri-Bhoi,H108,D4675,78,Other,Headache,Typhoid,High,Clinic,Hospitalized,2025-09-07T07:26:26
+P0216,Mokokchung,H193,D1146,21,Male,Abdominal pain,Dysentery,Medium,Hospital,Deceased,2025-09-17T06:52:26
+P0217,Kohima,H972,D6672,56,Female,Headache,Typhoid,High,Hospital,Deceased,2025-09-09T05:57:26
+P0218,Dibrugarh,H434,D6430,13,Other,Loose stools,Diarrhea,High,Hospital,Deceased,2025-09-05T20:54:26
+P0219,East Khasi Hills,H718,D7388,64,Male,Watery diarrhea,Cholera,High,ASHA Worker,Recovered,2025-09-03T11:38:26
+P0220,Cachar,H752,D4521,80,Male,Loose stools,Diarrhea,Medium,Hospital,Deceased,2025-09-21T21:22:26
+P0221,Dibrugarh,H129,D5029,51,Male,Dark urine,Hepatitis A,High,Clinic,Deceased,2025-09-26T22:39:26
+P0222,Cachar,H773,D8203,59,Other,Nausea,Hepatitis A,Medium,Hospital,Deceased,2025-09-18T13:50:26
+P0223,Kohima,H133,D1725,68,Male,Loose stools,Diarrhea,Medium,ASHA Worker,Hospitalized,2025-09-22T23:55:26
+P0224,Dibrugarh,H867,D8790,54,Other,Nausea,Hepatitis A,High,Hospital,Deceased,2025-09-02T04:55:26
+P0225,Aizawl,H261,D1790,13,Female,Nausea,Hepatitis A,High,Clinic,Hospitalized,2025-08-29T05:45:26
+P0226,Cachar,H882,D4975,34,Male,Bloody diarrhea,Dysentery,Medium,Hospital,Deceased,2025-09-26T20:35:26
+P0227,Ri-Bhoi,H238,D9064,40,Female,Loose stools,Diarrhea,High,ASHA Worker,Hospitalized,2025-08-31T10:30:26
+P0228,Kamrup,H324,D5241,37,Male,Abdominal pain,Typhoid,High,ASHA Worker,Hospitalized,2025-09-02T21:09:26
+P0229,Cachar,H274,D3773,68,Female,Stomach cramps,Diarrhea,High,Hospital,Recovered,2025-08-31T08:27:26
+P0230,Kamrup,H679,D7991,43,Other,Fatigue,Hepatitis A,Medium,Clinic,Deceased,2025-09-19T11:03:26
+P0231,Imphal East,H614,D4508,62,Other,Headache,Typhoid,High,ASHA Worker,Deceased,2025-09-26T06:45:26
+P0232,Kamrup,H206,D8802,85,Other,Loose stools,Diarrhea,Medium,ASHA Worker,Recovered,2025-08-31T00:59:26
+P0233,Cachar,H111,D1517,86,Male,Headache,Typhoid,Medium,Clinic,Hospitalized,2025-08-27T00:12:26
+P0234,Aizawl,H940,D6063,42,Other,Vomiting,Cholera,High,Hospital,Recovered,2025-09-17T08:12:26
+P0235,Cachar,H961,D8578,87,Other,Dark urine,Hepatitis A,Low,Hospital,Recovered,2025-09-02T04:37:26
+P0236,Cachar,H646,D7954,75,Female,Muscle cramps,Cholera,Medium,ASHA Worker,Recovered,2025-09-17T09:13:26
+P0237,Shillong,H618,D3217,36,Female,Fever,Dysentery,High,ASHA Worker,Deceased,2025-09-01T12:28:26
+P0238,West Khasi Hills,H901,D2252,57,Other,Jaundice,Hepatitis A,High,Hospital,Hospitalized,2025-09-09T01:44:26
+P0239,Shillong,H580,D8431,76,Female,Watery diarrhea,Cholera,Low,Clinic,Hospitalized,2025-08-31T17:51:26
+P0240,Shillong,H376,D8498,22,Female,Abdominal pain,Dysentery,Low,Clinic,Hospitalized,2025-09-09T16:48:26
+P0241,Jorhat,H423,D5004,53,Female,Dehydration,Diarrhea,High,Hospital,Deceased,2025-09-12T22:41:26
+P0242,Shillong,H721,D8469,65,Male,Abdominal pain,Dysentery,Low,Hospital,Deceased,2025-09-02T15:51:26
+P0243,Mokokchung,H620,D3717,33,Male,Dark urine,Hepatitis A,Medium,Clinic,Hospitalized,2025-08-29T14:53:26
+P0244,Imphal West,H910,D1185,54,Male,Nausea,Hepatitis A,High,Clinic,Deceased,2025-09-17T05:17:26
+P0245,Ri-Bhoi,H720,D4961,88,Female,Fever,Dysentery,Medium,Hospital,Hospitalized,2025-09-20T02:23:26
+P0246,Kamrup,H896,D5853,32,Female,Nausea,Hepatitis A,High,Hospital,Recovered,2025-08-28T15:31:26
+P0247,Mokokchung,H115,D7480,80,Female,Fatigue,Hepatitis A,Low,Clinic,Recovered,2025-09-05T17:31:26
+P0248,Kamrup,H494,D3196,65,Other,Nausea,Hepatitis A,Medium,Hospital,Recovered,2025-08-31T07:27:26
+P0249,Aizawl,H693,D8337,38,Male,Abdominal pain,Dysentery,Medium,Hospital,Hospitalized,2025-09-01T20:03:26
+P0250,Sonitpur,H539,D3888,80,Other,Fatigue,Hepatitis A,Low,ASHA Worker,Hospitalized,2025-09-21T02:48:26
+P0251,Imphal West,H204,D7893,62,Female,Dark urine,Hepatitis A,High,ASHA Worker,Recovered,2025-09-05T14:16:26
+P0252,Kamrup,H210,D4522,51,Male,Headache,Typhoid,High,Clinic,Recovered,2025-09-10T09:29:26
+P0253,Barpeta,H219,D1678,40,Other,Jaundice,Hepatitis A,High,Hospital,Hospitalized,2025-09-18T07:01:26
+P0254,Imphal East,H352,D8708,46,Female,Severe dehydration,Cholera,Medium,Hospital,Hospitalized,2025-09-01T10:20:26
+P0255,Barpeta,H295,D5273,21,Male,Headache,Typhoid,High,ASHA Worker,Hospitalized,2025-08-29T16:46:26
+P0256,Imphal East,H487,D5682,29,Female,Jaundice,Hepatitis A,Medium,ASHA Worker,Recovered,2025-09-06T21:51:26
+P0257,Kohima,H602,D4927,89,Other,Abdominal pain,Typhoid,High,Clinic,Deceased,2025-09-13T10:23:26
+P0258,Sonitpur,H363,D4193,33,Female,Fatigue,Hepatitis A,High,Hospital,Hospitalized,2025-09-01T17:34:26
+P0259,Mokokchung,H952,D9810,6,Male,Abdominal pain,Typhoid,Low,Hospital,Recovered,2025-09-11T04:52:26
+P0260,Imphal East,H132,D3688,80,Male,Watery diarrhea,Cholera,High,Hospital,Recovered,2025-09-23T09:37:26
+P0261,Aizawl,H630,D6456,54,Male,Headache,Typhoid,Low,Clinic,Hospitalized,2025-09-05T01:41:26
+P0262,Sonitpur,H651,D1200,34,Male,Vomiting,Cholera,Medium,Hospital,Recovered,2025-09-04T07:32:26
+P0263,Dibrugarh,H529,D4769,83,Male,Fatigue,Hepatitis A,Medium,Hospital,Recovered,2025-09-03T09:45:26
+P0264,Jorhat,H749,D9933,50,Female,Weakness,Typhoid,Low,ASHA Worker,Hospitalized,2025-09-21T08:14:26
+P0265,Kohima,H644,D2001,5,Female,Jaundice,Hepatitis A,Low,ASHA Worker,Recovered,2025-09-20T12:25:26
+P0266,Imphal East,H492,D4604,53,Other,Fever,Dysentery,High,Hospital,Deceased,2025-09-03T22:43:26
+P0267,Shillong,H334,D1135,15,Other,Muscle cramps,Cholera,Medium,ASHA Worker,Deceased,2025-09-04T12:41:26
+P0268,Shillong,H696,D9999,18,Female,Loose stools,Diarrhea,Low,Clinic,Hospitalized,2025-09-26T19:15:26
+P0269,Ri-Bhoi,H988,D3228,38,Other,Nausea,Hepatitis A,Medium,Clinic,Recovered,2025-09-10T11:19:26
+P0270,Imphal East,H743,D1820,23,Female,Weakness,Typhoid,Medium,Clinic,Recovered,2025-09-25T12:50:26
+P0271,Mokokchung,H566,D9948,69,Male,Watery diarrhea,Cholera,Low,Clinic,Hospitalized,2025-09-06T08:28:26
+P0272,Barpeta,H644,D5308,2,Male,Jaundice,Hepatitis A,Low,Hospital,Recovered,2025-09-03T07:22:26
+P0273,Cachar,H836,D5867,64,Other,Muscle cramps,Cholera,Low,ASHA Worker,Deceased,2025-09-23T12:59:26
+P0274,Aizawl,H170,D4897,57,Female,Abdominal pain,Dysentery,High,Hospital,Deceased,2025-09-06T03:46:26
+P0275,East Khasi Hills,H962,D8475,37,Other,Loose stools,Diarrhea,High,ASHA Worker,Deceased,2025-09-07T13:00:26
+P0276,Kohima,H832,D7522,90,Female,Abdominal pain,Dysentery,High,Clinic,Hospitalized,2025-09-03T02:19:26
+P0277,Imphal East,H969,D7996,21,Female,Fatigue,Hepatitis A,High,ASHA Worker,Recovered,2025-09-03T22:26:26
+P0278,Ri-Bhoi,H904,D9772,26,Male,Abdominal pain,Dysentery,Medium,ASHA Worker,Deceased,2025-09-05T03:18:26
+P0279,Kohima,H726,D7801,2,Female,Fever,Typhoid,Low,Hospital,Recovered,2025-09-12T14:50:26
+P0280,Aizawl,H359,D9241,84,Other,Fever,Dysentery,Low,ASHA Worker,Deceased,2025-09-22T21:48:26
+P0281,West Khasi Hills,H534,D5770,40,Female,Abdominal pain,Dysentery,High,ASHA Worker,Deceased,2025-09-13T01:55:26
+P0282,Jorhat,H750,D8559,23,Male,Dark urine,Hepatitis A,High,Clinic,Hospitalized,2025-09-04T08:11:26
+P0283,Shillong,H561,D9499,1,Female,Fatigue,Hepatitis A,Medium,ASHA Worker,Deceased,2025-09-15T03:00:26
+P0284,Cachar,H375,D3990,54,Other,Abdominal pain,Typhoid,Medium,Hospital,Recovered,2025-09-14T11:30:26
+P0285,Jorhat,H120,D1683,38,Male,Stomach cramps,Diarrhea,High,Clinic,Recovered,2025-09-16T07:49:26
+P0286,Cachar,H766,D7089,89,Female,Dehydration,Diarrhea,Medium,Clinic,Recovered,2025-09-19T16:36:26
+P0287,Imphal East,H139,D8839,26,Female,Vomiting,Cholera,Low,ASHA Worker,Deceased,2025-09-11T01:12:26
+P0288,Ri-Bhoi,H790,D3311,58,Male,Bloody diarrhea,Dysentery,Low,Clinic,Hospitalized,2025-09-15T15:29:26
+P0289,Kamrup,H113,D2802,16,Male,Fever,Dysentery,Medium,ASHA Worker,Recovered,2025-09-15T10:23:26
+P0290,Kamrup,H731,D2061,67,Female,Loose stools,Diarrhea,Medium,ASHA Worker,Recovered,2025-09-19T11:25:26
+P0291,Ri-Bhoi,H140,D9729,35,Female,Fever,Dysentery,Medium,Clinic,Hospitalized,2025-09-13T07:44:26
+P0292,Mokokchung,H337,D1115,19,Other,Severe dehydration,Cholera,Medium,ASHA Worker,Deceased,2025-09-25T15:56:26
+P0293,Kamrup,H720,D5593,58,Other,Fatigue,Hepatitis A,High,Hospital,Hospitalized,2025-08-31T09:28:26
+P0294,West Khasi Hills,H878,D4003,8,Female,Bloody diarrhea,Dysentery,Low,Hospital,Deceased,2025-09-15T00:24:26
+P0295,West Khasi Hills,H474,D4851,67,Female,Weakness,Typhoid,Low,Hospital,Deceased,2025-09-02T00:44:26
+P0296,Mokokchung,H745,D2490,44,Male,Headache,Typhoid,Low,ASHA Worker,Deceased,2025-09-13T19:42:26
+P0297,Kamrup,H762,D5862,80,Female,Fatigue,Hepatitis A,High,Clinic,Hospitalized,2025-09-09T21:05:26
+P0298,Kohima,H585,D9726,42,Male,Severe dehydration,Cholera,Low,ASHA Worker,Hospitalized,2025-09-25T14:39:26
+P0299,Sonitpur,H590,D5658,2,Male,Fever,Typhoid,High,ASHA Worker,Recovered,2025-09-13T05:36:26
+P0300,Imphal East,H530,D6226,12,Female,Fever,Typhoid,Low,Clinic,Deceased,2025-09-15T23:00:26
+P0301,Kamrup,H474,D2657,20,Other,Loose stools,Diarrhea,Medium,Clinic,Recovered,2025-09-21T19:35:26
+P0302,Ri-Bhoi,H800,D6124,39,Male,Nausea,Hepatitis A,Medium,ASHA Worker,Recovered,2025-09-11T14:41:26
+P0303,Mokokchung,H898,D4009,10,Female,Nausea,Hepatitis A,Low,Hospital,Hospitalized,2025-08-31T05:42:26
+P0304,Aizawl,H559,D6900,38,Other,Fever,Dysentery,Medium,ASHA Worker,Hospitalized,2025-09-26T12:39:26
+P0305,Imphal East,H726,D9902,53,Male,Abdominal pain,Dysentery,High,ASHA Worker,Recovered,2025-09-10T02:43:26
+P0306,Mokokchung,H118,D6940,84,Female,Dark urine,Hepatitis A,Medium,Clinic,Recovered,2025-08-27T02:56:26
+P0307,Kamrup,H912,D3361,8,Female,Dark urine,Hepatitis A,High,Hospital,Deceased,2025-09-08T08:39:26
+P0308,Sonitpur,H503,D3080,84,Female,Dehydration,Diarrhea,Low,Clinic,Recovered,2025-09-23T01:00:26
+P0309,Sonitpur,H766,D5813,12,Other,Bloody diarrhea,Dysentery,Medium,Clinic,Deceased,2025-09-12T20:46:26
+P0310,Mokokchung,H319,D2032,47,Other,Nausea,Hepatitis A,Medium,ASHA Worker,Hospitalized,2025-09-05T05:02:26
+P0311,West Khasi Hills,H697,D2242,71,Other,Loose stools,Diarrhea,High,Hospital,Deceased,2025-09-09T11:18:26
+P0312,Mokokchung,H759,D4236,36,Male,Abdominal pain,Typhoid,Low,ASHA Worker,Hospitalized,2025-09-19T15:56:26
+P0313,Imphal East,H292,D7540,6,Other,Muscle cramps,Cholera,Low,Clinic,Hospitalized,2025-08-28T18:07:26
+P0314,Dibrugarh,H427,D8299,17,Female,Stomach cramps,Diarrhea,Medium,ASHA Worker,Recovered,2025-09-17T04:17:26
+P0315,Mokokchung,H903,D6614,45,Female,Vomiting,Cholera,High,ASHA Worker,Deceased,2025-09-20T14:28:26
+P0316,Ri-Bhoi,H358,D3717,52,Other,Abdominal pain,Dysentery,Medium,ASHA Worker,Recovered,2025-09-05T14:11:26
+P0317,Barpeta,H474,D2013,32,Other,Dark urine,Hepatitis A,High,ASHA Worker,Deceased,2025-09-17T05:12:26
+P0318,West Khasi Hills,H901,D3315,74,Female,Dehydration,Diarrhea,High,ASHA Worker,Recovered,2025-08-31T11:48:26
+P0319,Dibrugarh,H186,D9662,55,Female,Jaundice,Hepatitis A,Medium,Hospital,Recovered,2025-09-14T07:44:26
+P0320,Dibrugarh,H839,D4910,3,Female,Headache,Typhoid,High,ASHA Worker,Recovered,2025-09-08T07:57:26
+P0321,Aizawl,H906,D9413,89,Male,Abdominal pain,Dysentery,Medium,Clinic,Hospitalized,2025-09-22T22:22:26
+P0322,East Khasi Hills,H411,D5045,58,Male,Jaundice,Hepatitis A,Medium,Clinic,Recovered,2025-09-05T16:39:26
+P0323,Mokokchung,H647,D9908,86,Other,Bloody diarrhea,Dysentery,Low,Hospital,Recovered,2025-09-03T00:49:26
+P0324,Imphal East,H780,D9392,40,Other,Bloody diarrhea,Dysentery,Medium,Clinic,Hospitalized,2025-09-24T08:53:26
+P0325,Sonitpur,H745,D2754,52,Male,Bloody diarrhea,Dysentery,Medium,Clinic,Hospitalized,2025-09-19T06:57:26
+P0326,Sonitpur,H198,D2736,86,Other,Weakness,Typhoid,High,ASHA Worker,Hospitalized,2025-08-30T03:20:26
+P0327,Sonitpur,H479,D2369,80,Female,Weakness,Typhoid,Medium,Clinic,Deceased,2025-09-12T19:35:26
+P0328,Sonitpur,H751,D4701,30,Female,Bloody diarrhea,Dysentery,High,ASHA Worker,Deceased,2025-08-31T23:12:26
+P0329,Ri-Bhoi,H332,D5876,48,Other,Stomach cramps,Diarrhea,High,ASHA Worker,Hospitalized,2025-09-18T17:14:26
+P0330,Imphal West,H535,D6938,46,Male,Abdominal pain,Dysentery,High,Clinic,Deceased,2025-09-23T01:50:26
+P0331,Dibrugarh,H266,D5552,67,Male,Abdominal pain,Typhoid,High,Clinic,Hospitalized,2025-09-25T22:12:26
+P0332,Kamrup,H216,D3926,7,Female,Loose stools,Diarrhea,High,Clinic,Recovered,2025-09-04T20:08:26
+P0333,Imphal East,H663,D9284,32,Female,Dehydration,Diarrhea,High,ASHA Worker,Recovered,2025-09-24T01:05:26
+P0334,Kohima,H230,D3325,7,Other,Dark urine,Hepatitis A,Medium,Clinic,Recovered,2025-09-17T04:35:26
+P0335,Jorhat,H190,D2348,7,Male,Stomach cramps,Diarrhea,Low,ASHA Worker,Recovered,2025-09-09T08:02:26
+P0336,Cachar,H938,D9726,26,Other,Bloody diarrhea,Dysentery,Low,Hospital,Deceased,2025-08-29T09:46:26
+P0337,Sonitpur,H705,D4270,50,Other,Dark urine,Hepatitis A,High,Clinic,Hospitalized,2025-09-20T06:31:26
+P0338,Kohima,H960,D1291,89,Female,Bloody diarrhea,Dysentery,Low,ASHA Worker,Hospitalized,2025-09-12T10:47:26
+P0339,Dibrugarh,H611,D5409,84,Female,Loose stools,Diarrhea,High,Hospital,Hospitalized,2025-08-31T23:08:26
+P0340,Cachar,H416,D3477,33,Male,Weakness,Typhoid,Low,Clinic,Deceased,2025-09-25T01:34:26
+P0341,Kohima,H642,D1815,8,Female,Dehydration,Diarrhea,High,Hospital,Hospitalized,2025-09-22T17:52:26
+P0342,Imphal West,H842,D9576,36,Male,Jaundice,Hepatitis A,Low,ASHA Worker,Hospitalized,2025-09-25T23:01:26
+P0343,Cachar,H971,D6527,82,Other,Nausea,Hepatitis A,Medium,Clinic,Deceased,2025-08-30T17:00:26
+P0344,Cachar,H387,D4568,63,Female,Vomiting,Cholera,Low,Clinic,Hospitalized,2025-09-10T03:55:26
+P0345,Barpeta,H337,D5048,71,Other,Nausea,Hepatitis A,Low,ASHA Worker,Recovered,2025-09-13T21:52:26
+P0346,Mokokchung,H959,D2433,61,Other,Stomach cramps,Diarrhea,Low,Hospital,Recovered,2025-09-22T00:19:26
+P0347,Sonitpur,H513,D4928,74,Other,Nausea,Hepatitis A,Medium,Hospital,Hospitalized,2025-09-04T18:05:26
+P0348,Barpeta,H751,D8749,82,Other,Stomach cramps,Diarrhea,Low,Hospital,Hospitalized,2025-09-23T18:25:26
+P0349,Aizawl,H131,D7630,53,Male,Jaundice,Hepatitis A,Medium,Hospital,Recovered,2025-09-02T17:29:26
+P0350,Aizawl,H160,D5477,72,Other,Fever,Typhoid,Low,Hospital,Deceased,2025-09-20T23:50:26
+P0351,Aizawl,H510,D6183,85,Male,Fever,Typhoid,Low,ASHA Worker,Recovered,2025-09-17T10:21:26
+P0352,Dibrugarh,H587,D2471,90,Female,Muscle cramps,Cholera,Medium,ASHA Worker,Deceased,2025-09-06T20:02:26
+P0353,East Khasi Hills,H995,D6975,66,Female,Fatigue,Hepatitis A,Medium,Hospital,Recovered,2025-09-25T09:37:26
+P0354,Kohima,H687,D2599,46,Other,Jaundice,Hepatitis A,High,ASHA Worker,Deceased,2025-09-04T13:20:26
+P0355,Cachar,H884,D5214,40,Female,Dehydration,Diarrhea,High,Clinic,Recovered,2025-09-09T07:11:26
+P0356,Aizawl,H194,D6769,73,Female,Abdominal pain,Typhoid,Medium,ASHA Worker,Deceased,2025-09-13T15:17:26
+P0357,Imphal West,H145,D6367,70,Other,Stomach cramps,Diarrhea,High,ASHA Worker,Recovered,2025-09-05T13:31:26
+P0358,Barpeta,H374,D4953,29,Other,Jaundice,Hepatitis A,High,Clinic,Recovered,2025-09-23T13:29:26
+P0359,Imphal West,H669,D2990,6,Other,Abdominal pain,Typhoid,Medium,Clinic,Deceased,2025-09-16T03:22:26
+P0360,Sonitpur,H112,D6270,82,Female,Abdominal pain,Dysentery,High,Clinic,Deceased,2025-09-12T06:48:26
+P0361,Kamrup,H135,D8557,78,Male,Severe dehydration,Cholera,Medium,ASHA Worker,Hospitalized,2025-09-12T05:40:26
+P0362,Shillong,H553,D4267,89,Female,Loose stools,Diarrhea,Medium,Hospital,Recovered,2025-09-18T18:51:26
+P0363,Shillong,H552,D6073,34,Female,Fever,Typhoid,Low,ASHA Worker,Recovered,2025-09-03T04:14:26
+P0364,Kamrup,H632,D9203,50,Female,Headache,Typhoid,High,Clinic,Deceased,2025-08-31T18:40:26
+P0365,Barpeta,H658,D4976,83,Other,Bloody diarrhea,Dysentery,Medium,Hospital,Hospitalized,2025-09-19T09:32:26
+P0366,West Khasi Hills,H404,D5389,61,Female,Fatigue,Hepatitis A,Low,Hospital,Recovered,2025-08-29T05:00:26
+P0367,Sonitpur,H994,D2501,84,Female,Fatigue,Hepatitis A,High,Hospital,Hospitalized,2025-09-15T15:51:26
+P0368,Barpeta,H413,D8797,55,Male,Loose stools,Diarrhea,Low,Hospital,Recovered,2025-09-18T17:42:26
+P0369,Mokokchung,H293,D7623,52,Female,Dehydration,Diarrhea,High,Hospital,Deceased,2025-09-24T10:16:26
+P0370,Imphal West,H706,D9699,82,Female,Dehydration,Diarrhea,High,Hospital,Deceased,2025-09-07T04:46:26
+P0371,Shillong,H535,D6074,58,Other,Headache,Typhoid,Medium,Hospital,Hospitalized,2025-09-09T21:00:26
+P0372,Ri-Bhoi,H935,D1821,27,Other,Vomiting,Cholera,Low,Hospital,Recovered,2025-09-06T09:51:26
+P0373,Imphal East,H447,D6925,66,Other,Loose stools,Diarrhea,Medium,Clinic,Recovered,2025-09-20T16:44:26
+P0374,Barpeta,H850,D5972,33,Female,Vomiting,Cholera,High,Hospital,Deceased,2025-09-12T21:12:26
+P0375,Cachar,H418,D5330,30,Male,Stomach cramps,Diarrhea,Low,Hospital,Deceased,2025-09-02T05:14:26
+P0376,Sonitpur,H400,D7159,24,Female,Muscle cramps,Cholera,Medium,Hospital,Recovered,2025-08-29T17:43:26
+P0377,Ri-Bhoi,H711,D8280,65,Female,Stomach cramps,Diarrhea,Low,ASHA Worker,Deceased,2025-09-20T11:27:26
+P0378,Ri-Bhoi,H840,D3354,5,Other,Loose stools,Diarrhea,Medium,Hospital,Recovered,2025-09-12T22:34:26
+P0379,Mokokchung,H429,D1187,69,Female,Abdominal pain,Dysentery,Medium,Hospital,Deceased,2025-08-31T05:13:26
+P0380,Dibrugarh,H519,D2604,80,Female,Dark urine,Hepatitis A,High,ASHA Worker,Deceased,2025-09-01T15:16:26
+P0381,Mokokchung,H570,D6027,56,Female,Dark urine,Hepatitis A,Low,Clinic,Deceased,2025-09-13T11:37:26
+P0382,Dibrugarh,H432,D2075,60,Other,Fever,Typhoid,High,ASHA Worker,Hospitalized,2025-09-16T10:36:26
+P0383,Barpeta,H889,D3347,51,Male,Muscle cramps,Cholera,Low,Clinic,Hospitalized,2025-08-31T04:52:26
+P0384,Kohima,H439,D9850,40,Female,Fatigue,Hepatitis A,Medium,ASHA Worker,Hospitalized,2025-09-09T12:30:26
+P0385,Cachar,H272,D1524,13,Other,Watery diarrhea,Cholera,High,Hospital,Recovered,2025-08-31T21:57:26
+P0386,Imphal East,H687,D3976,73,Other,Bloody diarrhea,Dysentery,High,ASHA Worker,Deceased,2025-08-31T07:27:26
+P0387,Barpeta,H471,D8157,18,Female,Loose stools,Diarrhea,Medium,ASHA Worker,Recovered,2025-09-12T23:44:26
+P0388,West Khasi Hills,H241,D5764,20,Male,Fever,Dysentery,Medium,Clinic,Hospitalized,2025-09-02T12:29:26
+P0389,Jorhat,H801,D1123,75,Male,Fever,Typhoid,Medium,ASHA Worker,Recovered,2025-09-20T14:05:26
+P0390,Imphal West,H557,D2747,83,Male,Jaundice,Hepatitis A,Medium,ASHA Worker,Recovered,2025-09-17T21:26:26
+P0391,Kamrup,H284,D9726,76,Male,Bloody diarrhea,Dysentery,Medium,Hospital,Hospitalized,2025-08-29T08:20:26
+P0392,Imphal East,H870,D4841,26,Female,Abdominal pain,Dysentery,Low,Hospital,Hospitalized,2025-09-21T20:37:26
+P0393,Sonitpur,H447,D3848,39,Other,Headache,Typhoid,High,Clinic,Hospitalized,2025-09-18T18:51:26
+P0394,Dibrugarh,H684,D4973,41,Other,Loose stools,Diarrhea,High,Hospital,Deceased,2025-09-01T09:07:26
+P0395,Kohima,H147,D9465,22,Male,Headache,Typhoid,Low,ASHA Worker,Recovered,2025-09-05T21:58:26
+P0396,West Khasi Hills,H767,D6722,59,Male,Dark urine,Hepatitis A,Medium,Clinic,Hospitalized,2025-09-08T11:34:26
+P0397,Cachar,H268,D9611,71,Female,Stomach cramps,Diarrhea,High,Clinic,Hospitalized,2025-09-13T17:06:26
+P0398,Sonitpur,H685,D5382,79,Female,Headache,Typhoid,Low,Hospital,Hospitalized,2025-09-22T05:17:26
+P0399,Mokokchung,H259,D8099,38,Other,Headache,Typhoid,Medium,ASHA Worker,Recovered,2025-09-13T08:23:26
+P0400,Barpeta,H151,D3950,3,Female,Abdominal pain,Dysentery,Medium,Hospital,Deceased,2025-09-10T19:39:26
+P0401,Kohima,H851,D5120,45,Other,Weakness,Typhoid,Low,Clinic,Hospitalized,2025-09-15T01:21:26
+P0402,Kohima,H140,D7535,78,Male,Abdominal pain,Typhoid,Medium,Hospital,Hospitalized,2025-09-22T05:11:26
+P0403,Mokokchung,H494,D4019,70,Female,Dark urine,Hepatitis A,Medium,Hospital,Hospitalized,2025-08-29T09:35:26
+P0404,Ri-Bhoi,H283,D8478,7,Other,Stomach cramps,Diarrhea,Medium,Clinic,Deceased,2025-09-03T13:37:26
+P0405,Ri-Bhoi,H875,D6267,68,Other,Headache,Typhoid,Medium,Clinic,Hospitalized,2025-09-25T10:14:26
+P0406,Shillong,H221,D7330,88,Female,Fever,Dysentery,High,Hospital,Hospitalized,2025-09-09T21:40:26
+P0407,Kohima,H101,D7449,45,Female,Jaundice,Hepatitis A,Low,Hospital,Deceased,2025-09-06T06:44:26
+P0408,Kohima,H211,D5979,12,Male,Severe dehydration,Cholera,Medium,Hospital,Deceased,2025-09-02T12:18:26
+P0409,Mokokchung,H904,D5336,81,Other,Dehydration,Diarrhea,High,Hospital,Recovered,2025-09-08T13:52:26
+P0410,East Khasi Hills,H624,D8058,3,Male,Headache,Typhoid,Low,Hospital,Recovered,2025-08-30T14:24:26
+P0411,Ri-Bhoi,H494,D1462,67,Other,Loose stools,Diarrhea,Medium,ASHA Worker,Deceased,2025-09-18T09:50:26
+P0412,Mokokchung,H841,D1758,46,Female,Abdominal pain,Dysentery,Low,Clinic,Recovered,2025-09-25T12:09:26
+P0413,Imphal East,H253,D3534,54,Other,Weakness,Typhoid,Low,Hospital,Recovered,2025-09-20T12:12:26
+P0414,Barpeta,H308,D3904,15,Female,Nausea,Hepatitis A,Medium,Clinic,Hospitalized,2025-09-05T12:32:26
+P0415,Kohima,H744,D5857,21,Other,Dark urine,Hepatitis A,High,Clinic,Recovered,2025-09-22T04:14:26
+P0416,Ri-Bhoi,H628,D1322,15,Male,Fever,Typhoid,Medium,ASHA Worker,Deceased,2025-09-08T14:21:26
+P0417,East Khasi Hills,H870,D5589,65,Male,Loose stools,Diarrhea,Medium,ASHA Worker,Hospitalized,2025-09-07T21:31:26
+P0418,Imphal East,H106,D1591,63,Other,Watery diarrhea,Cholera,Medium,ASHA Worker,Recovered,2025-09-24T10:00:26
+P0419,Sonitpur,H562,D9066,71,Female,Fever,Dysentery,Medium,ASHA Worker,Deceased,2025-08-27T03:09:26
+P0420,Imphal West,H940,D8535,10,Female,Stomach cramps,Diarrhea,Low,Hospital,Hospitalized,2025-09-05T16:48:26
+P0421,Imphal East,H874,D7506,3,Male,Watery diarrhea,Cholera,Low,Clinic,Recovered,2025-09-19T21:52:26
+P0422,Ri-Bhoi,H374,D7617,47,Male,Loose stools,Diarrhea,High,Hospital,Recovered,2025-08-27T19:22:26
+P0423,Barpeta,H595,D3178,89,Female,Muscle cramps,Cholera,Medium,Clinic,Deceased,2025-08-30T18:31:26
+P0424,Kohima,H893,D6157,69,Female,Headache,Typhoid,Medium,ASHA Worker,Hospitalized,2025-09-06T16:52:26
+P0425,Aizawl,H529,D5273,46,Male,Nausea,Hepatitis A,Low,ASHA Worker,Hospitalized,2025-09-25T04:04:26
+P0426,Imphal West,H782,D3342,87,Male,Vomiting,Cholera,Medium,ASHA Worker,Recovered,2025-09-07T20:41:26
+P0427,Jorhat,H762,D6031,47,Other,Weakness,Typhoid,Medium,Clinic,Recovered,2025-08-27T16:37:26
+P0428,East Khasi Hills,H911,D1933,64,Other,Bloody diarrhea,Dysentery,Medium,Clinic,Hospitalized,2025-09-09T16:39:26
+P0429,Imphal West,H647,D8373,63,Male,Nausea,Hepatitis A,Medium,Clinic,Hospitalized,2025-09-25T17:09:26
+P0430,Shillong,H966,D8979,25,Other,Bloody diarrhea,Dysentery,Medium,Hospital,Hospitalized,2025-08-29T10:35:26
+P0431,West Khasi Hills,H728,D9316,50,Female,Fatigue,Hepatitis A,Low,Hospital,Deceased,2025-09-26T15:29:26
+P0432,Cachar,H165,D3533,60,Male,Abdominal pain,Typhoid,Low,Hospital,Deceased,2025-08-28T16:11:26
+P0433,East Khasi Hills,H859,D2288,81,Male,Jaundice,Hepatitis A,Low,ASHA Worker,Hospitalized,2025-09-17T13:17:26
+P0434,Kohima,H185,D7863,65,Female,Loose stools,Diarrhea,High,Clinic,Deceased,2025-09-20T04:10:26
+P0435,Ri-Bhoi,H612,D6955,46,Female,Weakness,Typhoid,Low,Hospital,Hospitalized,2025-09-24T17:27:26
+P0436,Kohima,H298,D8101,76,Female,Headache,Typhoid,High,ASHA Worker,Deceased,2025-09-26T22:30:26
+P0437,East Khasi Hills,H595,D3887,29,Other,Stomach cramps,Diarrhea,Medium,Clinic,Deceased,2025-08-27T12:04:26
+P0438,Kamrup,H158,D2138,33,Male,Weakness,Typhoid,High,ASHA Worker,Hospitalized,2025-09-06T06:52:26
+P0439,Imphal West,H192,D3749,76,Female,Watery diarrhea,Cholera,High,Clinic,Hospitalized,2025-09-08T05:31:26
+P0440,Kamrup,H117,D4270,42,Other,Severe dehydration,Cholera,High,ASHA Worker,Hospitalized,2025-09-18T03:32:26
+P0441,Kamrup,H770,D4141,16,Male,Nausea,Hepatitis A,High,Clinic,Hospitalized,2025-09-02T22:33:26
+P0442,West Khasi Hills,H483,D4519,65,Female,Abdominal pain,Typhoid,Low,Clinic,Recovered,2025-09-11T07:32:26
+P0443,Sonitpur,H199,D5522,3,Female,Severe dehydration,Cholera,Low,Clinic,Deceased,2025-09-01T17:52:26
+P0444,Barpeta,H559,D1314,21,Male,Jaundice,Hepatitis A,Low,Clinic,Hospitalized,2025-09-02T13:08:26
+P0445,Dibrugarh,H344,D5026,48,Male,Dehydration,Diarrhea,High,Hospital,Deceased,2025-08-31T05:32:26
+P0446,Sonitpur,H618,D6639,26,Other,Fever,Dysentery,Low,Clinic,Hospitalized,2025-09-16T18:34:26
+P0447,Mokokchung,H735,D8396,5,Female,Stomach cramps,Diarrhea,Low,Clinic,Deceased,2025-09-14T05:21:26
+P0448,Sonitpur,H203,D8611,84,Male,Weakness,Typhoid,High,Hospital,Hospitalized,2025-09-26T17:29:26
+P0449,Kohima,H697,D4862,2,Male,Nausea,Hepatitis A,Low,Hospital,Deceased,2025-09-24T05:01:26
+P0450,Aizawl,H871,D3062,75,Male,Severe dehydration,Cholera,High,ASHA Worker,Recovered,2025-09-09T12:12:26
+P0451,Cachar,H870,D5921,56,Male,Dark urine,Hepatitis A,High,Clinic,Deceased,2025-09-10T10:59:26
+P0452,East Khasi Hills,H882,D8546,71,Female,Dark urine,Hepatitis A,High,ASHA Worker,Hospitalized,2025-09-18T10:21:26
+P0453,West Khasi Hills,H583,D7054,23,Female,Jaundice,Hepatitis A,Medium,Clinic,Recovered,2025-09-21T13:31:26
+P0454,Kohima,H882,D1460,17,Female,Headache,Typhoid,Medium,ASHA Worker,Recovered,2025-09-13T06:42:26
+P0455,Ri-Bhoi,H354,D6062,27,Female,Weakness,Typhoid,Low,Clinic,Hospitalized,2025-08-30T19:50:26
+P0456,Jorhat,H368,D9681,19,Male,Bloody diarrhea,Dysentery,Low,Hospital,Deceased,2025-09-02T12:41:26
+P0457,Cachar,H631,D7592,59,Female,Headache,Typhoid,Medium,Clinic,Hospitalized,2025-08-27T06:54:26
+P0458,East Khasi Hills,H839,D8261,81,Other,Jaundice,Hepatitis A,Low,Clinic,Deceased,2025-08-29T13:05:26
+P0459,Aizawl,H960,D9571,67,Male,Headache,Typhoid,High,Hospital,Hospitalized,2025-09-04T12:38:26
+P0460,Cachar,H477,D5607,72,Other,Muscle cramps,Cholera,High,Hospital,Deceased,2025-09-08T16:10:26
+P0461,Aizawl,H496,D4114,47,Other,Watery diarrhea,Cholera,High,ASHA Worker,Recovered,2025-09-21T13:09:26
+P0462,Barpeta,H205,D8374,35,Male,Nausea,Hepatitis A,Low,ASHA Worker,Recovered,2025-09-20T21:52:26
+P0463,Sonitpur,H733,D9020,7,Female,Stomach cramps,Diarrhea,Low,Hospital,Deceased,2025-08-26T23:57:26
+P0464,Cachar,H491,D4052,22,Female,Vomiting,Cholera,Medium,ASHA Worker,Hospitalized,2025-09-01T17:14:26
+P0465,Kohima,H622,D4139,17,Other,Abdominal pain,Dysentery,Medium,Clinic,Deceased,2025-08-29T23:02:26
+P0466,Cachar,H831,D9087,70,Female,Fatigue,Hepatitis A,High,Clinic,Hospitalized,2025-09-14T21:39:26
+P0467,Barpeta,H884,D5028,30,Male,Headache,Typhoid,Low,ASHA Worker,Recovered,2025-09-10T16:20:26
+P0468,Barpeta,H356,D9176,33,Other,Bloody diarrhea,Dysentery,Medium,ASHA Worker,Deceased,2025-09-26T22:11:26
+P0469,Aizawl,H618,D2272,33,Male,Fever,Dysentery,Low,ASHA Worker,Deceased,2025-09-03T20:56:26
+P0470,Dibrugarh,H669,D1370,70,Other,Dark urine,Hepatitis A,High,Hospital,Hospitalized,2025-08-29T07:52:26
+P0471,Kamrup,H239,D4457,14,Other,Fever,Typhoid,High,Clinic,Recovered,2025-09-06T02:15:26
+P0472,Imphal West,H766,D7709,44,Male,Watery diarrhea,Cholera,High,Clinic,Recovered,2025-09-23T06:13:26
+P0473,West Khasi Hills,H825,D8421,26,Male,Fatigue,Hepatitis A,High,Clinic,Hospitalized,2025-08-27T18:58:26
+P0474,Kohima,H691,D6842,29,Female,Nausea,Hepatitis A,Low,Hospital,Recovered,2025-09-11T10:37:26
+P0475,Kohima,H233,D5358,70,Male,Bloody diarrhea,Dysentery,High,Hospital,Hospitalized,2025-08-28T03:32:26
+P0476,Barpeta,H921,D8477,80,Female,Loose stools,Diarrhea,Low,ASHA Worker,Deceased,2025-09-09T06:18:26
+P0477,Kohima,H894,D6237,51,Other,Abdominal pain,Dysentery,High,Hospital,Deceased,2025-08-28T00:23:26
+P0478,Aizawl,H269,D4172,3,Female,Stomach cramps,Diarrhea,Low,Clinic,Recovered,2025-09-26T02:08:26
+P0479,Imphal West,H437,D5532,48,Female,Stomach cramps,Diarrhea,Low,ASHA Worker,Hospitalized,2025-09-22T01:56:26
+P0480,East Khasi Hills,H884,D7215,10,Female,Weakness,Typhoid,Low,ASHA Worker,Deceased,2025-09-25T01:57:26
+P0481,East Khasi Hills,H353,D6839,50,Male,Fatigue,Hepatitis A,High,Clinic,Recovered,2025-09-26T10:56:26
+P0482,Shillong,H895,D3087,49,Other,Loose stools,Diarrhea,Low,ASHA Worker,Recovered,2025-09-21T16:09:26
+P0483,Kamrup,H587,D8019,76,Female,Dehydration,Diarrhea,High,Hospital,Recovered,2025-09-07T11:07:26
+P0484,Barpeta,H502,D8825,47,Male,Fever,Dysentery,Medium,Hospital,Recovered,2025-09-09T00:26:26
+P0485,Ri-Bhoi,H993,D8384,47,Female,Bloody diarrhea,Dysentery,Medium,Clinic,Deceased,2025-09-05T06:37:26
+P0486,Jorhat,H900,D6356,78,Male,Abdominal pain,Typhoid,Medium,ASHA Worker,Deceased,2025-09-05T14:12:26
+P0487,Jorhat,H798,D8751,24,Male,Nausea,Hepatitis A,Medium,Clinic,Deceased,2025-09-12T23:14:26
+P0488,Sonitpur,H609,D1926,39,Female,Fever,Dysentery,Medium,Clinic,Hospitalized,2025-09-12T12:59:26
+P0489,Imphal East,H434,D6486,88,Male,Abdominal pain,Dysentery,Low,Clinic,Recovered,2025-09-10T06:54:26
+P0490,Barpeta,H858,D9461,90,Other,Muscle cramps,Cholera,Medium,Hospital,Deceased,2025-08-28T19:52:26
+P0491,East Khasi Hills,H713,D5991,38,Other,Vomiting,Cholera,Medium,Hospital,Recovered,2025-09-16T02:54:26
+P0492,Dibrugarh,H180,D7575,68,Other,Stomach cramps,Diarrhea,Medium,Clinic,Hospitalized,2025-09-16T15:26:26
+P0493,West Khasi Hills,H498,D5817,37,Other,Muscle cramps,Cholera,Low,Clinic,Recovered,2025-08-30T16:52:26
+P0494,Ri-Bhoi,H378,D7637,11,Female,Stomach cramps,Diarrhea,Medium,Clinic,Hospitalized,2025-09-07T15:17:26
+P0495,Cachar,H337,D2694,3,Other,Fever,Dysentery,Low,Clinic,Recovered,2025-09-12T02:38:26
+P0496,Dibrugarh,H243,D4500,80,Other,Watery diarrhea,Cholera,High,Clinic,Hospitalized,2025-09-19T05:12:26
+P0497,West Khasi Hills,H967,D1918,68,Male,Vomiting,Cholera,Low,Hospital,Deceased,2025-09-07T00:29:26
+P0498,Imphal East,H832,D2844,49,Female,Loose stools,Diarrhea,High,ASHA Worker,Recovered,2025-09-21T06:46:26
+P0499,Mokokchung,H828,D9720,18,Female,Stomach cramps,Diarrhea,High,ASHA Worker,Recovered,2025-09-03T07:32:26
+P0500,Dibrugarh,H191,D9967,21,Other,Severe dehydration,Cholera,Medium,Clinic,Hospitalized,2025-09-24T18:05:26
+P0501,Sonitpur,H961,D9116,53,Other,Abdominal pain,Dysentery,Low,Hospital,Deceased,2025-08-30T22:39:26
+P0502,East Khasi Hills,H385,D9620,61,Other,Bloody diarrhea,Dysentery,High,ASHA Worker,Hospitalized,2025-09-18T12:32:26
+P0503,Barpeta,H652,D6870,72,Male,Stomach cramps,Diarrhea,High,ASHA Worker,Hospitalized,2025-09-26T00:57:26
+P0504,Kamrup,H685,D9666,23,Other,Dehydration,Diarrhea,High,Clinic,Deceased,2025-09-14T02:17:26
+P0505,Aizawl,H850,D5500,16,Other,Nausea,Hepatitis A,Medium,Clinic,Recovered,2025-09-03T15:17:26
+P0506,East Khasi Hills,H752,D1757,12,Female,Stomach cramps,Diarrhea,Low,Hospital,Hospitalized,2025-09-10T21:11:26
+P0507,Jorhat,H141,D1109,44,Other,Headache,Typhoid,High,Clinic,Deceased,2025-08-31T07:13:26
+P0508,Cachar,H756,D3994,81,Female,Jaundice,Hepatitis A,Low,Hospital,Deceased,2025-09-10T21:35:26
+P0509,Kohima,H709,D4126,70,Female,Jaundice,Hepatitis A,Medium,Clinic,Recovered,2025-09-06T08:09:26
+P0510,Imphal East,H876,D1063,73,Male,Dehydration,Diarrhea,Medium,Clinic,Recovered,2025-08-29T21:12:26
+P0511,Aizawl,H312,D5167,4,Other,Weakness,Typhoid,Low,Clinic,Hospitalized,2025-09-11T11:35:26
+P0512,Cachar,H971,D3555,23,Other,Fever,Typhoid,Medium,ASHA Worker,Hospitalized,2025-09-17T20:48:26
+P0513,West Khasi Hills,H835,D3894,38,Other,Dark urine,Hepatitis A,Medium,Clinic,Recovered,2025-09-22T01:10:26
+P0514,Cachar,H966,D2761,81,Other,Stomach cramps,Diarrhea,High,Hospital,Recovered,2025-09-03T05:11:26
+P0515,Imphal West,H903,D5185,3,Female,Fever,Typhoid,High,Hospital,Recovered,2025-08-27T08:56:26
+P0516,East Khasi Hills,H638,D7107,6,Female,Nausea,Hepatitis A,High,ASHA Worker,Recovered,2025-09-08T18:33:26
+P0517,Imphal West,H130,D1535,62,Female,Vomiting,Cholera,Medium,Clinic,Recovered,2025-09-11T02:03:26
+P0518,Shillong,H114,D8625,6,Other,Abdominal pain,Dysentery,Low,Hospital,Hospitalized,2025-09-01T00:41:26
+P0519,Mokokchung,H935,D5017,23,Female,Abdominal pain,Dysentery,High,Hospital,Recovered,2025-09-06T23:48:26
+P0520,Dibrugarh,H982,D1705,40,Other,Abdominal pain,Dysentery,Medium,Clinic,Deceased,2025-09-06T18:39:26
+P0521,Aizawl,H442,D1810,28,Female,Dark urine,Hepatitis A,High,Hospital,Recovered,2025-09-19T01:42:26
+P0522,Imphal East,H256,D2124,24,Female,Loose stools,Diarrhea,Medium,ASHA Worker,Recovered,2025-09-24T11:23:26
+P0523,Mokokchung,H145,D6120,2,Male,Weakness,Typhoid,High,ASHA Worker,Recovered,2025-09-16T07:32:26
+P0524,Barpeta,H309,D8281,56,Other,Abdominal pain,Typhoid,Medium,Hospital,Hospitalized,2025-09-20T16:18:26
+P0525,Shillong,H570,D2136,87,Other,Severe dehydration,Cholera,Low,Clinic,Deceased,2025-08-29T03:24:26
+P0526,Ri-Bhoi,H452,D1401,31,Male,Dark urine,Hepatitis A,Low,Clinic,Recovered,2025-09-16T00:24:26
+P0527,Barpeta,H210,D7664,5,Female,Loose stools,Diarrhea,High,Clinic,Deceased,2025-09-07T10:52:26
+P0528,Mokokchung,H387,D2559,1,Female,Fever,Typhoid,Low,Hospital,Recovered,2025-09-19T19:03:26
+P0529,Cachar,H590,D2558,15,Male,Stomach cramps,Diarrhea,Low,ASHA Worker,Deceased,2025-08-29T21:32:26
+P0530,Sonitpur,H870,D6486,14,Female,Loose stools,Diarrhea,Low,Clinic,Deceased,2025-09-06T18:46:26
+P0531,Jorhat,H943,D2966,42,Female,Dark urine,Hepatitis A,High,ASHA Worker,Recovered,2025-09-21T01:58:26
+P0532,Barpeta,H935,D8032,63,Male,Fever,Typhoid,Medium,Clinic,Deceased,2025-09-22T12:13:26
+P0533,Shillong,H965,D4561,14,Male,Bloody diarrhea,Dysentery,Medium,ASHA Worker,Hospitalized,2025-09-21T13:57:26
+P0534,Shillong,H215,D5614,18,Other,Loose stools,Diarrhea,Medium,ASHA Worker,Recovered,2025-09-16T11:29:26
+P0535,West Khasi Hills,H476,D2930,11,Female,Vomiting,Cholera,Medium,Clinic,Hospitalized,2025-09-06T15:08:26
+P0536,Jorhat,H137,D7480,87,Male,Abdominal pain,Dysentery,Medium,ASHA Worker,Recovered,2025-09-08T12:06:26
+P0537,Imphal East,H881,D2643,63,Other,Fever,Dysentery,Medium,Clinic,Recovered,2025-09-02T16:40:26
+P0538,Aizawl,H494,D7182,1,Female,Fever,Dysentery,High,Hospital,Deceased,2025-09-22T14:53:26
+P0539,Shillong,H153,D7772,26,Male,Muscle cramps,Cholera,Low,Clinic,Recovered,2025-09-12T21:29:26
+P0540,Mokokchung,H928,D1061,42,Other,Headache,Typhoid,Low,ASHA Worker,Deceased,2025-09-13T05:50:26
+P0541,Aizawl,H321,D1622,16,Other,Abdominal pain,Dysentery,Medium,Hospital,Hospitalized,2025-09-11T15:17:26
+P0542,Imphal West,H275,D7183,26,Male,Dehydration,Diarrhea,High,ASHA Worker,Deceased,2025-08-30T21:58:26
+P0543,Aizawl,H634,D1455,60,Female,Dehydration,Diarrhea,Low,Hospital,Deceased,2025-09-07T05:51:26
+P0544,Barpeta,H315,D4424,41,Female,Abdominal pain,Typhoid,Medium,Clinic,Recovered,2025-09-20T18:38:26
+P0545,Dibrugarh,H991,D8152,87,Male,Bloody diarrhea,Dysentery,Medium,Hospital,Deceased,2025-09-09T17:52:26
+P0546,Barpeta,H935,D1888,61,Other,Watery diarrhea,Cholera,Low,ASHA Worker,Deceased,2025-09-25T01:32:26
+P0547,Shillong,H578,D8539,10,Other,Nausea,Hepatitis A,High,Clinic,Hospitalized,2025-09-05T05:51:26
+P0548,West Khasi Hills,H984,D5839,37,Other,Loose stools,Diarrhea,High,Hospital,Hospitalized,2025-09-06T09:02:26
+P0549,Cachar,H903,D5060,56,Female,Fever,Typhoid,Low,Hospital,Deceased,2025-09-20T06:47:26
+P0550,Imphal East,H295,D3347,18,Other,Vomiting,Cholera,Low,Hospital,Recovered,2025-09-17T12:26:26
+P0551,East Khasi Hills,H564,D8122,26,Male,Fever,Dysentery,High,Clinic,Recovered,2025-09-08T15:05:26
+P0552,Mokokchung,H643,D1577,40,Female,Fever,Typhoid,Medium,Hospital,Recovered,2025-08-30T07:33:26
+P0553,Barpeta,H781,D9150,74,Female,Nausea,Hepatitis A,Low,Hospital,Hospitalized,2025-09-14T09:33:26
+P0554,Jorhat,H987,D3037,82,Other,Bloody diarrhea,Dysentery,Low,Clinic,Recovered,2025-09-16T16:27:26
+P0555,Imphal East,H716,D1755,36,Male,Vomiting,Cholera,Medium,Hospital,Recovered,2025-09-22T13:39:26
+P0556,Jorhat,H401,D3561,54,Female,Muscle cramps,Cholera,Low,Hospital,Recovered,2025-09-23T10:37:26
+P0557,Imphal West,H907,D9792,63,Female,Nausea,Hepatitis A,Medium,Hospital,Deceased,2025-09-05T21:13:26
+P0558,Ri-Bhoi,H532,D8136,59,Female,Vomiting,Cholera,High,Clinic,Deceased,2025-09-09T08:45:26
+P0559,Cachar,H913,D2851,13,Female,Bloody diarrhea,Dysentery,Low,Hospital,Hospitalized,2025-09-05T11:45:26
+P0560,West Khasi Hills,H460,D3667,3,Other,Dehydration,Diarrhea,Medium,ASHA Worker,Recovered,2025-09-17T18:36:26
+P0561,Imphal West,H948,D6547,89,Male,Jaundice,Hepatitis A,High,Clinic,Hospitalized,2025-09-01T17:06:26
+P0562,Shillong,H969,D9049,41,Female,Nausea,Hepatitis A,Medium,Clinic,Hospitalized,2025-09-10T23:10:26
+P0563,East Khasi Hills,H247,D7811,7,Female,Watery diarrhea,Cholera,Medium,ASHA Worker,Deceased,2025-09-25T06:35:26
+P0564,Kamrup,H228,D4459,86,Male,Bloody diarrhea,Dysentery,Medium,ASHA Worker,Deceased,2025-08-31T20:29:26
+P0565,Imphal East,H340,D1755,74,Male,Dark urine,Hepatitis A,Medium,Hospital,Hospitalized,2025-09-12T16:28:26
+P0566,Kohima,H502,D1833,42,Other,Loose stools,Diarrhea,Medium,Hospital,Recovered,2025-09-08T00:02:26
+P0567,Jorhat,H631,D4633,83,Male,Severe dehydration,Cholera,Medium,Hospital,Hospitalized,2025-09-19T00:41:26
+P0568,Aizawl,H183,D3338,48,Male,Bloody diarrhea,Dysentery,Low,ASHA Worker,Deceased,2025-09-25T09:23:26
+P0569,West Khasi Hills,H670,D3672,57,Male,Fever,Dysentery,High,ASHA Worker,Hospitalized,2025-09-13T00:11:26
+P0570,Barpeta,H819,D8178,2,Other,Loose stools,Diarrhea,High,ASHA Worker,Recovered,2025-09-26T11:30:26
+P0571,Kamrup,H230,D4547,49,Male,Dehydration,Diarrhea,High,ASHA Worker,Deceased,2025-09-23T03:41:26
+P0572,Aizawl,H370,D5394,7,Other,Loose stools,Diarrhea,Low,Hospital,Deceased,2025-09-11T16:36:26
+P0573,Jorhat,H203,D2420,7,Other,Dehydration,Diarrhea,High,ASHA Worker,Deceased,2025-09-17T19:35:26
+P0574,Imphal West,H825,D2587,42,Other,Abdominal pain,Dysentery,Low,Hospital,Recovered,2025-09-03T03:44:26
+P0575,Mokokchung,H279,D4303,42,Other,Stomach cramps,Diarrhea,Medium,Hospital,Hospitalized,2025-09-14T00:54:26
+P0576,West Khasi Hills,H341,D4823,30,Female,Headache,Typhoid,High,ASHA Worker,Recovered,2025-09-14T00:38:26
+P0577,Imphal West,H898,D2743,65,Male,Fever,Dysentery,Medium,Hospital,Deceased,2025-09-03T01:54:26
+P0578,Mokokchung,H248,D6510,2,Other,Severe dehydration,Cholera,Medium,Hospital,Recovered,2025-09-23T15:01:26
+P0579,Cachar,H514,D6478,40,Other,Muscle cramps,Cholera,High,ASHA Worker,Deceased,2025-09-21T14:18:26
+P0580,Dibrugarh,H401,D5113,67,Other,Jaundice,Hepatitis A,Medium,Hospital,Recovered,2025-09-10T15:58:26
+P0581,West Khasi Hills,H273,D1660,79,Male,Vomiting,Cholera,Medium,Clinic,Deceased,2025-08-28T00:39:26
+P0582,Sonitpur,H837,D6320,35,Male,Dehydration,Diarrhea,Medium,ASHA Worker,Recovered,2025-09-04T23:12:26
+P0583,East Khasi Hills,H402,D4398,27,Female,Loose stools,Diarrhea,High,Hospital,Deceased,2025-09-04T23:46:26
+P0584,Imphal East,H334,D1467,7,Female,Bloody diarrhea,Dysentery,High,Hospital,Hospitalized,2025-09-10T17:18:26
+P0585,Imphal West,H482,D1414,70,Male,Jaundice,Hepatitis A,Low,Hospital,Recovered,2025-09-11T19:07:26
+P0586,East Khasi Hills,H386,D1204,17,Male,Fever,Typhoid,Medium,Clinic,Deceased,2025-09-26T01:48:26
+P0587,Cachar,H395,D5246,17,Female,Loose stools,Diarrhea,Medium,Clinic,Hospitalized,2025-09-18T02:01:26
+P0588,Dibrugarh,H235,D9603,8,Male,Watery diarrhea,Cholera,High,Hospital,Deceased,2025-08-30T13:18:26
+P0589,Cachar,H585,D2164,5,Other,Headache,Typhoid,Medium,ASHA Worker,Recovered,2025-09-18T05:42:26
+P0590,East Khasi Hills,H873,D1356,39,Female,Weakness,Typhoid,Medium,Clinic,Hospitalized,2025-09-15T07:19:26
+P0591,East Khasi Hills,H614,D9292,1,Female,Abdominal pain,Typhoid,Medium,Hospital,Hospitalized,2025-08-31T07:37:26
+P0592,Barpeta,H149,D6929,19,Other,Fever,Typhoid,Medium,ASHA Worker,Deceased,2025-09-21T07:10:26
+P0593,Mokokchung,H474,D3655,34,Other,Stomach cramps,Diarrhea,Medium,ASHA Worker,Deceased,2025-09-17T16:36:26
+P0594,Shillong,H355,D5738,46,Other,Nausea,Hepatitis A,Medium,ASHA Worker,Hospitalized,2025-09-11T00:56:26
+P0595,Mokokchung,H646,D7656,9,Female,Fever,Typhoid,High,ASHA Worker,Recovered,2025-09-18T01:46:26
+P0596,Imphal West,H433,D8503,56,Male,Loose stools,Diarrhea,Medium,Clinic,Deceased,2025-09-23T12:18:26
+P0597,Imphal West,H187,D1605,66,Male,Stomach cramps,Diarrhea,Low,Hospital,Hospitalized,2025-09-02T18:15:26
+P0598,Barpeta,H414,D3098,55,Other,Jaundice,Hepatitis A,High,ASHA Worker,Deceased,2025-09-24T13:38:26
+P0599,Imphal East,H797,D8314,54,Other,Muscle cramps,Cholera,Medium,ASHA Worker,Deceased,2025-09-26T01:09:26
+P0600,Aizawl,H727,D1673,46,Other,Dehydration,Diarrhea,Low,Hospital,Hospitalized,2025-09-11T20:01:26
+P0601,Kamrup,H889,D3304,8,Male,Abdominal pain,Typhoid,High,Clinic,Recovered,2025-09-09T10:55:26
+P0602,Jorhat,H322,D6937,25,Female,Dark urine,Hepatitis A,Low,ASHA Worker,Deceased,2025-09-18T17:51:26
+P0603,Kamrup,H186,D2230,67,Male,Watery diarrhea,Cholera,High,ASHA Worker,Deceased,2025-09-05T17:06:26
+P0604,Mokokchung,H386,D6946,23,Other,Severe dehydration,Cholera,Medium,Clinic,Deceased,2025-09-24T14:13:26
+P0605,West Khasi Hills,H282,D4190,24,Male,Fever,Dysentery,Low,Clinic,Deceased,2025-09-13T18:22:26
+P0606,Sonitpur,H714,D6584,43,Other,Stomach cramps,Diarrhea,High,Clinic,Deceased,2025-08-27T03:23:26
+P0607,Mokokchung,H717,D2101,40,Male,Stomach cramps,Diarrhea,Low,ASHA Worker,Hospitalized,2025-09-18T01:12:26
+P0608,Dibrugarh,H398,D9042,14,Female,Muscle cramps,Cholera,High,ASHA Worker,Hospitalized,2025-09-24T04:20:26
+P0609,Imphal West,H519,D9650,30,Male,Fatigue,Hepatitis A,Medium,Clinic,Recovered,2025-09-25T17:18:26
+P0610,Imphal West,H738,D2542,71,Other,Headache,Typhoid,Medium,Clinic,Recovered,2025-09-06T02:10:26
+P0611,Aizawl,H236,D9120,39,Male,Watery diarrhea,Cholera,High,Hospital,Deceased,2025-09-05T05:59:26
+P0612,Cachar,H440,D5635,28,Male,Headache,Typhoid,Medium,Hospital,Recovered,2025-09-09T17:13:26
+P0613,East Khasi Hills,H192,D6502,82,Other,Jaundice,Hepatitis A,Medium,Clinic,Hospitalized,2025-09-05T23:26:26
+P0614,Ri-Bhoi,H624,D6232,55,Male,Loose stools,Diarrhea,Medium,Clinic,Recovered,2025-09-23T20:42:26
+P0615,Kohima,H665,D9376,57,Female,Severe dehydration,Cholera,Medium,Clinic,Hospitalized,2025-08-28T10:02:26
+P0616,Kohima,H617,D8994,30,Female,Weakness,Typhoid,High,Hospital,Hospitalized,2025-09-04T16:25:26
+P0617,Imphal West,H550,D8797,40,Female,Fever,Dysentery,Medium,Hospital,Hospitalized,2025-09-22T14:08:26
+P0618,Sonitpur,H248,D7630,71,Female,Severe dehydration,Cholera,High,Hospital,Recovered,2025-09-25T06:26:26
+P0619,Mokokchung,H178,D9329,21,Female,Vomiting,Cholera,Medium,ASHA Worker,Deceased,2025-09-12T18:52:26
+P0620,Aizawl,H465,D6079,89,Male,Dehydration,Diarrhea,High,Hospital,Deceased,2025-09-03T05:46:26
+P0621,Sonitpur,H668,D8862,71,Female,Bloody diarrhea,Dysentery,Low,ASHA Worker,Recovered,2025-09-24T16:43:26
+P0622,Kamrup,H426,D9331,29,Male,Abdominal pain,Typhoid,High,Clinic,Deceased,2025-09-20T12:14:26
+P0623,East Khasi Hills,H853,D5408,11,Female,Dehydration,Diarrhea,High,Hospital,Recovered,2025-09-25T05:48:26
+P0624,Barpeta,H505,D6181,87,Male,Fever,Dysentery,Low,Clinic,Deceased,2025-09-06T20:04:26
+P0625,Barpeta,H791,D1310,30,Male,Stomach cramps,Diarrhea,Low,ASHA Worker,Hospitalized,2025-09-22T14:51:26
+P0626,Kohima,H421,D1694,33,Female,Fever,Dysentery,Low,Clinic,Hospitalized,2025-09-14T14:37:26
+P0627,East Khasi Hills,H278,D2358,53,Other,Bloody diarrhea,Dysentery,Low,Clinic,Recovered,2025-09-22T20:17:26
+P0628,Aizawl,H683,D9611,88,Female,Weakness,Typhoid,High,ASHA Worker,Hospitalized,2025-08-27T02:56:26
+P0629,Dibrugarh,H696,D5038,15,Other,Dehydration,Diarrhea,High,Hospital,Hospitalized,2025-09-24T05:34:26
+P0630,Sonitpur,H562,D2019,81,Other,Severe dehydration,Cholera,High,Hospital,Recovered,2025-09-03T13:13:26
+P0631,East Khasi Hills,H715,D7590,72,Female,Jaundice,Hepatitis A,Medium,Hospital,Recovered,2025-09-23T01:05:26
+P0632,Imphal West,H904,D1712,39,Male,Fatigue,Hepatitis A,Low,Hospital,Deceased,2025-09-05T17:53:26
+P0633,Kohima,H205,D3803,28,Female,Weakness,Typhoid,Medium,Clinic,Deceased,2025-09-03T18:40:26
+P0634,Imphal East,H227,D9299,28,Other,Fever,Dysentery,Medium,Clinic,Hospitalized,2025-09-24T12:21:26
+P0635,Kamrup,H819,D5382,26,Female,Dehydration,Diarrhea,Medium,Clinic,Hospitalized,2025-09-05T17:22:26
+P0636,Imphal East,H670,D7473,57,Other,Jaundice,Hepatitis A,Low,Clinic,Deceased,2025-09-03T00:18:26
+P0637,Kohima,H277,D5571,63,Male,Abdominal pain,Dysentery,High,Clinic,Deceased,2025-08-27T23:20:26
+P0638,Dibrugarh,H644,D7433,28,Male,Dehydration,Diarrhea,High,ASHA Worker,Recovered,2025-09-02T13:53:26
+P0639,Barpeta,H370,D7785,70,Other,Fever,Dysentery,Low,Clinic,Recovered,2025-09-24T04:02:26
+P0640,East Khasi Hills,H975,D5077,20,Male,Abdominal pain,Typhoid,High,Hospital,Deceased,2025-09-14T13:57:26
+P0641,Sonitpur,H777,D3282,43,Other,Fever,Typhoid,Medium,ASHA Worker,Recovered,2025-08-29T06:00:26
+P0642,Ri-Bhoi,H768,D1960,2,Male,Headache,Typhoid,Low,Clinic,Deceased,2025-09-04T03:59:26
+P0643,East Khasi Hills,H564,D1725,68,Female,Weakness,Typhoid,Low,ASHA Worker,Deceased,2025-09-05T06:16:26
+P0644,East Khasi Hills,H956,D2815,13,Other,Fatigue,Hepatitis A,High,ASHA Worker,Hospitalized,2025-09-25T12:49:26
+P0645,Shillong,H623,D4532,31,Female,Dark urine,Hepatitis A,Medium,Hospital,Recovered,2025-08-30T07:27:26
+P0646,Mokokchung,H353,D6249,85,Male,Dehydration,Diarrhea,Low,ASHA Worker,Recovered,2025-09-13T08:37:26
+P0647,Barpeta,H377,D8327,69,Female,Abdominal pain,Dysentery,High,Clinic,Deceased,2025-09-25T16:30:26
+P0648,Kohima,H977,D7924,86,Other,Watery diarrhea,Cholera,Low,ASHA Worker,Recovered,2025-08-28T03:02:26
+P0649,Kamrup,H126,D7296,28,Male,Nausea,Hepatitis A,High,Hospital,Hospitalized,2025-09-07T17:12:26
+P0650,Cachar,H835,D7420,17,Other,Headache,Typhoid,High,ASHA Worker,Deceased,2025-09-20T14:35:26
+P0651,East Khasi Hills,H782,D4680,21,Female,Nausea,Hepatitis A,Medium,Hospital,Hospitalized,2025-09-12T13:25:26
+P0652,Mokokchung,H404,D3608,13,Female,Severe dehydration,Cholera,Low,ASHA Worker,Recovered,2025-09-23T19:45:26
+P0653,Ri-Bhoi,H970,D9338,64,Male,Loose stools,Diarrhea,Low,Hospital,Hospitalized,2025-09-18T09:18:26
+P0654,Cachar,H707,D7291,36,Male,Muscle cramps,Cholera,Low,Clinic,Deceased,2025-09-02T17:41:26
+P0655,Barpeta,H457,D5217,27,Female,Fever,Typhoid,Medium,ASHA Worker,Hospitalized,2025-08-28T11:43:26
+P0656,Cachar,H151,D4863,90,Other,Fever,Dysentery,High,Clinic,Deceased,2025-08-27T16:00:26
+P0657,Barpeta,H474,D4485,26,Other,Fatigue,Hepatitis A,High,Clinic,Recovered,2025-09-23T21:41:26
+P0658,Kamrup,H226,D3167,14,Male,Muscle cramps,Cholera,High,Hospital,Deceased,2025-09-20T07:11:26
+P0659,East Khasi Hills,H528,D3903,68,Male,Abdominal pain,Dysentery,High,ASHA Worker,Deceased,2025-09-26T07:59:26
+P0660,Sonitpur,H544,D7221,14,Male,Dark urine,Hepatitis A,Low,ASHA Worker,Recovered,2025-09-22T04:25:26
+P0661,Imphal West,H793,D9704,10,Other,Fever,Dysentery,Medium,Hospital,Recovered,2025-09-23T16:50:26
+P0662,Ri-Bhoi,H600,D5793,33,Other,Severe dehydration,Cholera,Low,Clinic,Hospitalized,2025-08-27T02:28:26
+P0663,Jorhat,H532,D4239,64,Other,Fatigue,Hepatitis A,Low,ASHA Worker,Hospitalized,2025-09-14T19:20:26
+P0664,Imphal East,H840,D4002,27,Male,Dehydration,Diarrhea,Low,Clinic,Deceased,2025-09-26T08:03:26
+P0665,Shillong,H193,D4666,71,Male,Dark urine,Hepatitis A,Low,Hospital,Deceased,2025-09-22T20:25:26
+P0666,Sonitpur,H129,D3520,83,Male,Abdominal pain,Typhoid,High,ASHA Worker,Deceased,2025-09-05T22:05:26
+P0667,Kamrup,H329,D7146,77,Female,Loose stools,Diarrhea,High,Clinic,Recovered,2025-08-30T12:29:26
+P0668,West Khasi Hills,H936,D2558,56,Male,Dehydration,Diarrhea,Medium,ASHA Worker,Deceased,2025-09-05T04:54:26
+P0669,Dibrugarh,H408,D5506,1,Male,Bloody diarrhea,Dysentery,High,Hospital,Hospitalized,2025-09-15T20:16:26
+P0670,West Khasi Hills,H722,D6711,21,Female,Abdominal pain,Dysentery,Medium,ASHA Worker,Deceased,2025-09-01T17:48:26
+P0671,Dibrugarh,H162,D2337,8,Other,Fever,Typhoid,High,Hospital,Deceased,2025-09-12T00:15:26
+P0672,Cachar,H439,D6113,48,Female,Dehydration,Diarrhea,Low,ASHA Worker,Recovered,2025-09-07T20:35:26
+P0673,Dibrugarh,H956,D8100,40,Other,Severe dehydration,Cholera,High,ASHA Worker,Hospitalized,2025-08-27T03:11:26
+P0674,Imphal East,H368,D4849,89,Female,Abdominal pain,Dysentery,High,ASHA Worker,Deceased,2025-09-17T07:23:26
+P0675,Kohima,H392,D8859,8,Male,Bloody diarrhea,Dysentery,High,Hospital,Hospitalized,2025-08-27T23:20:26
+P0676,Ri-Bhoi,H311,D4262,15,Male,Severe dehydration,Cholera,Medium,Clinic,Deceased,2025-09-13T04:14:26
+P0677,Cachar,H543,D2737,68,Male,Dehydration,Diarrhea,Medium,Hospital,Deceased,2025-09-21T22:10:26
+P0678,Barpeta,H232,D4509,22,Other,Loose stools,Diarrhea,Medium,ASHA Worker,Hospitalized,2025-09-07T02:54:26
+P0679,Barpeta,H533,D8108,61,Other,Fatigue,Hepatitis A,Low,Clinic,Hospitalized,2025-09-21T21:22:26
+P0680,Cachar,H833,D8208,50,Male,Severe dehydration,Cholera,Low,Hospital,Recovered,2025-09-04T00:08:26
+P0681,Sonitpur,H648,D9752,55,Other,Abdominal pain,Dysentery,Low,Hospital,Recovered,2025-08-29T14:41:26
+P0682,Mokokchung,H659,D9486,66,Female,Abdominal pain,Dysentery,High,ASHA Worker,Hospitalized,2025-09-19T22:32:26
+P0683,Dibrugarh,H722,D1305,29,Female,Jaundice,Hepatitis A,High,Clinic,Deceased,2025-09-26T01:02:26
+P0684,Barpeta,H700,D2602,25,Other,Muscle cramps,Cholera,Low,Hospital,Hospitalized,2025-09-21T09:29:26
+P0685,Kamrup,H302,D5471,79,Female,Nausea,Hepatitis A,Medium,Hospital,Hospitalized,2025-09-23T06:40:26
+P0686,East Khasi Hills,H974,D7967,19,Female,Watery diarrhea,Cholera,High,Hospital,Recovered,2025-09-23T19:24:26
+P0687,West Khasi Hills,H642,D2892,52,Female,Watery diarrhea,Cholera,High,Clinic,Recovered,2025-08-29T05:00:26
+P0688,Shillong,H139,D1384,18,Female,Weakness,Typhoid,Low,Hospital,Recovered,2025-09-16T20:55:26
+P0689,Aizawl,H615,D1117,29,Male,Abdominal pain,Dysentery,High,Hospital,Deceased,2025-09-07T10:53:26
+P0690,Kamrup,H242,D9217,72,Other,Dehydration,Diarrhea,High,Clinic,Hospitalized,2025-09-10T09:46:26
+P0691,Sonitpur,H785,D3406,33,Female,Stomach cramps,Diarrhea,High,Hospital,Hospitalized,2025-09-13T16:59:26
+P0692,Cachar,H163,D7543,69,Female,Headache,Typhoid,High,ASHA Worker,Deceased,2025-09-13T03:16:26
+P0693,Kohima,H917,D7443,18,Other,Fatigue,Hepatitis A,High,Clinic,Hospitalized,2025-09-19T23:19:26
+P0694,Imphal West,H144,D8658,52,Female,Vomiting,Cholera,Medium,ASHA Worker,Deceased,2025-09-15T03:37:26
+P0695,Imphal East,H771,D8353,64,Female,Abdominal pain,Typhoid,High,Hospital,Recovered,2025-08-31T04:32:26
+P0696,Dibrugarh,H618,D7050,14,Female,Fever,Dysentery,High,Hospital,Hospitalized,2025-09-23T18:25:26
+P0697,Jorhat,H289,D4368,37,Other,Bloody diarrhea,Dysentery,Low,Clinic,Deceased,2025-08-31T15:28:26
+P0698,Barpeta,H820,D3524,84,Other,Watery diarrhea,Cholera,Low,ASHA Worker,Hospitalized,2025-09-16T16:27:26
+P0699,Ri-Bhoi,H831,D2139,36,Female,Severe dehydration,Cholera,Medium,Hospital,Recovered,2025-09-01T00:38:26
+P0700,Imphal East,H613,D6757,18,Other,Headache,Typhoid,Medium,Clinic,Hospitalized,2025-09-24T15:14:26
+P0701,Cachar,H418,D9894,15,Other,Weakness,Typhoid,Medium,ASHA Worker,Recovered,2025-09-15T09:26:26
+P0702,Cachar,H288,D5821,85,Other,Loose stools,Diarrhea,Medium,Hospital,Hospitalized,2025-09-04T16:04:26
+P0703,Dibrugarh,H738,D3355,7,Male,Muscle cramps,Cholera,Medium,ASHA Worker,Hospitalized,2025-09-21T15:09:26
+P0704,Kamrup,H271,D7682,6,Male,Jaundice,Hepatitis A,High,Clinic,Recovered,2025-08-30T14:47:26
+P0705,Cachar,H365,D4556,84,Other,Watery diarrhea,Cholera,Low,Clinic,Hospitalized,2025-09-18T07:26:26
+P0706,Jorhat,H934,D2348,27,Other,Vomiting,Cholera,Medium,Clinic,Hospitalized,2025-09-14T10:55:26
+P0707,West Khasi Hills,H640,D6151,40,Male,Dehydration,Diarrhea,High,ASHA Worker,Deceased,2025-09-08T18:44:26
+P0708,Barpeta,H873,D1242,83,Male,Abdominal pain,Dysentery,High,Clinic,Hospitalized,2025-08-30T16:26:26
+P0709,Kohima,H881,D9584,25,Female,Abdominal pain,Typhoid,Medium,ASHA Worker,Hospitalized,2025-09-15T17:10:26
+P0710,Imphal West,H332,D8647,8,Other,Headache,Typhoid,High,Clinic,Recovered,2025-09-06T14:11:26
+P0711,Kohima,H986,D2933,57,Other,Nausea,Hepatitis A,Medium,Hospital,Hospitalized,2025-09-16T00:30:26
+P0712,Dibrugarh,H140,D7075,61,Female,Weakness,Typhoid,High,ASHA Worker,Hospitalized,2025-09-03T08:57:26
+P0713,Barpeta,H875,D4231,13,Female,Weakness,Typhoid,Medium,ASHA Worker,Hospitalized,2025-09-10T20:10:26
+P0714,Sonitpur,H975,D9993,59,Other,Loose stools,Diarrhea,High,Hospital,Deceased,2025-08-31T03:45:26
+P0715,Aizawl,H172,D7162,27,Female,Vomiting,Cholera,Low,Hospital,Deceased,2025-08-31T03:18:26
+P0716,Imphal West,H460,D4863,60,Female,Dehydration,Diarrhea,Medium,Clinic,Deceased,2025-09-20T16:04:26
+P0717,Jorhat,H196,D6513,9,Male,Abdominal pain,Dysentery,Medium,Clinic,Recovered,2025-09-22T17:54:26
+P0718,Shillong,H890,D5183,34,Other,Fatigue,Hepatitis A,Low,ASHA Worker,Deceased,2025-08-31T21:32:26
+P0719,Shillong,H116,D5845,76,Other,Fever,Typhoid,Low,Clinic,Deceased,2025-09-09T13:46:26
+P0720,Kamrup,H710,D8313,85,Other,Loose stools,Diarrhea,High,Hospital,Hospitalized,2025-09-17T16:50:26
+P0721,Imphal East,H592,D9090,27,Other,Watery diarrhea,Cholera,High,Clinic,Hospitalized,2025-09-03T23:42:26
+P0722,Dibrugarh,H213,D8589,49,Other,Dark urine,Hepatitis A,High,Clinic,Recovered,2025-09-26T05:22:26
+P0723,West Khasi Hills,H203,D2932,53,Male,Dark urine,Hepatitis A,Medium,Clinic,Deceased,2025-09-10T16:35:26
+P0724,Imphal East,H594,D2463,11,Other,Jaundice,Hepatitis A,High,Clinic,Deceased,2025-09-06T05:45:26
+P0725,Kamrup,H821,D3108,56,Female,Dark urine,Hepatitis A,High,ASHA Worker,Hospitalized,2025-09-24T14:38:26
+P0726,Jorhat,H533,D4190,15,Male,Abdominal pain,Typhoid,Low,Clinic,Hospitalized,2025-09-14T07:30:26
+P0727,Ri-Bhoi,H382,D6585,85,Female,Fever,Dysentery,Medium,Clinic,Deceased,2025-09-21T16:40:26
+P0728,West Khasi Hills,H234,D1987,39,Female,Nausea,Hepatitis A,Medium,ASHA Worker,Deceased,2025-09-12T23:47:26
+P0729,Shillong,H977,D7776,8,Male,Weakness,Typhoid,Low,Clinic,Hospitalized,2025-09-01T01:34:26
+P0730,Mokokchung,H649,D7286,86,Female,Weakness,Typhoid,Medium,Clinic,Hospitalized,2025-09-19T07:01:26
+P0731,Shillong,H264,D7785,73,Female,Fever,Dysentery,High,Clinic,Deceased,2025-09-21T07:49:26
+P0732,Imphal East,H613,D7930,89,Male,Jaundice,Hepatitis A,Low,ASHA Worker,Hospitalized,2025-08-28T18:47:26
+P0733,Sonitpur,H274,D2290,41,Other,Weakness,Typhoid,High,Clinic,Recovered,2025-08-27T23:01:26
+P0734,Kohima,H810,D6972,75,Male,Weakness,Typhoid,Medium,ASHA Worker,Hospitalized,2025-09-17T19:46:26
+P0735,East Khasi Hills,H292,D3069,82,Other,Loose stools,Diarrhea,Low,Hospital,Deceased,2025-09-17T07:53:26
+P0736,Jorhat,H708,D8773,5,Female,Severe dehydration,Cholera,High,Clinic,Deceased,2025-09-18T08:05:26
+P0737,Dibrugarh,H880,D5466,1,Male,Dehydration,Diarrhea,High,ASHA Worker,Hospitalized,2025-08-27T00:09:26
+P0738,West Khasi Hills,H816,D9575,76,Other,Fever,Typhoid,High,ASHA Worker,Hospitalized,2025-09-15T04:55:26
+P0739,Imphal East,H560,D7315,5,Male,Muscle cramps,Cholera,High,Clinic,Hospitalized,2025-09-07T00:54:26
+P0740,Mokokchung,H546,D3712,67,Male,Muscle cramps,Cholera,High,ASHA Worker,Recovered,2025-09-11T01:11:26
+P0741,Shillong,H129,D1329,22,Other,Muscle cramps,Cholera,High,Clinic,Hospitalized,2025-09-15T11:02:26
+P0742,Imphal West,H442,D1698,26,Male,Loose stools,Diarrhea,Low,Clinic,Recovered,2025-09-23T21:38:26
+P0743,Mokokchung,H129,D8440,55,Female,Stomach cramps,Diarrhea,Low,Hospital,Deceased,2025-09-24T06:57:26
+P0744,Imphal West,H493,D1475,34,Other,Loose stools,Diarrhea,Medium,Hospital,Hospitalized,2025-09-11T19:59:26
+P0745,Sonitpur,H220,D6391,33,Male,Fatigue,Hepatitis A,Low,Hospital,Hospitalized,2025-09-02T05:35:26
+P0746,Ri-Bhoi,H135,D1850,75,Male,Fever,Typhoid,Low,ASHA Worker,Recovered,2025-09-11T01:21:26
+P0747,West Khasi Hills,H513,D1233,64,Male,Stomach cramps,Diarrhea,Medium,Clinic,Hospitalized,2025-09-23T04:27:26
+P0748,Kohima,H888,D5574,62,Other,Loose stools,Diarrhea,Medium,ASHA Worker,Recovered,2025-09-19T22:28:26
+P0749,West Khasi Hills,H491,D8424,26,Other,Headache,Typhoid,Medium,ASHA Worker,Recovered,2025-09-09T20:35:26
+P0750,Kohima,H937,D4086,75,Other,Nausea,Hepatitis A,High,Clinic,Deceased,2025-09-07T15:56:26
+P0751,Shillong,H312,D5949,80,Other,Fever,Dysentery,High,Clinic,Hospitalized,2025-09-02T17:17:26
+P0752,Sonitpur,H866,D6792,7,Male,Watery diarrhea,Cholera,High,Hospital,Deceased,2025-09-03T07:37:26
+P0753,Imphal West,H562,D5489,52,Male,Dark urine,Hepatitis A,Low,Clinic,Deceased,2025-09-11T16:06:26
+P0754,Imphal West,H791,D7434,62,Male,Dehydration,Diarrhea,High,Clinic,Deceased,2025-09-22T15:13:26
+P0755,Ri-Bhoi,H614,D8239,21,Female,Dehydration,Diarrhea,Medium,ASHA Worker,Hospitalized,2025-09-13T14:21:26
+P0756,Cachar,H735,D3015,61,Female,Watery diarrhea,Cholera,Low,Hospital,Deceased,2025-09-23T20:25:26
+P0757,Mokokchung,H344,D8330,29,Other,Loose stools,Diarrhea,Low,Hospital,Recovered,2025-09-01T10:00:26
+P0758,Dibrugarh,H873,D8285,73,Female,Headache,Typhoid,High,Hospital,Hospitalized,2025-09-17T03:59:26
+P0759,East Khasi Hills,H772,D2487,50,Male,Fever,Dysentery,Medium,Hospital,Deceased,2025-09-11T22:17:26
+P0760,Shillong,H593,D8543,66,Other,Abdominal pain,Typhoid,High,Hospital,Recovered,2025-09-14T08:13:26
+P0761,Kohima,H917,D7200,35,Female,Dehydration,Diarrhea,Low,Clinic,Hospitalized,2025-08-29T21:51:26
+P0762,Sonitpur,H577,D1909,68,Other,Fever,Dysentery,Medium,ASHA Worker,Recovered,2025-09-23T03:52:26
+P0763,West Khasi Hills,H818,D3390,58,Male,Dark urine,Hepatitis A,High,Clinic,Hospitalized,2025-09-12T21:17:26
+P0764,Ri-Bhoi,H456,D9046,11,Female,Jaundice,Hepatitis A,High,Hospital,Hospitalized,2025-08-30T05:45:26
+P0765,Sonitpur,H830,D3947,90,Other,Fatigue,Hepatitis A,Low,Hospital,Deceased,2025-09-11T10:08:26
+P0766,Cachar,H801,D2917,18,Other,Loose stools,Diarrhea,Medium,Clinic,Hospitalized,2025-09-03T18:41:26
+P0767,West Khasi Hills,H860,D5758,9,Other,Loose stools,Diarrhea,High,Clinic,Deceased,2025-09-18T13:19:26
+P0768,Barpeta,H797,D5438,15,Other,Bloody diarrhea,Dysentery,Medium,ASHA Worker,Recovered,2025-09-19T22:17:26
+P0769,Dibrugarh,H277,D1467,70,Male,Weakness,Typhoid,Medium,Clinic,Hospitalized,2025-09-19T15:00:26
+P0770,West Khasi Hills,H938,D4215,2,Male,Dark urine,Hepatitis A,Low,ASHA Worker,Hospitalized,2025-09-14T11:35:26
+P0771,Mokokchung,H705,D6672,9,Other,Bloody diarrhea,Dysentery,Medium,Hospital,Recovered,2025-09-20T20:48:26
+P0772,Ri-Bhoi,H867,D3591,34,Other,Jaundice,Hepatitis A,Low,ASHA Worker,Deceased,2025-09-13T12:25:26
+P0773,Barpeta,H359,D6583,18,Male,Fatigue,Hepatitis A,High,Hospital,Hospitalized,2025-09-18T13:30:26
+P0774,Kamrup,H375,D5961,53,Other,Weakness,Typhoid,High,ASHA Worker,Recovered,2025-09-06T20:28:26
+P0775,Barpeta,H989,D7414,32,Male,Dehydration,Diarrhea,High,ASHA Worker,Hospitalized,2025-09-19T12:23:26
+P0776,Sonitpur,H918,D9681,2,Other,Abdominal pain,Dysentery,High,ASHA Worker,Recovered,2025-09-02T00:20:26
+P0777,Ri-Bhoi,H909,D7238,56,Other,Fatigue,Hepatitis A,Low,Clinic,Hospitalized,2025-09-01T07:10:26
+P0778,Sonitpur,H581,D2749,74,Other,Watery diarrhea,Cholera,Low,Clinic,Deceased,2025-09-16T01:01:26
+P0779,Shillong,H873,D3844,47,Male,Bloody diarrhea,Dysentery,High,ASHA Worker,Hospitalized,2025-09-19T14:04:26
+P0780,West Khasi Hills,H774,D7984,57,Male,Loose stools,Diarrhea,High,ASHA Worker,Hospitalized,2025-09-09T22:03:26
+P0781,Jorhat,H620,D6327,45,Other,Loose stools,Diarrhea,Low,Clinic,Deceased,2025-09-23T02:15:26
+P0782,Dibrugarh,H816,D7871,72,Male,Severe dehydration,Cholera,High,Hospital,Recovered,2025-09-25T01:22:26
+P0783,Barpeta,H685,D7210,31,Male,Abdominal pain,Dysentery,Low,ASHA Worker,Recovered,2025-09-02T12:35:26
+P0784,Shillong,H301,D9392,60,Male,Abdominal pain,Dysentery,High,ASHA Worker,Recovered,2025-08-27T16:27:26
+P0785,Mokokchung,H724,D8962,38,Other,Fever,Dysentery,Low,Hospital,Deceased,2025-09-02T10:04:26
+P0786,Jorhat,H850,D5502,47,Male,Fatigue,Hepatitis A,Medium,Clinic,Deceased,2025-09-21T23:31:26
+P0787,Sonitpur,H292,D7604,35,Other,Muscle cramps,Cholera,Low,Hospital,Recovered,2025-09-01T22:36:26
+P0788,Barpeta,H615,D5374,11,Female,Muscle cramps,Cholera,Low,Hospital,Recovered,2025-08-28T02:22:26
+P0789,East Khasi Hills,H863,D5018,41,Female,Loose stools,Diarrhea,Medium,Clinic,Deceased,2025-09-09T23:39:26
+P0790,Barpeta,H435,D8797,5,Male,Stomach cramps,Diarrhea,Medium,Hospital,Recovered,2025-09-20T09:37:26
+P0791,Shillong,H816,D3259,6,Other,Vomiting,Cholera,Low,ASHA Worker,Deceased,2025-09-15T02:47:26
+P0792,Dibrugarh,H522,D3696,53,Male,Severe dehydration,Cholera,Medium,Clinic,Hospitalized,2025-09-18T14:47:26
+P0793,Kamrup,H907,D3528,42,Male,Vomiting,Cholera,High,Hospital,Deceased,2025-09-13T02:24:26
+P0794,Ri-Bhoi,H126,D8718,19,Other,Jaundice,Hepatitis A,Medium,Hospital,Recovered,2025-09-25T07:34:26
+P0795,Mokokchung,H996,D1130,18,Male,Fatigue,Hepatitis A,Low,ASHA Worker,Hospitalized,2025-09-24T18:42:26
+P0796,Shillong,H265,D9203,73,Female,Fatigue,Hepatitis A,Low,ASHA Worker,Recovered,2025-09-11T08:07:26
+P0797,Imphal West,H490,D4223,53,Female,Abdominal pain,Typhoid,Low,Clinic,Deceased,2025-09-03T19:01:26
+P0798,West Khasi Hills,H800,D6359,16,Other,Watery diarrhea,Cholera,Low,ASHA Worker,Recovered,2025-09-22T20:39:26
+P0799,Kohima,H472,D4604,7,Male,Headache,Typhoid,High,Clinic,Recovered,2025-08-28T05:05:26
+P0800,Imphal East,H129,D5004,62,Male,Loose stools,Diarrhea,High,Clinic,Deceased,2025-09-11T17:51:26
+P0801,West Khasi Hills,H494,D7832,52,Other,Fever,Typhoid,High,ASHA Worker,Deceased,2025-09-14T02:06:26
+P0802,East Khasi Hills,H997,D3582,83,Female,Severe dehydration,Cholera,Low,ASHA Worker,Recovered,2025-09-02T20:24:26
+P0803,West Khasi Hills,H834,D3030,73,Other,Muscle cramps,Cholera,Low,ASHA Worker,Recovered,2025-09-26T07:43:26
+P0804,Kohima,H949,D2086,78,Female,Weakness,Typhoid,High,Clinic,Hospitalized,2025-08-27T22:12:26
+P0805,West Khasi Hills,H868,D1818,64,Female,Loose stools,Diarrhea,Medium,ASHA Worker,Recovered,2025-09-03T05:07:26
+P0806,Kohima,H764,D3353,70,Other,Muscle cramps,Cholera,Low,Clinic,Recovered,2025-09-18T23:19:26
+P0807,East Khasi Hills,H859,D4519,20,Female,Headache,Typhoid,Low,Hospital,Recovered,2025-08-31T18:37:26
+P0808,Ri-Bhoi,H110,D5571,5,Other,Fever,Dysentery,Low,Clinic,Hospitalized,2025-09-15T04:26:26
+P0809,Cachar,H517,D4371,17,Other,Bloody diarrhea,Dysentery,High,Clinic,Hospitalized,2025-09-18T08:35:26
+P0810,Dibrugarh,H282,D3842,64,Male,Abdominal pain,Typhoid,High,Hospital,Deceased,2025-09-18T03:08:26
+P0811,Shillong,H684,D6296,85,Other,Stomach cramps,Diarrhea,High,ASHA Worker,Recovered,2025-09-25T18:31:26
+P0812,Shillong,H758,D9321,60,Female,Nausea,Hepatitis A,High,Clinic,Hospitalized,2025-09-22T21:48:26
+P0813,Sonitpur,H860,D6109,64,Other,Nausea,Hepatitis A,Low,Hospital,Recovered,2025-09-09T14:15:26
+P0814,Jorhat,H868,D1005,41,Male,Muscle cramps,Cholera,Medium,Clinic,Hospitalized,2025-09-02T09:27:26
+P0815,Imphal West,H214,D2048,83,Male,Dark urine,Hepatitis A,Low,Hospital,Hospitalized,2025-09-21T06:17:26
+P0816,Sonitpur,H235,D4566,45,Male,Fever,Typhoid,Medium,Hospital,Deceased,2025-08-29T10:02:26
+P0817,West Khasi Hills,H588,D7281,37,Other,Dehydration,Diarrhea,High,ASHA Worker,Recovered,2025-09-01T08:34:26
+P0818,Jorhat,H267,D1822,37,Female,Fever,Dysentery,Low,Clinic,Deceased,2025-09-04T06:06:26
+P0819,Shillong,H731,D5845,2,Male,Nausea,Hepatitis A,Low,Hospital,Recovered,2025-08-27T12:18:26
+P0820,Aizawl,H201,D9976,81,Male,Headache,Typhoid,Low,Clinic,Recovered,2025-09-13T09:07:26
+P0821,Imphal East,H490,D1939,29,Other,Fatigue,Hepatitis A,High,Clinic,Hospitalized,2025-09-19T07:09:26
+P0822,Barpeta,H516,D4675,89,Male,Fever,Dysentery,Low,Hospital,Hospitalized,2025-09-22T07:26:26
+P0823,Imphal West,H248,D2359,1,Female,Dark urine,Hepatitis A,Medium,Hospital,Recovered,2025-09-10T11:29:26
+P0824,Jorhat,H414,D1624,75,Female,Dehydration,Diarrhea,High,ASHA Worker,Recovered,2025-09-09T07:44:26
+P0825,Imphal East,H383,D1253,52,Male,Stomach cramps,Diarrhea,High,Hospital,Deceased,2025-08-31T12:23:26
+P0826,Jorhat,H762,D9443,14,Female,Vomiting,Cholera,High,Clinic,Deceased,2025-09-17T18:22:26
+P0827,Shillong,H271,D8013,1,Male,Vomiting,Cholera,Medium,Hospital,Hospitalized,2025-09-05T19:45:26
+P0828,Mokokchung,H843,D1870,88,Other,Weakness,Typhoid,Medium,Clinic,Recovered,2025-09-06T06:29:26
+P0829,Ri-Bhoi,H690,D1848,41,Other,Weakness,Typhoid,High,Hospital,Deceased,2025-09-19T18:45:26
+P0830,Mokokchung,H751,D3860,12,Male,Severe dehydration,Cholera,Low,Clinic,Hospitalized,2025-09-25T03:42:26
+P0831,Ri-Bhoi,H805,D3510,48,Female,Weakness,Typhoid,Medium,ASHA Worker,Deceased,2025-09-05T08:02:26
+P0832,Shillong,H238,D9351,64,Female,Abdominal pain,Typhoid,Low,Hospital,Hospitalized,2025-09-15T16:44:26
+P0833,Imphal East,H897,D1999,35,Other,Muscle cramps,Cholera,Low,ASHA Worker,Deceased,2025-09-24T08:29:26
+P0834,Ri-Bhoi,H873,D7387,45,Male,Vomiting,Cholera,Medium,ASHA Worker,Recovered,2025-09-03T09:56:26
+P0835,Cachar,H947,D3274,2,Male,Bloody diarrhea,Dysentery,Low,ASHA Worker,Recovered,2025-09-01T14:40:26
+P0836,Dibrugarh,H959,D7730,10,Male,Abdominal pain,Dysentery,High,Hospital,Hospitalized,2025-09-08T11:08:26
+P0837,Dibrugarh,H597,D2200,70,Female,Abdominal pain,Typhoid,High,ASHA Worker,Deceased,2025-09-21T20:30:26
+P0838,Imphal West,H946,D9252,56,Female,Stomach cramps,Diarrhea,Low,Clinic,Hospitalized,2025-09-10T06:55:26
+P0839,Jorhat,H667,D1097,18,Female,Jaundice,Hepatitis A,High,Hospital,Deceased,2025-08-30T16:43:26
+P0840,Aizawl,H676,D9502,29,Female,Muscle cramps,Cholera,Low,Clinic,Recovered,2025-09-03T13:32:26
+P0841,Barpeta,H914,D7957,32,Male,Muscle cramps,Cholera,Medium,ASHA Worker,Hospitalized,2025-09-20T01:40:26
+P0842,Mokokchung,H745,D1171,37,Female,Dark urine,Hepatitis A,Low,Clinic,Hospitalized,2025-09-11T02:55:26
+P0843,East Khasi Hills,H106,D5050,7,Male,Dark urine,Hepatitis A,Low,ASHA Worker,Hospitalized,2025-09-10T11:36:26
+P0844,Dibrugarh,H168,D2845,73,Male,Bloody diarrhea,Dysentery,Medium,Hospital,Recovered,2025-09-24T12:45:26
+P0845,Imphal West,H366,D8778,4,Other,Loose stools,Diarrhea,Medium,Clinic,Hospitalized,2025-09-02T19:34:26
+P0846,Ri-Bhoi,H266,D8147,31,Male,Vomiting,Cholera,High,Hospital,Hospitalized,2025-09-19T16:47:26
+P0847,Dibrugarh,H463,D3654,73,Other,Vomiting,Cholera,High,ASHA Worker,Deceased,2025-09-14T23:34:26
+P0848,Barpeta,H450,D7712,65,Female,Headache,Typhoid,Low,ASHA Worker,Recovered,2025-09-19T23:37:26
+P0849,Kohima,H903,D4690,6,Male,Fever,Typhoid,Medium,Clinic,Recovered,2025-09-21T20:58:26
+P0850,Sonitpur,H444,D1567,65,Male,Loose stools,Diarrhea,Low,ASHA Worker,Hospitalized,2025-09-11T00:27:26
+P0851,Cachar,H589,D1064,15,Other,Dehydration,Diarrhea,High,Hospital,Recovered,2025-09-26T09:03:26
+P0852,Shillong,H574,D8749,58,Male,Fever,Dysentery,Medium,Clinic,Deceased,2025-09-03T17:47:26
+P0853,West Khasi Hills,H980,D3420,27,Other,Muscle cramps,Cholera,Low,Clinic,Hospitalized,2025-09-16T04:49:26
+P0854,Kohima,H998,D4308,18,Other,Dark urine,Hepatitis A,High,Hospital,Recovered,2025-09-19T01:42:26
+P0855,Imphal East,H987,D1475,29,Other,Vomiting,Cholera,High,ASHA Worker,Hospitalized,2025-09-15T22:50:26
+P0856,Aizawl,H813,D3493,72,Male,Dehydration,Diarrhea,Low,ASHA Worker,Hospitalized,2025-09-20T14:24:26
+P0857,Ri-Bhoi,H775,D6079,23,Male,Loose stools,Diarrhea,High,Clinic,Recovered,2025-09-02T11:20:26
+P0858,Aizawl,H281,D7769,36,Male,Bloody diarrhea,Dysentery,High,Clinic,Deceased,2025-09-16T21:58:26
+P0859,Jorhat,H629,D1794,18,Female,Severe dehydration,Cholera,Low,ASHA Worker,Recovered,2025-09-21T12:33:26
+P0860,Jorhat,H588,D1548,61,Other,Loose stools,Diarrhea,Low,Clinic,Deceased,2025-09-24T07:08:26
+P0861,East Khasi Hills,H203,D1641,73,Other,Weakness,Typhoid,Low,ASHA Worker,Recovered,2025-09-07T06:27:26
+P0862,Jorhat,H991,D5080,70,Male,Dehydration,Diarrhea,High,ASHA Worker,Deceased,2025-09-06T09:02:26
+P0863,Mokokchung,H159,D9714,68,Male,Muscle cramps,Cholera,Low,Hospital,Recovered,2025-09-13T04:56:26
+P0864,West Khasi Hills,H428,D8926,50,Other,Dark urine,Hepatitis A,Medium,Hospital,Hospitalized,2025-09-03T02:21:26
+P0865,Shillong,H489,D5273,88,Female,Bloody diarrhea,Dysentery,Medium,Hospital,Deceased,2025-08-27T09:31:26
+P0866,Jorhat,H364,D6575,24,Male,Bloody diarrhea,Dysentery,High,ASHA Worker,Hospitalized,2025-09-23T20:34:26
+P0867,Aizawl,H634,D2090,37,Other,Loose stools,Diarrhea,Low,Hospital,Deceased,2025-09-02T16:10:26
+P0868,Shillong,H659,D5133,11,Other,Fatigue,Hepatitis A,Low,Clinic,Recovered,2025-08-28T22:36:26
+P0869,Ri-Bhoi,H807,D9354,79,Other,Vomiting,Cholera,High,ASHA Worker,Hospitalized,2025-09-24T11:16:26
+P0870,East Khasi Hills,H142,D7780,89,Other,Bloody diarrhea,Dysentery,Low,Clinic,Deceased,2025-08-31T05:37:26
+P0871,Dibrugarh,H603,D8326,71,Other,Dehydration,Diarrhea,High,ASHA Worker,Hospitalized,2025-09-16T05:07:26
+P0872,Cachar,H474,D2739,63,Female,Headache,Typhoid,High,Hospital,Deceased,2025-08-29T05:49:26
+P0873,Mokokchung,H123,D6269,26,Male,Abdominal pain,Dysentery,Medium,Hospital,Recovered,2025-09-01T01:18:26
+P0874,Sonitpur,H524,D1002,72,Female,Vomiting,Cholera,Medium,Clinic,Deceased,2025-09-18T00:39:26
+P0875,Jorhat,H810,D2060,45,Male,Headache,Typhoid,High,Hospital,Hospitalized,2025-09-03T19:02:26
+P0876,Imphal West,H350,D4513,3,Male,Muscle cramps,Cholera,Low,Clinic,Hospitalized,2025-09-20T06:01:26
+P0877,East Khasi Hills,H861,D5961,4,Female,Stomach cramps,Diarrhea,High,ASHA Worker,Hospitalized,2025-08-29T10:21:26
+P0878,Cachar,H348,D2322,72,Male,Dark urine,Hepatitis A,Medium,ASHA Worker,Recovered,2025-09-24T23:15:26
+P0879,Jorhat,H269,D5017,85,Male,Fatigue,Hepatitis A,High,ASHA Worker,Hospitalized,2025-09-14T16:46:26
+P0880,Imphal West,H426,D7108,83,Male,Abdominal pain,Typhoid,High,Clinic,Recovered,2025-08-31T05:12:26
+P0881,Kamrup,H436,D3656,9,Female,Dark urine,Hepatitis A,High,ASHA Worker,Recovered,2025-09-14T05:52:26
+P0882,Dibrugarh,H439,D5571,23,Female,Loose stools,Diarrhea,High,ASHA Worker,Deceased,2025-09-08T20:31:26
+P0883,Jorhat,H639,D2093,14,Male,Severe dehydration,Cholera,Low,Clinic,Hospitalized,2025-09-04T19:10:26
+P0884,Mokokchung,H403,D8440,37,Other,Headache,Typhoid,Medium,ASHA Worker,Hospitalized,2025-09-24T19:26:26
+P0885,Aizawl,H773,D3116,72,Male,Abdominal pain,Dysentery,Low,ASHA Worker,Deceased,2025-09-16T13:00:26
+P0886,West Khasi Hills,H556,D6946,47,Female,Loose stools,Diarrhea,High,Hospital,Recovered,2025-09-23T21:41:26
+P0887,Imphal East,H441,D4107,43,Female,Headache,Typhoid,Low,Hospital,Deceased,2025-09-23T19:22:26
+P0888,Sonitpur,H592,D3409,85,Other,Abdominal pain,Dysentery,High,Hospital,Deceased,2025-09-13T03:39:26
+P0889,Kohima,H507,D2992,49,Female,Abdominal pain,Dysentery,High,Clinic,Recovered,2025-09-16T22:11:26
+P0890,Dibrugarh,H100,D6809,81,Other,Abdominal pain,Typhoid,High,Hospital,Hospitalized,2025-09-07T20:17:26
+P0891,Imphal West,H284,D6741,7,Female,Bloody diarrhea,Dysentery,Low,Clinic,Recovered,2025-09-12T14:01:26
+P0892,Dibrugarh,H211,D4208,12,Other,Headache,Typhoid,Medium,Clinic,Deceased,2025-08-28T17:21:26
+P0893,Barpeta,H619,D9698,90,Male,Severe dehydration,Cholera,High,Hospital,Recovered,2025-09-07T18:56:26
+P0894,West Khasi Hills,H745,D8108,87,Female,Abdominal pain,Typhoid,Medium,Clinic,Deceased,2025-09-11T16:43:26
+P0895,Cachar,H859,D3561,18,Male,Loose stools,Diarrhea,Medium,Hospital,Recovered,2025-09-07T00:23:26
+P0896,Kamrup,H188,D3964,85,Other,Weakness,Typhoid,Medium,Clinic,Recovered,2025-09-21T06:41:26
+P0897,West Khasi Hills,H542,D7796,12,Male,Watery diarrhea,Cholera,Low,Hospital,Deceased,2025-09-16T08:42:26
+P0898,Cachar,H317,D4201,64,Female,Fatigue,Hepatitis A,High,ASHA Worker,Recovered,2025-09-22T02:14:26
+P0899,Kamrup,H577,D5595,10,Other,Fatigue,Hepatitis A,High,Clinic,Hospitalized,2025-09-21T14:13:26
+P0900,Cachar,H664,D4412,26,Male,Fatigue,Hepatitis A,High,Clinic,Deceased,2025-09-02T21:19:26
+P0901,Cachar,H880,D1239,13,Female,Weakness,Typhoid,Low,ASHA Worker,Deceased,2025-09-24T09:30:26
+P0902,Dibrugarh,H926,D8713,54,Male,Fatigue,Hepatitis A,Medium,ASHA Worker,Hospitalized,2025-08-28T14:45:26
+P0903,Jorhat,H381,D7052,60,Male,Stomach cramps,Diarrhea,Low,ASHA Worker,Deceased,2025-08-27T07:45:26
+P0904,Ri-Bhoi,H427,D2753,6,Other,Stomach cramps,Diarrhea,High,Clinic,Deceased,2025-09-08T11:45:26
+P0905,East Khasi Hills,H436,D3187,53,Female,Weakness,Typhoid,High,ASHA Worker,Deceased,2025-08-30T17:36:26
+P0906,Sonitpur,H803,D1072,45,Other,Stomach cramps,Diarrhea,Low,ASHA Worker,Deceased,2025-09-19T06:16:26
+P0907,Kamrup,H931,D4399,55,Female,Vomiting,Cholera,Medium,Clinic,Recovered,2025-09-05T08:17:26
+P0908,Aizawl,H161,D8396,82,Male,Severe dehydration,Cholera,Medium,Clinic,Deceased,2025-09-19T01:36:26
+P0909,Cachar,H256,D7172,75,Male,Severe dehydration,Cholera,High,Clinic,Recovered,2025-09-07T23:31:26
+P0910,Sonitpur,H919,D3647,57,Female,Bloody diarrhea,Dysentery,High,Hospital,Recovered,2025-08-28T07:59:26
+P0911,Mokokchung,H655,D4940,50,Other,Abdominal pain,Dysentery,Low,Hospital,Deceased,2025-09-26T09:58:26
+P0912,Jorhat,H245,D9083,90,Other,Vomiting,Cholera,High,ASHA Worker,Deceased,2025-09-18T05:08:26
+P0913,Imphal East,H164,D2056,77,Other,Stomach cramps,Diarrhea,Low,Hospital,Hospitalized,2025-08-29T17:42:26
+P0914,Kamrup,H144,D2565,76,Female,Dehydration,Diarrhea,High,Hospital,Hospitalized,2025-09-05T22:51:26
+P0915,East Khasi Hills,H344,D1267,20,Other,Vomiting,Cholera,Low,Hospital,Recovered,2025-09-14T18:00:26
+P0916,West Khasi Hills,H684,D8521,28,Female,Dark urine,Hepatitis A,Low,Hospital,Deceased,2025-09-22T00:03:26
+P0917,Sonitpur,H415,D4078,55,Other,Abdominal pain,Typhoid,High,ASHA Worker,Deceased,2025-09-19T08:52:26
+P0918,Shillong,H422,D3619,31,Male,Abdominal pain,Dysentery,Medium,ASHA Worker,Deceased,2025-08-31T11:04:26
+P0919,Kohima,H787,D2156,84,Female,Severe dehydration,Cholera,Medium,ASHA Worker,Recovered,2025-09-22T16:25:26
+P0920,Shillong,H384,D1562,85,Female,Bloody diarrhea,Dysentery,Medium,Hospital,Deceased,2025-08-31T08:31:26
+P0921,Imphal West,H321,D3090,54,Male,Loose stools,Diarrhea,Low,Hospital,Recovered,2025-09-19T13:09:26
+P0922,Shillong,H826,D7298,78,Male,Abdominal pain,Typhoid,High,ASHA Worker,Hospitalized,2025-09-16T17:57:26
+P0923,Ri-Bhoi,H353,D6590,14,Male,Jaundice,Hepatitis A,Medium,Hospital,Recovered,2025-09-04T08:07:26
+P0924,Mokokchung,H477,D8768,44,Male,Watery diarrhea,Cholera,Low,Hospital,Hospitalized,2025-09-01T11:08:26
+P0925,Dibrugarh,H430,D4094,51,Male,Loose stools,Diarrhea,Medium,ASHA Worker,Hospitalized,2025-09-02T08:14:26
+P0926,Aizawl,H789,D7275,72,Female,Dark urine,Hepatitis A,High,Clinic,Hospitalized,2025-08-31T13:37:26
+P0927,Shillong,H184,D4479,32,Other,Muscle cramps,Cholera,Low,Clinic,Deceased,2025-09-22T14:28:26
+P0928,Imphal West,H997,D9255,53,Other,Watery diarrhea,Cholera,Medium,ASHA Worker,Deceased,2025-09-12T08:38:26
+P0929,Cachar,H539,D9393,54,Female,Severe dehydration,Cholera,Low,ASHA Worker,Deceased,2025-09-16T06:43:26
+P0930,West Khasi Hills,H907,D4775,59,Other,Loose stools,Diarrhea,High,Hospital,Recovered,2025-09-05T20:10:26
+P0931,West Khasi Hills,H429,D6258,57,Female,Muscle cramps,Cholera,Low,Hospital,Recovered,2025-09-17T02:37:26
+P0932,West Khasi Hills,H576,D2521,50,Female,Abdominal pain,Dysentery,Medium,Clinic,Hospitalized,2025-09-03T06:18:26
+P0933,Ri-Bhoi,H722,D6903,28,Male,Fever,Typhoid,Medium,ASHA Worker,Deceased,2025-09-19T16:35:26
+P0934,West Khasi Hills,H396,D3991,59,Male,Bloody diarrhea,Dysentery,High,Hospital,Recovered,2025-09-19T08:17:26
+P0935,Imphal East,H793,D7769,52,Female,Fever,Dysentery,Low,Clinic,Recovered,2025-09-03T16:27:26
+P0936,Mokokchung,H440,D7796,6,Male,Vomiting,Cholera,Medium,Clinic,Hospitalized,2025-09-12T10:08:26
+P0937,Ri-Bhoi,H823,D5926,26,Other,Loose stools,Diarrhea,Medium,ASHA Worker,Deceased,2025-09-15T18:03:26
+P0938,Aizawl,H941,D1769,10,Other,Stomach cramps,Diarrhea,Medium,ASHA Worker,Recovered,2025-08-30T02:07:26
+P0939,Jorhat,H548,D1874,48,Other,Fatigue,Hepatitis A,High,Clinic,Deceased,2025-09-19T07:36:26
+P0940,East Khasi Hills,H725,D9155,9,Other,Vomiting,Cholera,Low,Hospital,Hospitalized,2025-08-28T08:05:26
+P0941,Dibrugarh,H282,D3905,62,Female,Stomach cramps,Diarrhea,Medium,Clinic,Deceased,2025-08-30T11:24:26
+P0942,Kohima,H986,D6745,59,Female,Vomiting,Cholera,High,Hospital,Recovered,2025-09-25T03:13:26
+P0943,Imphal West,H484,D5156,38,Other,Fever,Dysentery,Low,Clinic,Hospitalized,2025-08-28T02:05:26
+P0944,Aizawl,H225,D5966,52,Female,Fever,Typhoid,Medium,Clinic,Hospitalized,2025-09-01T02:46:26
+P0945,Imphal West,H500,D8552,47,Female,Fever,Typhoid,Medium,Clinic,Deceased,2025-09-10T01:20:26
+P0946,Jorhat,H400,D8982,11,Male,Bloody diarrhea,Dysentery,Low,Hospital,Recovered,2025-09-11T15:26:26
+P0947,Imphal East,H246,D4850,63,Other,Jaundice,Hepatitis A,Low,ASHA Worker,Deceased,2025-09-09T03:31:26
+P0948,Imphal East,H539,D4224,45,Female,Dehydration,Diarrhea,Medium,Clinic,Hospitalized,2025-08-30T15:18:26
+P0949,Sonitpur,H889,D8361,48,Female,Vomiting,Cholera,Low,Hospital,Recovered,2025-08-31T15:30:26
+P0950,Cachar,H217,D9048,36,Male,Watery diarrhea,Cholera,Low,ASHA Worker,Hospitalized,2025-09-18T23:44:26
+P0951,Imphal West,H920,D2620,84,Female,Abdominal pain,Typhoid,High,ASHA Worker,Recovered,2025-09-24T17:39:26
+P0952,Ri-Bhoi,H977,D3021,22,Male,Fever,Typhoid,High,ASHA Worker,Deceased,2025-09-19T00:38:26
+P0953,Jorhat,H101,D2838,87,Female,Vomiting,Cholera,High,Hospital,Deceased,2025-09-02T19:09:26
+P0954,Ri-Bhoi,H460,D9830,14,Female,Loose stools,Diarrhea,High,Hospital,Deceased,2025-09-01T17:33:26
+P0955,Kohima,H514,D5766,3,Male,Nausea,Hepatitis A,Low,ASHA Worker,Deceased,2025-09-05T13:25:26
+P0956,Dibrugarh,H115,D5433,32,Male,Fever,Typhoid,Medium,Hospital,Recovered,2025-09-20T21:05:26
+P0957,East Khasi Hills,H708,D7809,50,Male,Weakness,Typhoid,Medium,Hospital,Hospitalized,2025-08-30T15:41:26
+P0958,Imphal East,H305,D4821,48,Male,Fever,Typhoid,Medium,Clinic,Recovered,2025-09-02T13:41:26
+P0959,West Khasi Hills,H164,D4848,90,Female,Weakness,Typhoid,Low,Clinic,Recovered,2025-09-08T10:17:26
+P0960,Sonitpur,H683,D3875,52,Female,Bloody diarrhea,Dysentery,Low,Hospital,Hospitalized,2025-08-29T09:23:26
+P0961,West Khasi Hills,H731,D8745,64,Other,Watery diarrhea,Cholera,High,ASHA Worker,Deceased,2025-08-30T07:23:26
+P0962,West Khasi Hills,H456,D1309,14,Other,Stomach cramps,Diarrhea,Medium,Hospital,Recovered,2025-08-30T10:42:26
+P0963,Barpeta,H766,D6432,12,Female,Nausea,Hepatitis A,High,ASHA Worker,Deceased,2025-08-30T02:31:26
+P0964,Aizawl,H787,D8014,33,Female,Fever,Dysentery,High,ASHA Worker,Deceased,2025-09-15T07:22:26
+P0965,Mokokchung,H189,D6626,46,Male,Severe dehydration,Cholera,High,Clinic,Deceased,2025-09-22T05:36:26
+P0966,Ri-Bhoi,H601,D9426,1,Other,Jaundice,Hepatitis A,Medium,ASHA Worker,Hospitalized,2025-08-28T03:32:26
+P0967,Sonitpur,H404,D6560,21,Female,Muscle cramps,Cholera,Medium,Clinic,Deceased,2025-08-29T15:46:26
+P0968,Sonitpur,H227,D5115,55,Female,Stomach cramps,Diarrhea,Medium,ASHA Worker,Recovered,2025-09-23T20:35:26
+P0969,East Khasi Hills,H134,D4055,7,Female,Watery diarrhea,Cholera,Low,ASHA Worker,Deceased,2025-09-25T18:49:26
+P0970,Imphal East,H809,D5683,1,Female,Stomach cramps,Diarrhea,Low,Clinic,Hospitalized,2025-09-12T22:02:26
+P0971,Kohima,H450,D5965,39,Other,Fever,Dysentery,Medium,Hospital,Deceased,2025-08-29T01:49:26
+P0972,East Khasi Hills,H228,D9560,39,Female,Abdominal pain,Typhoid,Medium,Hospital,Deceased,2025-09-04T01:57:26
+P0973,Mokokchung,H990,D4056,12,Male,Abdominal pain,Typhoid,Low,ASHA Worker,Deceased,2025-09-21T07:26:26
+P0974,Mokokchung,H216,D8493,12,Male,Jaundice,Hepatitis A,Low,Clinic,Deceased,2025-09-19T20:13:26
+P0975,Imphal West,H510,D6058,60,Other,Fever,Dysentery,Low,Hospital,Hospitalized,2025-09-07T07:21:26
+P0976,Jorhat,H790,D7359,58,Other,Fatigue,Hepatitis A,Medium,ASHA Worker,Hospitalized,2025-08-31T21:38:26
+P0977,Imphal East,H490,D9752,4,Female,Watery diarrhea,Cholera,High,Hospital,Deceased,2025-09-02T12:00:26
+P0978,Cachar,H276,D7390,9,Female,Stomach cramps,Diarrhea,Low,ASHA Worker,Recovered,2025-09-01T14:12:26
+P0979,Sonitpur,H656,D8672,88,Other,Watery diarrhea,Cholera,Medium,Clinic,Hospitalized,2025-08-27T12:22:26
+P0980,East Khasi Hills,H789,D5868,36,Female,Headache,Typhoid,High,Hospital,Recovered,2025-09-06T12:47:26
+P0981,East Khasi Hills,H241,D7640,59,Female,Fever,Dysentery,Low,Clinic,Recovered,2025-08-28T21:30:26
+P0982,Kohima,H656,D6761,66,Female,Fever,Typhoid,High,Hospital,Recovered,2025-09-06T21:16:26
+P0983,Barpeta,H116,D8023,11,Female,Muscle cramps,Cholera,Low,Hospital,Deceased,2025-09-07T01:26:26
+P0984,Dibrugarh,H693,D1897,21,Female,Jaundice,Hepatitis A,High,Hospital,Deceased,2025-08-28T06:55:26
+P0985,Kamrup,H245,D5032,24,Male,Muscle cramps,Cholera,High,ASHA Worker,Deceased,2025-09-10T16:20:26
+P0986,West Khasi Hills,H322,D1630,80,Male,Bloody diarrhea,Dysentery,Medium,Clinic,Recovered,2025-09-10T19:19:26
+P0987,Imphal East,H191,D5791,47,Female,Jaundice,Hepatitis A,Low,Clinic,Recovered,2025-09-04T20:06:26
+P0988,Barpeta,H593,D8879,11,Other,Dehydration,Diarrhea,Medium,ASHA Worker,Deceased,2025-08-29T10:41:26
+P0989,Ri-Bhoi,H551,D5399,67,Female,Nausea,Hepatitis A,High,Hospital,Deceased,2025-09-16T17:35:26
+P0990,Imphal West,H212,D6293,36,Female,Nausea,Hepatitis A,Medium,Clinic,Recovered,2025-09-07T15:36:26
+P0991,Aizawl,H711,D2108,38,Female,Bloody diarrhea,Dysentery,Low,ASHA Worker,Recovered,2025-09-16T11:05:26
+P0992,Sonitpur,H801,D7557,56,Male,Bloody diarrhea,Dysentery,Low,ASHA Worker,Deceased,2025-08-30T19:30:26
+P0993,Barpeta,H776,D7825,25,Male,Abdominal pain,Typhoid,High,Clinic,Deceased,2025-08-29T19:29:26
+P0994,Jorhat,H406,D9278,74,Female,Fever,Typhoid,High,Hospital,Deceased,2025-09-22T19:42:26
+P0995,Kamrup,H120,D8186,84,Other,Watery diarrhea,Cholera,High,ASHA Worker,Hospitalized,2025-09-22T20:58:26
+P0996,Dibrugarh,H521,D6618,57,Other,Abdominal pain,Typhoid,High,ASHA Worker,Recovered,2025-09-08T10:42:26
+P0997,Dibrugarh,H503,D1778,79,Other,Dehydration,Diarrhea,High,ASHA Worker,Recovered,2025-09-21T16:56:26
+P0998,Imphal West,H769,D2719,37,Male,Nausea,Hepatitis A,Medium,Clinic,Hospitalized,2025-09-14T10:43:26
+P0999,West Khasi Hills,H716,D6802,51,Female,Muscle cramps,Cholera,Low,Clinic,Deceased,2025-09-03T18:35:26
+P1000,Kohima,H193,D6689,32,Other,Stomach cramps,Diarrhea,Medium,Clinic,Deceased,2025-09-21T13:46:26
+P1001,Kamrup,H181,D6331,37,Male,Dark urine,Hepatitis A,High,ASHA Worker,Deceased,2025-09-07T13:06:26
+P1002,Ri-Bhoi,H224,D5836,12,Male,Abdominal pain,Dysentery,Low,Clinic,Recovered,2025-09-06T20:36:26
+P1003,East Khasi Hills,H231,D4697,52,Other,Severe dehydration,Cholera,High,Clinic,Deceased,2025-09-23T21:00:26
+P1004,Mokokchung,H474,D7565,33,Other,Fever,Typhoid,Medium,Hospital,Recovered,2025-09-09T16:57:26
+P1005,Cachar,H850,D3160,66,Other,Jaundice,Hepatitis A,Medium,Hospital,Recovered,2025-09-24T14:53:26
+P1006,Cachar,H208,D6628,48,Male,Bloody diarrhea,Dysentery,Low,Hospital,Hospitalized,2025-09-09T11:23:26
+P1007,Barpeta,H572,D7927,29,Male,Abdominal pain,Typhoid,High,Hospital,Recovered,2025-09-16T10:22:26
+P1008,Sonitpur,H383,D4877,2,Other,Fever,Dysentery,Low,Hospital,Deceased,2025-09-19T22:31:26
+P1009,Cachar,H706,D3826,79,Other,Fever,Typhoid,Low,ASHA Worker,Hospitalized,2025-09-05T02:13:26
+P1010,Imphal West,H977,D4294,79,Other,Jaundice,Hepatitis A,Low,ASHA Worker,Hospitalized,2025-09-22T17:52:26
+P1011,Aizawl,H447,D9985,64,Male,Dark urine,Hepatitis A,Medium,Clinic,Recovered,2025-09-13T00:16:26
+P1012,Sonitpur,H589,D3645,42,Other,Nausea,Hepatitis A,Low,Clinic,Hospitalized,2025-09-25T03:28:26
+P1013,Imphal West,H390,D4130,90,Male,Fever,Typhoid,Low,Clinic,Hospitalized,2025-09-13T13:32:26
+P1014,Jorhat,H722,D6262,11,Male,Jaundice,Hepatitis A,Low,ASHA Worker,Hospitalized,2025-09-11T08:44:26
+P1015,Imphal East,H693,D7463,54,Male,Abdominal pain,Dysentery,Medium,ASHA Worker,Recovered,2025-09-04T21:36:26
+P1016,Ri-Bhoi,H752,D4342,44,Male,Weakness,Typhoid,Low,Clinic,Deceased,2025-09-10T23:38:26
+P1017,Imphal East,H852,D3318,52,Other,Fever,Typhoid,High,Hospital,Deceased,2025-09-10T20:37:26
+P1018,Imphal West,H281,D8882,83,Male,Loose stools,Diarrhea,Medium,ASHA Worker,Recovered,2025-09-11T01:27:26
+P1019,Imphal East,H780,D8357,80,Other,Weakness,Typhoid,Medium,ASHA Worker,Deceased,2025-09-04T22:10:26
+P1020,Imphal West,H841,D7050,11,Female,Jaundice,Hepatitis A,High,Hospital,Recovered,2025-09-10T18:36:26
+P1021,Kohima,H362,D6470,87,Other,Dark urine,Hepatitis A,Medium,Clinic,Hospitalized,2025-09-04T04:19:26
+P1022,Dibrugarh,H526,D6910,5,Other,Fatigue,Hepatitis A,High,ASHA Worker,Recovered,2025-09-15T08:34:26
+P1023,Kohima,H310,D1147,80,Other,Abdominal pain,Typhoid,High,ASHA Worker,Hospitalized,2025-09-18T05:25:26
+P1024,Mokokchung,H243,D5066,7,Other,Fever,Typhoid,Medium,Hospital,Hospitalized,2025-09-19T01:08:26
+P1025,Aizawl,H843,D4768,35,Male,Dark urine,Hepatitis A,Medium,Hospital,Recovered,2025-09-02T05:35:26
+P1026,Cachar,H963,D7283,12,Other,Abdominal pain,Dysentery,Low,ASHA Worker,Hospitalized,2025-09-09T18:18:26
+P1027,Kohima,H690,D3078,51,Male,Abdominal pain,Dysentery,Low,Clinic,Deceased,2025-09-12T18:20:26
+P1028,Dibrugarh,H557,D1462,76,Male,Muscle cramps,Cholera,High,Clinic,Recovered,2025-09-08T00:40:26
+P1029,Dibrugarh,H864,D8204,51,Other,Muscle cramps,Cholera,Medium,ASHA Worker,Deceased,2025-08-31T15:51:26
+P1030,Sonitpur,H477,D9844,49,Female,Vomiting,Cholera,High,ASHA Worker,Deceased,2025-09-05T04:00:26
+P1031,Ri-Bhoi,H452,D6870,82,Male,Bloody diarrhea,Dysentery,Low,Hospital,Recovered,2025-09-10T11:38:26
+P1032,Shillong,H816,D8925,35,Male,Fever,Dysentery,Low,ASHA Worker,Recovered,2025-09-03T12:38:26
+P1033,Imphal East,H340,D6018,77,Female,Vomiting,Cholera,High,Hospital,Deceased,2025-09-22T01:46:26
+P1034,Imphal West,H547,D1328,61,Female,Vomiting,Cholera,Medium,Clinic,Deceased,2025-08-31T02:11:26
+P1035,Kohima,H960,D1854,51,Female,Severe dehydration,Cholera,Low,ASHA Worker,Deceased,2025-09-21T21:20:26
+P1036,Dibrugarh,H147,D3608,73,Female,Headache,Typhoid,Medium,Hospital,Deceased,2025-09-11T18:13:26
+P1037,Kohima,H472,D9609,11,Male,Abdominal pain,Dysentery,Low,ASHA Worker,Recovered,2025-09-22T18:05:26
+P1038,Cachar,H657,D4790,58,Female,Watery diarrhea,Cholera,Medium,Clinic,Deceased,2025-09-05T08:50:26
+P1039,West Khasi Hills,H438,D4392,49,Male,Weakness,Typhoid,Medium,Hospital,Deceased,2025-09-17T03:42:26
+P1040,Imphal West,H433,D8342,15,Female,Muscle cramps,Cholera,Medium,Clinic,Deceased,2025-09-04T07:11:26
+P1041,Kamrup,H926,D4381,39,Male,Jaundice,Hepatitis A,Medium,Hospital,Hospitalized,2025-09-03T02:55:26
+P1042,Mokokchung,H333,D2877,71,Male,Loose stools,Diarrhea,Medium,Clinic,Deceased,2025-09-23T11:20:26
+P1043,Imphal East,H109,D5911,55,Other,Abdominal pain,Typhoid,Low,ASHA Worker,Hospitalized,2025-09-07T06:27:26
+P1044,Kohima,H504,D7988,49,Other,Muscle cramps,Cholera,High,Clinic,Deceased,2025-09-24T21:51:26
+P1045,Dibrugarh,H664,D1928,82,Female,Muscle cramps,Cholera,Medium,Hospital,Hospitalized,2025-09-16T08:00:26
+P1046,Jorhat,H157,D1131,60,Other,Abdominal pain,Typhoid,Low,ASHA Worker,Recovered,2025-09-05T07:12:26
+P1047,Shillong,H269,D6075,88,Other,Jaundice,Hepatitis A,Low,ASHA Worker,Deceased,2025-08-30T09:01:26
+P1048,Sonitpur,H879,D2942,7,Female,Loose stools,Diarrhea,Low,ASHA Worker,Hospitalized,2025-09-24T13:13:26
+P1049,Aizawl,H593,D2158,90,Other,Nausea,Hepatitis A,High,Clinic,Hospitalized,2025-09-23T02:46:26
+P1050,Shillong,H662,D7524,90,Male,Dark urine,Hepatitis A,Medium,Clinic,Hospitalized,2025-09-08T17:15:26
+P1051,Jorhat,H225,D6881,69,Female,Fever,Dysentery,Medium,Clinic,Hospitalized,2025-09-24T10:53:26
+P1052,Sonitpur,H960,D4586,60,Other,Abdominal pain,Dysentery,High,Hospital,Recovered,2025-09-20T12:18:26
+P1053,Imphal West,H186,D1270,17,Female,Bloody diarrhea,Dysentery,Medium,ASHA Worker,Deceased,2025-08-30T08:31:26
+P1054,Cachar,H158,D1215,79,Other,Stomach cramps,Diarrhea,Medium,ASHA Worker,Deceased,2025-09-11T21:58:26
+P1055,Imphal East,H220,D8926,56,Female,Nausea,Hepatitis A,Low,Clinic,Hospitalized,2025-09-09T13:06:26
+P1056,Shillong,H208,D6762,65,Male,Severe dehydration,Cholera,High,Hospital,Hospitalized,2025-09-13T21:16:26
+P1057,East Khasi Hills,H729,D8001,72,Female,Fever,Dysentery,Medium,ASHA Worker,Recovered,2025-09-24T18:09:26
+P1058,Aizawl,H973,D4893,18,Other,Vomiting,Cholera,High,Clinic,Recovered,2025-09-13T17:16:26
+P1059,Kohima,H338,D6838,9,Female,Abdominal pain,Typhoid,Low,Clinic,Deceased,2025-08-29T00:01:26
+P1060,Ri-Bhoi,H809,D9752,52,Other,Stomach cramps,Diarrhea,High,ASHA Worker,Hospitalized,2025-09-14T16:26:26
+P1061,Barpeta,H661,D1640,83,Male,Watery diarrhea,Cholera,Medium,Hospital,Recovered,2025-09-12T05:51:26
+P1062,Shillong,H870,D1897,6,Male,Severe dehydration,Cholera,High,ASHA Worker,Recovered,2025-09-15T04:42:26
+P1063,Imphal East,H250,D5790,55,Other,Stomach cramps,Diarrhea,High,Clinic,Hospitalized,2025-09-22T06:39:26
+P1064,Imphal East,H454,D4175,19,Female,Weakness,Typhoid,Low,Clinic,Hospitalized,2025-09-08T19:24:26
+P1065,Aizawl,H565,D6414,75,Male,Dehydration,Diarrhea,Medium,Hospital,Deceased,2025-09-12T23:17:26
+P1066,West Khasi Hills,H208,D3999,81,Other,Weakness,Typhoid,Medium,Hospital,Deceased,2025-08-31T19:17:26
+P1067,Dibrugarh,H356,D1678,68,Other,Stomach cramps,Diarrhea,High,ASHA Worker,Deceased,2025-09-11T06:12:26
+P1068,Imphal West,H410,D6472,39,Other,Abdominal pain,Typhoid,Medium,Hospital,Hospitalized,2025-09-24T10:08:26
+P1069,Imphal West,H727,D4850,28,Female,Dehydration,Diarrhea,Medium,Hospital,Recovered,2025-09-07T10:21:26
+P1070,Kohima,H683,D8561,3,Other,Fever,Typhoid,Low,Clinic,Recovered,2025-09-07T06:27:26
+P1071,Aizawl,H678,D4243,63,Other,Vomiting,Cholera,Medium,ASHA Worker,Deceased,2025-09-06T20:38:26
+P1072,Kohima,H137,D9705,90,Male,Watery diarrhea,Cholera,High,Clinic,Hospitalized,2025-09-23T09:40:26
+P1073,Mokokchung,H502,D4390,27,Other,Fatigue,Hepatitis A,High,ASHA Worker,Recovered,2025-09-15T06:54:26
+P1074,Dibrugarh,H242,D2621,46,Other,Fever,Typhoid,Medium,Hospital,Deceased,2025-09-16T12:01:26
+P1075,Cachar,H996,D4384,81,Female,Bloody diarrhea,Dysentery,Medium,Hospital,Recovered,2025-08-31T19:34:26
+P1076,East Khasi Hills,H770,D2162,82,Female,Vomiting,Cholera,Medium,Clinic,Deceased,2025-09-08T17:11:26
+P1077,Dibrugarh,H739,D1795,45,Male,Dark urine,Hepatitis A,Medium,Clinic,Hospitalized,2025-09-19T02:35:26
+P1078,Ri-Bhoi,H416,D1695,89,Male,Abdominal pain,Typhoid,Low,ASHA Worker,Hospitalized,2025-08-27T23:03:26
+P1079,Shillong,H233,D1242,67,Female,Abdominal pain,Dysentery,High,ASHA Worker,Deceased,2025-09-26T01:05:26
+P1080,East Khasi Hills,H103,D1514,17,Female,Fever,Dysentery,High,Clinic,Hospitalized,2025-09-04T17:30:26
+P1081,Imphal West,H442,D6530,1,Male,Dark urine,Hepatitis A,Low,Hospital,Hospitalized,2025-09-06T00:26:26
+P1082,Kamrup,H515,D5274,48,Female,Fever,Typhoid,Medium,Hospital,Hospitalized,2025-08-28T00:06:26
+P1083,Ri-Bhoi,H137,D7574,27,Male,Weakness,Typhoid,High,ASHA Worker,Hospitalized,2025-08-27T09:35:26
+P1084,Aizawl,H680,D7689,89,Female,Severe dehydration,Cholera,Medium,ASHA Worker,Hospitalized,2025-08-30T02:55:26
+P1085,Cachar,H818,D8149,88,Female,Watery diarrhea,Cholera,High,Clinic,Deceased,2025-09-09T14:06:26
+P1086,Barpeta,H770,D8388,34,Male,Abdominal pain,Typhoid,Low,Clinic,Deceased,2025-08-31T13:23:26
+P1087,Imphal West,H322,D2084,4,Female,Severe dehydration,Cholera,High,Hospital,Hospitalized,2025-09-06T07:45:26
+P1088,Imphal West,H867,D7668,72,Female,Stomach cramps,Diarrhea,Medium,Hospital,Hospitalized,2025-09-05T00:57:26
+P1089,Cachar,H883,D6768,68,Male,Nausea,Hepatitis A,Low,ASHA Worker,Recovered,2025-09-03T11:28:26
+P1090,Ri-Bhoi,H524,D8328,65,Female,Dehydration,Diarrhea,Medium,ASHA Worker,Recovered,2025-09-01T14:28:26
+P1091,West Khasi Hills,H729,D9873,38,Other,Muscle cramps,Cholera,Medium,ASHA Worker,Hospitalized,2025-08-28T07:50:26
+P1092,Barpeta,H981,D8019,30,Male,Watery diarrhea,Cholera,High,Clinic,Deceased,2025-09-13T10:07:26
+P1093,Imphal East,H585,D1400,29,Male,Fever,Typhoid,Low,Hospital,Recovered,2025-09-21T13:06:26
+P1094,Dibrugarh,H923,D2003,23,Other,Stomach cramps,Diarrhea,High,Clinic,Deceased,2025-09-12T23:49:26
+P1095,Shillong,H639,D8752,59,Female,Vomiting,Cholera,High,ASHA Worker,Hospitalized,2025-09-24T06:58:26
+P1096,Barpeta,H719,D4083,42,Female,Fever,Dysentery,Low,Clinic,Hospitalized,2025-09-26T12:11:26
+P1097,East Khasi Hills,H414,D9262,17,Male,Dehydration,Diarrhea,Low,Clinic,Hospitalized,2025-09-15T18:02:26
+P1098,Imphal East,H596,D8148,75,Other,Jaundice,Hepatitis A,Medium,Clinic,Deceased,2025-09-15T19:48:26
+P1099,Ri-Bhoi,H751,D1952,68,Other,Dark urine,Hepatitis A,Low,Clinic,Recovered,2025-09-24T16:22:26
+P1100,East Khasi Hills,H488,D3874,17,Other,Nausea,Hepatitis A,Medium,ASHA Worker,Recovered,2025-09-16T03:46:26
+P1101,Kamrup,H544,D4304,57,Male,Vomiting,Cholera,Medium,Hospital,Deceased,2025-09-07T22:06:26
+P1102,Barpeta,H348,D5467,32,Other,Abdominal pain,Typhoid,High,Clinic,Deceased,2025-09-22T13:57:26
+P1103,Barpeta,H948,D2439,66,Female,Fever,Dysentery,Medium,ASHA Worker,Hospitalized,2025-09-24T03:03:26
+P1104,Dibrugarh,H735,D5823,45,Female,Abdominal pain,Dysentery,High,Hospital,Hospitalized,2025-09-13T12:41:26
+P1105,East Khasi Hills,H571,D6888,11,Other,Headache,Typhoid,High,Clinic,Hospitalized,2025-08-30T00:31:26
+P1106,Kamrup,H470,D8463,85,Other,Abdominal pain,Dysentery,High,Clinic,Deceased,2025-09-20T04:10:26
+P1107,Barpeta,H152,D1459,7,Female,Watery diarrhea,Cholera,Medium,Hospital,Hospitalized,2025-09-08T09:00:26
+P1108,Kohima,H206,D7187,38,Other,Abdominal pain,Dysentery,High,Hospital,Hospitalized,2025-09-05T15:13:26
+P1109,Dibrugarh,H726,D8249,61,Other,Watery diarrhea,Cholera,Medium,ASHA Worker,Recovered,2025-09-01T22:45:26
+P1110,Imphal East,H617,D4453,41,Female,Headache,Typhoid,High,Clinic,Recovered,2025-09-19T02:11:26
+P1111,East Khasi Hills,H337,D2448,4,Other,Weakness,Typhoid,Medium,Clinic,Deceased,2025-09-19T02:09:26
+P1112,Jorhat,H675,D8164,38,Female,Dehydration,Diarrhea,Medium,Clinic,Deceased,2025-09-15T08:07:26
+P1113,Ri-Bhoi,H713,D9362,75,Other,Bloody diarrhea,Dysentery,High,Clinic,Hospitalized,2025-08-30T06:03:26
+P1114,Cachar,H126,D6241,86,Female,Fever,Dysentery,Medium,Hospital,Hospitalized,2025-09-13T17:23:26
+P1115,Mokokchung,H215,D3751,78,Male,Abdominal pain,Dysentery,Low,Hospital,Hospitalized,2025-09-07T13:46:26
+P1116,Kohima,H482,D3507,31,Female,Stomach cramps,Diarrhea,Low,Hospital,Hospitalized,2025-08-31T15:09:26
+P1117,Aizawl,H269,D7352,37,Male,Weakness,Typhoid,Medium,Clinic,Deceased,2025-09-20T13:32:26
+P1118,Kamrup,H732,D2090,11,Male,Dehydration,Diarrhea,Medium,Clinic,Deceased,2025-09-04T12:53:26
+P1119,Barpeta,H136,D1367,58,Other,Watery diarrhea,Cholera,Low,ASHA Worker,Recovered,2025-09-15T00:48:26
+P1120,Imphal West,H643,D5208,72,Other,Headache,Typhoid,High,ASHA Worker,Recovered,2025-09-12T17:53:26
+P1121,Jorhat,H220,D9828,19,Other,Fever,Dysentery,High,Clinic,Recovered,2025-09-03T15:55:26
+P1122,Jorhat,H938,D6370,40,Male,Jaundice,Hepatitis A,Low,Hospital,Recovered,2025-09-19T14:05:26
+P1123,Kamrup,H553,D9465,41,Female,Abdominal pain,Typhoid,High,Clinic,Hospitalized,2025-08-27T00:40:26
+P1124,Sonitpur,H100,D5522,30,Other,Fatigue,Hepatitis A,Medium,Clinic,Recovered,2025-09-04T22:29:26
+P1125,Dibrugarh,H121,D4212,33,Male,Stomach cramps,Diarrhea,High,Hospital,Deceased,2025-09-14T04:19:26
+P1126,West Khasi Hills,H878,D6595,51,Male,Severe dehydration,Cholera,Low,Hospital,Deceased,2025-09-14T01:31:26
+P1127,Shillong,H821,D8224,14,Other,Dehydration,Diarrhea,Low,ASHA Worker,Recovered,2025-09-04T08:22:26
+P1128,Ri-Bhoi,H963,D3329,7,Male,Abdominal pain,Typhoid,Low,Clinic,Recovered,2025-09-16T00:31:26
+P1129,Kohima,H418,D2155,49,Other,Abdominal pain,Typhoid,Low,Hospital,Deceased,2025-09-03T14:31:26
+P1130,Imphal East,H120,D5075,27,Male,Stomach cramps,Diarrhea,Medium,Hospital,Hospitalized,2025-09-21T03:27:26
+P1131,Kamrup,H744,D2544,89,Female,Stomach cramps,Diarrhea,Medium,ASHA Worker,Deceased,2025-09-12T12:51:26
+P1132,Imphal East,H293,D3181,64,Female,Abdominal pain,Typhoid,High,Hospital,Recovered,2025-09-03T17:38:26
+P1133,Mokokchung,H895,D3805,39,Male,Dehydration,Diarrhea,High,Hospital,Hospitalized,2025-09-03T13:13:26
+P1134,Ri-Bhoi,H849,D4594,14,Other,Fatigue,Hepatitis A,Medium,Hospital,Hospitalized,2025-09-19T12:28:26
+P1135,Kohima,H697,D7366,3,Female,Abdominal pain,Typhoid,High,Hospital,Hospitalized,2025-08-31T11:05:26
+P1136,Imphal West,H984,D2102,57,Male,Dark urine,Hepatitis A,Low,Hospital,Deceased,2025-09-05T10:01:26
+P1137,Shillong,H697,D4295,34,Female,Loose stools,Diarrhea,Low,Hospital,Hospitalized,2025-09-23T03:13:26
+P1138,Ri-Bhoi,H668,D2035,85,Other,Muscle cramps,Cholera,Low,ASHA Worker,Deceased,2025-08-30T00:17:26
+P1139,Ri-Bhoi,H832,D2400,9,Female,Severe dehydration,Cholera,High,Hospital,Deceased,2025-09-18T07:59:26
+P1140,Aizawl,H807,D4886,57,Female,Abdominal pain,Typhoid,Low,Clinic,Deceased,2025-08-27T09:45:26
+P1141,Kohima,H960,D5265,45,Male,Fatigue,Hepatitis A,Medium,ASHA Worker,Hospitalized,2025-08-27T03:53:26
+P1142,Dibrugarh,H720,D2799,10,Male,Dark urine,Hepatitis A,High,Hospital,Deceased,2025-09-24T21:05:26
+P1143,Mokokchung,H468,D4504,7,Male,Muscle cramps,Cholera,Low,ASHA Worker,Recovered,2025-09-26T14:14:26
+P1144,Kamrup,H606,D7351,4,Female,Watery diarrhea,Cholera,High,Hospital,Hospitalized,2025-08-28T02:46:26
+P1145,Sonitpur,H361,D4669,57,Female,Weakness,Typhoid,Low,Hospital,Deceased,2025-08-27T04:45:26
+P1146,West Khasi Hills,H651,D2198,1,Female,Loose stools,Diarrhea,Medium,ASHA Worker,Deceased,2025-09-20T01:00:26
+P1147,Sonitpur,H520,D9648,87,Other,Abdominal pain,Typhoid,High,Hospital,Recovered,2025-09-05T00:46:26
+P1148,Dibrugarh,H465,D7894,78,Other,Severe dehydration,Cholera,Medium,ASHA Worker,Deceased,2025-09-21T04:59:26
+P1149,Jorhat,H983,D3609,24,Other,Dark urine,Hepatitis A,High,Hospital,Recovered,2025-09-18T00:05:26
+P1150,Aizawl,H559,D8196,19,Other,Fever,Dysentery,High,Clinic,Recovered,2025-09-21T06:58:26
+P1151,Shillong,H259,D3264,55,Female,Abdominal pain,Dysentery,Medium,Clinic,Hospitalized,2025-09-02T07:19:26
+P1152,East Khasi Hills,H781,D5698,47,Male,Fever,Dysentery,Low,Clinic,Recovered,2025-08-27T20:28:26
+P1153,Dibrugarh,H931,D6719,14,Other,Severe dehydration,Cholera,Medium,Hospital,Hospitalized,2025-09-19T21:46:26
+P1154,East Khasi Hills,H507,D7530,10,Male,Muscle cramps,Cholera,Medium,Hospital,Recovered,2025-09-01T20:15:26
+P1155,Kohima,H173,D3727,15,Female,Fever,Dysentery,High,Hospital,Deceased,2025-09-25T14:09:26
+P1156,Aizawl,H611,D5977,6,Female,Watery diarrhea,Cholera,Low,ASHA Worker,Recovered,2025-09-04T01:06:26
+P1157,Aizawl,H994,D5892,79,Male,Weakness,Typhoid,Low,Hospital,Deceased,2025-09-06T11:43:26
+P1158,Kohima,H868,D3401,55,Female,Abdominal pain,Dysentery,High,Clinic,Hospitalized,2025-09-05T17:31:26
+P1159,East Khasi Hills,H353,D4545,57,Female,Fever,Typhoid,High,ASHA Worker,Deceased,2025-08-31T04:59:26
+P1160,Dibrugarh,H154,D7920,64,Other,Bloody diarrhea,Dysentery,High,Clinic,Deceased,2025-08-30T23:12:26
+P1161,Imphal East,H735,D2106,56,Male,Bloody diarrhea,Dysentery,Medium,Hospital,Hospitalized,2025-09-15T17:57:26
+P1162,Cachar,H713,D8432,48,Other,Watery diarrhea,Cholera,High,Hospital,Deceased,2025-08-31T17:22:26
+P1163,Ri-Bhoi,H187,D5680,72,Male,Jaundice,Hepatitis A,High,ASHA Worker,Hospitalized,2025-08-27T06:29:26
+P1164,East Khasi Hills,H564,D3210,24,Female,Vomiting,Cholera,Medium,Clinic,Recovered,2025-09-12T06:42:26
+P1165,Imphal West,H737,D1476,42,Other,Headache,Typhoid,Low,Clinic,Deceased,2025-09-25T13:34:26
+P1166,Jorhat,H600,D3084,68,Male,Severe dehydration,Cholera,Medium,Hospital,Hospitalized,2025-09-25T08:48:26
+P1167,West Khasi Hills,H548,D6862,3,Other,Weakness,Typhoid,Low,Clinic,Recovered,2025-09-05T16:29:26
+P1168,Shillong,H411,D4034,30,Female,Bloody diarrhea,Dysentery,Low,Hospital,Deceased,2025-08-26T23:11:26
+P1169,West Khasi Hills,H831,D4643,47,Other,Loose stools,Diarrhea,Low,Clinic,Deceased,2025-09-17T07:07:26
+P1170,Kamrup,H816,D5904,60,Other,Abdominal pain,Typhoid,High,Clinic,Recovered,2025-08-27T01:41:26
+P1171,Kohima,H982,D8139,84,Female,Loose stools,Diarrhea,Medium,Clinic,Hospitalized,2025-09-25T00:49:26
+P1172,Shillong,H711,D4589,57,Other,Dark urine,Hepatitis A,High,Clinic,Hospitalized,2025-09-01T07:22:26
+P1173,East Khasi Hills,H964,D8253,47,Male,Jaundice,Hepatitis A,Medium,ASHA Worker,Deceased,2025-09-12T01:49:26
+P1174,Sonitpur,H646,D3080,41,Male,Abdominal pain,Typhoid,High,Hospital,Recovered,2025-09-21T10:32:26
+P1175,Ri-Bhoi,H544,D2002,64,Other,Loose stools,Diarrhea,Low,ASHA Worker,Deceased,2025-09-22T05:17:26
+P1176,Shillong,H226,D9893,36,Other,Bloody diarrhea,Dysentery,Low,Hospital,Deceased,2025-09-18T02:05:26
+P1177,Kamrup,H876,D9565,22,Other,Dehydration,Diarrhea,Medium,Hospital,Recovered,2025-09-01T11:25:26
+P1178,Dibrugarh,H656,D6672,9,Female,Loose stools,Diarrhea,Medium,Hospital,Hospitalized,2025-09-17T02:54:26
+P1179,Ri-Bhoi,H683,D7483,86,Male,Watery diarrhea,Cholera,High,Hospital,Recovered,2025-08-29T18:07:26
+P1180,Mokokchung,H331,D9418,47,Other,Abdominal pain,Dysentery,Medium,Hospital,Recovered,2025-08-28T08:34:26
+P1181,Imphal East,H508,D7369,60,Female,Stomach cramps,Diarrhea,Low,Hospital,Deceased,2025-09-22T17:57:26
+P1182,Cachar,H664,D5882,30,Other,Weakness,Typhoid,High,Hospital,Recovered,2025-09-11T02:53:26
+P1183,West Khasi Hills,H773,D8921,1,Male,Severe dehydration,Cholera,High,ASHA Worker,Deceased,2025-09-20T05:26:26
+P1184,East Khasi Hills,H654,D4037,67,Other,Stomach cramps,Diarrhea,Medium,Hospital,Hospitalized,2025-09-11T13:34:26
+P1185,Cachar,H366,D7908,44,Male,Stomach cramps,Diarrhea,High,Hospital,Hospitalized,2025-08-28T04:09:26
+P1186,Kohima,H995,D1496,64,Female,Muscle cramps,Cholera,High,Hospital,Recovered,2025-09-26T15:18:26
+P1187,Aizawl,H285,D9642,74,Other,Fever,Typhoid,Medium,Hospital,Deceased,2025-09-21T03:37:26
+P1188,Mokokchung,H569,D6846,72,Other,Abdominal pain,Typhoid,Low,ASHA Worker,Deceased,2025-09-24T17:50:26
+P1189,Barpeta,H563,D9684,67,Other,Dehydration,Diarrhea,Low,ASHA Worker,Deceased,2025-09-12T05:17:26
+P1190,Cachar,H419,D7163,50,Female,Bloody diarrhea,Dysentery,Low,Hospital,Recovered,2025-09-11T14:21:26
+P1191,Jorhat,H333,D8906,88,Female,Jaundice,Hepatitis A,High,ASHA Worker,Recovered,2025-09-16T16:21:26
+P1192,Shillong,H365,D4818,88,Female,Headache,Typhoid,Medium,Clinic,Deceased,2025-09-24T13:14:26
+P1193,Dibrugarh,H178,D5285,11,Female,Watery diarrhea,Cholera,High,ASHA Worker,Recovered,2025-09-13T19:26:26
+P1194,Dibrugarh,H537,D1496,83,Female,Bloody diarrhea,Dysentery,Medium,Hospital,Hospitalized,2025-09-10T06:18:26
+P1195,Barpeta,H465,D6306,23,Other,Nausea,Hepatitis A,High,Clinic,Deceased,2025-09-16T19:14:26
+P1196,Sonitpur,H472,D7203,88,Male,Vomiting,Cholera,High,Clinic,Deceased,2025-09-15T13:48:26
+P1197,Imphal East,H128,D9955,50,Male,Severe dehydration,Cholera,High,Clinic,Recovered,2025-08-31T14:01:26
+P1198,Kamrup,H488,D1712,78,Other,Watery diarrhea,Cholera,High,Clinic,Hospitalized,2025-09-06T00:29:26
+P1199,Sonitpur,H685,D8633,8,Other,Vomiting,Cholera,High,Clinic,Deceased,2025-08-28T13:09:26
+P1200,Jorhat,H462,D3376,41,Male,Bloody diarrhea,Dysentery,Medium,Hospital,Deceased,2025-09-25T09:01:26
+P1201,Sonitpur,H576,D5076,77,Female,Stomach cramps,Diarrhea,Low,Clinic,Recovered,2025-09-08T15:14:26
+P1202,Barpeta,H531,D9823,36,Other,Jaundice,Hepatitis A,High,ASHA Worker,Hospitalized,2025-09-01T07:03:26
+P1203,Barpeta,H674,D2201,34,Other,Abdominal pain,Dysentery,Low,Clinic,Deceased,2025-09-17T18:14:26
+P1204,Ri-Bhoi,H575,D1387,35,Female,Bloody diarrhea,Dysentery,Medium,Clinic,Recovered,2025-08-30T18:03:26
+P1205,West Khasi Hills,H989,D2962,30,Male,Nausea,Hepatitis A,Medium,Hospital,Hospitalized,2025-09-07T14:05:26
+P1206,Kohima,H473,D6874,57,Female,Dehydration,Diarrhea,High,ASHA Worker,Recovered,2025-09-26T07:35:26
+P1207,Shillong,H933,D8082,60,Female,Nausea,Hepatitis A,Medium,Clinic,Hospitalized,2025-08-27T11:10:26
+P1208,Imphal East,H171,D8800,16,Male,Vomiting,Cholera,Low,ASHA Worker,Hospitalized,2025-09-11T09:26:26
+P1209,Kohima,H597,D6117,33,Other,Fatigue,Hepatitis A,Medium,Hospital,Hospitalized,2025-09-14T11:28:26
+P1210,Dibrugarh,H694,D6274,25,Female,Severe dehydration,Cholera,High,Hospital,Hospitalized,2025-09-05T02:05:26
+P1211,Imphal West,H653,D7351,61,Other,Headache,Typhoid,Medium,ASHA Worker,Hospitalized,2025-09-10T20:42:26
+P1212,Kamrup,H704,D8175,64,Female,Dehydration,Diarrhea,High,ASHA Worker,Recovered,2025-09-18T23:34:26
+P1213,Jorhat,H345,D1658,42,Other,Bloody diarrhea,Dysentery,Medium,Clinic,Hospitalized,2025-09-14T16:23:26
+P1214,Sonitpur,H582,D3502,18,Other,Muscle cramps,Cholera,Medium,Clinic,Deceased,2025-09-06T11:28:26
+P1215,Mokokchung,H550,D3293,43,Male,Severe dehydration,Cholera,Low,Clinic,Recovered,2025-09-06T03:46:26
+P1216,West Khasi Hills,H723,D6168,44,Male,Headache,Typhoid,Low,Clinic,Recovered,2025-09-07T15:47:26
+P1217,West Khasi Hills,H200,D4867,36,Other,Severe dehydration,Cholera,High,ASHA Worker,Hospitalized,2025-08-28T20:55:26
+P1218,West Khasi Hills,H764,D4176,87,Female,Dehydration,Diarrhea,Low,ASHA Worker,Hospitalized,2025-08-28T13:22:26
+P1219,Mokokchung,H456,D3864,74,Male,Dehydration,Diarrhea,Low,Clinic,Recovered,2025-09-13T19:11:26
+P1220,Ri-Bhoi,H181,D2139,23,Female,Severe dehydration,Cholera,Medium,ASHA Worker,Hospitalized,2025-09-04T10:10:26
+P1221,Barpeta,H424,D3067,39,Female,Dehydration,Diarrhea,High,ASHA Worker,Deceased,2025-09-06T14:39:26
+P1222,Jorhat,H630,D5139,70,Female,Fever,Dysentery,High,Hospital,Deceased,2025-09-02T09:19:26
+P1223,Imphal East,H722,D9060,81,Female,Muscle cramps,Cholera,High,ASHA Worker,Deceased,2025-09-06T12:06:26
+P1224,Imphal East,H798,D2956,20,Male,Fatigue,Hepatitis A,Low,Clinic,Recovered,2025-09-20T06:22:26
+P1225,East Khasi Hills,H494,D7332,63,Female,Muscle cramps,Cholera,Low,ASHA Worker,Hospitalized,2025-09-13T10:46:26
+P1226,Mokokchung,H784,D7627,29,Male,Abdominal pain,Typhoid,High,Clinic,Recovered,2025-09-23T21:03:26
+P1227,Sonitpur,H189,D6604,74,Other,Severe dehydration,Cholera,Low,Hospital,Deceased,2025-09-13T19:23:26
+P1228,West Khasi Hills,H816,D6108,13,Male,Loose stools,Diarrhea,Low,ASHA Worker,Recovered,2025-09-16T06:56:26
+P1229,Dibrugarh,H222,D2878,45,Other,Fever,Typhoid,High,ASHA Worker,Recovered,2025-09-16T08:26:26
+P1230,Jorhat,H237,D8751,36,Female,Stomach cramps,Diarrhea,Low,ASHA Worker,Recovered,2025-08-27T04:16:26
+P1231,Shillong,H820,D5743,69,Male,Fever,Typhoid,High,Hospital,Hospitalized,2025-09-01T23:04:26
+P1232,Ri-Bhoi,H641,D4806,58,Female,Jaundice,Hepatitis A,Low,Clinic,Hospitalized,2025-09-07T10:40:26
+P1233,Dibrugarh,H341,D8207,70,Female,Weakness,Typhoid,High,Hospital,Recovered,2025-08-30T18:10:26
+P1234,Kohima,H993,D5444,1,Female,Bloody diarrhea,Dysentery,Low,ASHA Worker,Hospitalized,2025-09-25T09:49:26
+P1235,West Khasi Hills,H875,D6973,55,Male,Jaundice,Hepatitis A,Medium,ASHA Worker,Deceased,2025-09-02T11:04:26
+P1236,West Khasi Hills,H729,D6432,73,Female,Dark urine,Hepatitis A,Low,Hospital,Deceased,2025-09-02T07:36:26
+P1237,Mokokchung,H548,D8298,35,Other,Abdominal pain,Dysentery,High,ASHA Worker,Deceased,2025-09-24T02:19:26
+P1238,Ri-Bhoi,H198,D6649,55,Other,Abdominal pain,Dysentery,Low,ASHA Worker,Hospitalized,2025-08-29T07:27:26
+P1239,Mokokchung,H660,D5336,25,Other,Jaundice,Hepatitis A,Low,Hospital,Deceased,2025-09-09T18:54:26
+P1240,Imphal East,H491,D1515,52,Male,Muscle cramps,Cholera,Low,ASHA Worker,Hospitalized,2025-09-15T02:28:26
+P1241,Barpeta,H879,D8571,74,Female,Abdominal pain,Dysentery,Medium,ASHA Worker,Deceased,2025-09-13T02:54:26
+P1242,Sonitpur,H169,D1997,36,Other,Dehydration,Diarrhea,High,Hospital,Hospitalized,2025-09-23T06:28:26
+P1243,Cachar,H109,D8373,15,Other,Weakness,Typhoid,Low,Clinic,Recovered,2025-09-14T00:24:26
+P1244,Imphal East,H138,D3098,78,Male,Fever,Dysentery,Medium,Clinic,Hospitalized,2025-09-04T18:36:26
+P1245,Kamrup,H746,D1549,70,Female,Jaundice,Hepatitis A,Medium,Clinic,Hospitalized,2025-09-09T15:25:26
+P1246,Kamrup,H632,D6668,60,Other,Dehydration,Diarrhea,Medium,Hospital,Recovered,2025-09-15T14:30:26
+P1247,Jorhat,H121,D8852,48,Other,Loose stools,Diarrhea,Medium,Hospital,Deceased,2025-09-26T07:05:26
+P1248,Shillong,H769,D9137,16,Female,Nausea,Hepatitis A,High,ASHA Worker,Recovered,2025-09-26T21:41:26
+P1249,Shillong,H331,D4155,13,Male,Abdominal pain,Dysentery,Medium,ASHA Worker,Hospitalized,2025-09-07T13:48:26
+P1250,Jorhat,H788,D5355,33,Other,Jaundice,Hepatitis A,Low,ASHA Worker,Recovered,2025-09-17T20:26:26
+P1251,Dibrugarh,H763,D4098,57,Other,Vomiting,Cholera,High,ASHA Worker,Hospitalized,2025-09-07T13:35:26
+P1252,Aizawl,H246,D1544,45,Other,Stomach cramps,Diarrhea,High,Hospital,Deceased,2025-09-21T08:53:26
+P1253,Cachar,H847,D9988,80,Other,Bloody diarrhea,Dysentery,High,Hospital,Recovered,2025-08-30T08:40:26
+P1254,Cachar,H824,D1533,39,Female,Watery diarrhea,Cholera,High,Hospital,Recovered,2025-09-07T14:17:26
+P1255,Aizawl,H418,D6509,4,Other,Dark urine,Hepatitis A,Medium,ASHA Worker,Deceased,2025-09-17T09:31:26
+P1256,Jorhat,H815,D4792,35,Other,Dehydration,Diarrhea,High,ASHA Worker,Hospitalized,2025-09-21T01:40:26
+P1257,Ri-Bhoi,H709,D9194,26,Other,Loose stools,Diarrhea,Low,Clinic,Recovered,2025-09-11T04:25:26
+P1258,Ri-Bhoi,H691,D7978,15,Other,Vomiting,Cholera,Low,Hospital,Deceased,2025-09-24T01:26:26
+P1259,Aizawl,H595,D8724,3,Other,Vomiting,Cholera,Low,Hospital,Hospitalized,2025-09-11T16:08:26
+P1260,Shillong,H262,D7952,18,Female,Bloody diarrhea,Dysentery,Medium,Hospital,Recovered,2025-09-21T15:56:26
+P1261,Sonitpur,H511,D2300,15,Other,Fever,Typhoid,Medium,ASHA Worker,Hospitalized,2025-09-03T16:30:26
+P1262,Imphal West,H786,D1222,15,Male,Jaundice,Hepatitis A,High,ASHA Worker,Recovered,2025-09-12T01:44:26
+P1263,Sonitpur,H277,D5042,58,Male,Fever,Typhoid,Low,Hospital,Deceased,2025-09-09T09:40:26
+P1264,Imphal West,H247,D1902,68,Female,Watery diarrhea,Cholera,Low,Clinic,Hospitalized,2025-08-28T22:01:26
+P1265,Ri-Bhoi,H107,D1179,49,Female,Fever,Dysentery,Medium,Hospital,Deceased,2025-09-24T08:00:26
+P1266,Kamrup,H884,D2952,19,Other,Vomiting,Cholera,High,Clinic,Hospitalized,2025-09-08T08:02:26
+P1267,Mokokchung,H479,D6086,1,Male,Fever,Typhoid,Medium,ASHA Worker,Hospitalized,2025-09-09T19:45:26
+P1268,East Khasi Hills,H362,D2224,38,Male,Watery diarrhea,Cholera,Low,Clinic,Recovered,2025-09-16T21:38:26
+P1269,Kohima,H662,D1044,53,Male,Vomiting,Cholera,High,ASHA Worker,Hospitalized,2025-09-02T23:43:26
+P1270,Kohima,H612,D8911,18,Female,Fever,Dysentery,Medium,ASHA Worker,Deceased,2025-09-20T09:36:26
+P1271,Kohima,H455,D2838,90,Male,Severe dehydration,Cholera,High,Clinic,Deceased,2025-09-12T09:36:26
+P1272,Aizawl,H295,D1843,67,Female,Nausea,Hepatitis A,Medium,Clinic,Hospitalized,2025-09-01T21:37:26
+P1273,Sonitpur,H300,D4197,23,Female,Vomiting,Cholera,Low,ASHA Worker,Deceased,2025-09-15T09:31:26
+P1274,Imphal East,H678,D6422,6,Female,Watery diarrhea,Cholera,Low,Clinic,Recovered,2025-09-08T03:42:26
+P1275,East Khasi Hills,H759,D2224,40,Other,Abdominal pain,Typhoid,High,Hospital,Recovered,2025-09-25T10:09:26
+P1276,Kohima,H417,D6562,16,Other,Vomiting,Cholera,High,ASHA Worker,Deceased,2025-09-08T19:56:26
+P1277,Barpeta,H338,D8641,49,Male,Abdominal pain,Dysentery,Low,Hospital,Recovered,2025-09-07T18:27:26
+P1278,Kohima,H217,D1122,4,Other,Muscle cramps,Cholera,Medium,ASHA Worker,Deceased,2025-09-03T13:55:26
+P1279,Aizawl,H810,D1878,80,Female,Stomach cramps,Diarrhea,Medium,Hospital,Hospitalized,2025-09-24T05:14:26
+P1280,Mokokchung,H469,D2623,35,Other,Jaundice,Hepatitis A,Low,Clinic,Hospitalized,2025-09-19T05:16:26
+P1281,Barpeta,H846,D6467,79,Female,Dehydration,Diarrhea,Low,Clinic,Recovered,2025-09-06T10:39:26
+P1282,Imphal East,H153,D4544,11,Other,Severe dehydration,Cholera,Medium,Clinic,Deceased,2025-09-01T03:28:26
+P1283,Ri-Bhoi,H832,D8639,78,Female,Stomach cramps,Diarrhea,Medium,ASHA Worker,Recovered,2025-09-08T06:14:26
+P1284,Ri-Bhoi,H172,D9165,2,Male,Bloody diarrhea,Dysentery,Medium,ASHA Worker,Hospitalized,2025-09-04T00:23:26
+P1285,Dibrugarh,H995,D1636,28,Female,Loose stools,Diarrhea,High,ASHA Worker,Deceased,2025-09-04T10:18:26
+P1286,Sonitpur,H498,D3447,29,Male,Fatigue,Hepatitis A,High,Hospital,Hospitalized,2025-09-15T16:36:26
+P1287,Imphal West,H139,D7003,3,Other,Fever,Dysentery,High,Hospital,Recovered,2025-09-10T09:56:26
+P1288,East Khasi Hills,H234,D3428,76,Female,Muscle cramps,Cholera,Medium,Hospital,Hospitalized,2025-09-02T21:38:26
+P1289,East Khasi Hills,H149,D6749,23,Female,Bloody diarrhea,Dysentery,Low,Hospital,Deceased,2025-09-11T05:01:26
+P1290,Kamrup,H749,D1108,4,Female,Headache,Typhoid,High,Hospital,Deceased,2025-09-26T08:46:26
+P1291,Kamrup,H348,D2320,67,Female,Dark urine,Hepatitis A,Medium,ASHA Worker,Recovered,2025-08-30T08:03:26
+P1292,Barpeta,H583,D7354,8,Other,Fever,Dysentery,High,Clinic,Recovered,2025-09-02T07:10:26
+P1293,Barpeta,H628,D4694,28,Other,Loose stools,Diarrhea,Low,Hospital,Deceased,2025-08-28T15:01:26
+P1294,Kohima,H406,D3483,88,Male,Fever,Typhoid,Medium,Clinic,Recovered,2025-09-05T10:21:26
+P1295,Aizawl,H197,D2584,7,Female,Dark urine,Hepatitis A,Low,Clinic,Deceased,2025-09-11T05:17:26
+P1296,Kohima,H700,D2126,77,Other,Abdominal pain,Dysentery,High,ASHA Worker,Recovered,2025-09-24T00:47:26
+P1297,Aizawl,H441,D9300,61,Male,Bloody diarrhea,Dysentery,Low,ASHA Worker,Recovered,2025-09-08T15:05:26
+P1298,Jorhat,H647,D4340,5,Female,Dehydration,Diarrhea,High,ASHA Worker,Hospitalized,2025-09-14T11:47:26
+P1299,West Khasi Hills,H993,D9330,80,Male,Loose stools,Diarrhea,Low,Clinic,Recovered,2025-09-01T10:54:26
+P1300,Kamrup,H871,D3103,56,Other,Dehydration,Diarrhea,High,ASHA Worker,Recovered,2025-09-26T11:51:26
+P1301,Shillong,H232,D2971,71,Other,Vomiting,Cholera,Low,Clinic,Hospitalized,2025-09-17T06:00:26
+P1302,Kamrup,H358,D8282,34,Female,Severe dehydration,Cholera,High,Hospital,Hospitalized,2025-09-21T02:33:26
+P1303,Mokokchung,H866,D3780,37,Female,Dehydration,Diarrhea,Medium,Clinic,Deceased,2025-09-16T15:11:26
+P1304,Shillong,H606,D4875,9,Other,Dark urine,Hepatitis A,High,ASHA Worker,Recovered,2025-09-14T15:43:26
+P1305,East Khasi Hills,H475,D7368,82,Male,Fever,Typhoid,Medium,Hospital,Recovered,2025-09-08T13:47:26
+P1306,Imphal East,H701,D5590,68,Female,Abdominal pain,Typhoid,Low,ASHA Worker,Deceased,2025-09-02T11:50:26
+P1307,Dibrugarh,H642,D9877,13,Female,Bloody diarrhea,Dysentery,High,Clinic,Deceased,2025-09-07T00:13:26
+P1308,Ri-Bhoi,H186,D5584,19,Other,Abdominal pain,Dysentery,Medium,Clinic,Recovered,2025-09-13T06:33:26
+P1309,Cachar,H502,D7549,56,Male,Headache,Typhoid,High,ASHA Worker,Hospitalized,2025-08-28T08:37:26
+P1310,Imphal West,H720,D8889,34,Female,Nausea,Hepatitis A,High,ASHA Worker,Recovered,2025-08-29T18:31:26
+P1311,Dibrugarh,H563,D9494,67,Male,Weakness,Typhoid,High,Hospital,Deceased,2025-08-28T04:16:26
+P1312,Jorhat,H254,D1344,55,Other,Dehydration,Diarrhea,Low,Hospital,Deceased,2025-09-04T08:09:26
+P1313,Aizawl,H913,D4284,65,Male,Headache,Typhoid,High,Clinic,Hospitalized,2025-08-28T03:19:26
+P1314,Imphal West,H255,D6206,29,Female,Vomiting,Cholera,Low,ASHA Worker,Hospitalized,2025-08-28T17:25:26
+P1315,Jorhat,H580,D5163,28,Female,Nausea,Hepatitis A,Low,ASHA Worker,Hospitalized,2025-09-24T05:09:26
+P1316,Sonitpur,H279,D2816,80,Other,Vomiting,Cholera,Medium,Clinic,Deceased,2025-09-06T16:41:26
+P1317,Imphal East,H225,D5766,5,Other,Headache,Typhoid,Low,ASHA Worker,Recovered,2025-09-07T01:59:26
+P1318,West Khasi Hills,H985,D3472,3,Male,Abdominal pain,Dysentery,High,Clinic,Recovered,2025-09-18T18:40:26
+P1319,Kamrup,H844,D8347,2,Female,Severe dehydration,Cholera,Medium,Hospital,Deceased,2025-09-14T14:37:26
+P1320,Cachar,H685,D9986,77,Other,Weakness,Typhoid,Medium,ASHA Worker,Hospitalized,2025-09-04T13:40:26
+P1321,Barpeta,H846,D5279,26,Female,Stomach cramps,Diarrhea,High,ASHA Worker,Deceased,2025-09-18T01:38:26
+P1322,Mokokchung,H760,D5600,81,Female,Muscle cramps,Cholera,High,ASHA Worker,Hospitalized,2025-09-22T05:53:26
+P1323,Cachar,H663,D4213,50,Female,Dehydration,Diarrhea,High,Hospital,Recovered,2025-09-03T12:34:26
+P1324,Jorhat,H213,D4030,7,Other,Severe dehydration,Cholera,Low,ASHA Worker,Recovered,2025-09-24T23:35:26
+P1325,East Khasi Hills,H152,D4719,85,Other,Muscle cramps,Cholera,High,Hospital,Recovered,2025-09-22T14:19:26
+P1326,Aizawl,H959,D4322,44,Male,Nausea,Hepatitis A,High,ASHA Worker,Deceased,2025-09-18T04:05:26
+P1327,Aizawl,H345,D3379,8,Male,Stomach cramps,Diarrhea,Medium,Hospital,Recovered,2025-09-06T23:56:26
+P1328,Cachar,H798,D3647,17,Female,Stomach cramps,Diarrhea,Medium,Hospital,Deceased,2025-09-16T04:51:26
+P1329,Imphal East,H852,D8965,37,Other,Stomach cramps,Diarrhea,Medium,Hospital,Deceased,2025-09-20T00:34:26
+P1330,Barpeta,H683,D5921,6,Other,Dehydration,Diarrhea,Low,ASHA Worker,Recovered,2025-09-13T21:26:26
+P1331,West Khasi Hills,H505,D5829,85,Other,Fatigue,Hepatitis A,Low,ASHA Worker,Recovered,2025-08-27T18:47:26
+P1332,Kamrup,H232,D4522,40,Male,Jaundice,Hepatitis A,High,Hospital,Recovered,2025-09-09T01:39:26
+P1333,Dibrugarh,H133,D7019,43,Other,Watery diarrhea,Cholera,Medium,ASHA Worker,Recovered,2025-09-15T23:09:26
+P1334,Ri-Bhoi,H201,D6381,55,Female,Vomiting,Cholera,High,Clinic,Recovered,2025-09-11T04:19:26
+P1335,Jorhat,H610,D9053,72,Female,Bloody diarrhea,Dysentery,Medium,ASHA Worker,Hospitalized,2025-09-25T15:31:26
+P1336,Barpeta,H713,D7499,21,Male,Bloody diarrhea,Dysentery,Low,Hospital,Deceased,2025-09-13T05:52:26
+P1337,Dibrugarh,H386,D9323,61,Male,Fever,Typhoid,High,ASHA Worker,Recovered,2025-09-09T05:09:26
+P1338,Ri-Bhoi,H567,D2979,9,Female,Watery diarrhea,Cholera,Medium,Hospital,Deceased,2025-08-31T20:05:26
+P1339,East Khasi Hills,H679,D8631,67,Other,Fatigue,Hepatitis A,Low,Clinic,Hospitalized,2025-09-11T12:20:26
+P1340,Imphal West,H635,D4084,41,Male,Abdominal pain,Typhoid,High,Clinic,Hospitalized,2025-09-01T14:12:26
+P1341,Sonitpur,H947,D9303,34,Other,Nausea,Hepatitis A,High,Hospital,Deceased,2025-09-09T16:20:26
+P1342,Kohima,H108,D4255,86,Female,Watery diarrhea,Cholera,Medium,ASHA Worker,Deceased,2025-09-04T13:53:26
+P1343,East Khasi Hills,H896,D8972,63,Female,Stomach cramps,Diarrhea,Low,Clinic,Hospitalized,2025-09-21T17:03:26
+P1344,Aizawl,H925,D5049,2,Female,Dehydration,Diarrhea,Low,Clinic,Hospitalized,2025-09-19T12:40:26
+P1345,Ri-Bhoi,H797,D2268,22,Other,Dehydration,Diarrhea,Medium,Hospital,Recovered,2025-09-24T01:01:26
+P1346,Imphal East,H384,D7224,23,Other,Nausea,Hepatitis A,Low,ASHA Worker,Deceased,2025-09-08T22:07:26
+P1347,Kamrup,H292,D3843,2,Female,Loose stools,Diarrhea,Medium,Clinic,Recovered,2025-09-15T14:53:26
+P1348,Kohima,H469,D1644,76,Other,Fever,Typhoid,Medium,ASHA Worker,Deceased,2025-09-20T10:44:26
+P1349,Dibrugarh,H377,D3854,74,Female,Bloody diarrhea,Dysentery,Medium,Clinic,Recovered,2025-09-25T00:28:26
+P1350,Imphal West,H365,D2224,67,Other,Headache,Typhoid,High,ASHA Worker,Recovered,2025-09-24T04:13:26
+P1351,Imphal East,H867,D1834,64,Female,Fever,Typhoid,High,ASHA Worker,Recovered,2025-09-13T15:16:26
+P1352,Kohima,H483,D9474,47,Female,Muscle cramps,Cholera,High,Hospital,Deceased,2025-09-22T12:17:26
+P1353,Kohima,H461,D6399,15,Female,Abdominal pain,Typhoid,High,Clinic,Hospitalized,2025-09-19T00:54:26
+P1354,Imphal East,H816,D5953,66,Other,Abdominal pain,Dysentery,Medium,Hospital,Deceased,2025-08-27T20:56:26
+P1355,Sonitpur,H414,D3065,59,Male,Muscle cramps,Cholera,High,ASHA Worker,Recovered,2025-08-28T05:03:26
+P1356,Imphal West,H566,D9150,65,Male,Abdominal pain,Typhoid,Medium,ASHA Worker,Hospitalized,2025-08-29T05:03:26
+P1357,Imphal West,H479,D7340,49,Other,Stomach cramps,Diarrhea,Low,ASHA Worker,Deceased,2025-09-17T15:57:26
+P1358,Jorhat,H580,D8273,72,Other,Dehydration,Diarrhea,Low,Hospital,Recovered,2025-09-07T07:09:26
+P1359,Mokokchung,H495,D3462,33,Female,Abdominal pain,Dysentery,High,Hospital,Deceased,2025-09-14T10:55:26
+P1360,Kamrup,H636,D2563,9,Other,Dark urine,Hepatitis A,High,Hospital,Deceased,2025-09-14T08:32:26
+P1361,Imphal East,H587,D2714,69,Other,Dark urine,Hepatitis A,Medium,ASHA Worker,Recovered,2025-09-12T16:53:26
+P1362,Barpeta,H294,D4352,80,Male,Weakness,Typhoid,High,Clinic,Recovered,2025-08-31T12:23:26
+P1363,Barpeta,H112,D3919,1,Male,Severe dehydration,Cholera,High,ASHA Worker,Deceased,2025-09-09T17:02:26
+P1364,Kohima,H944,D1428,25,Female,Fever,Dysentery,Medium,ASHA Worker,Hospitalized,2025-09-19T11:09:26
+P1365,Aizawl,H949,D3681,88,Female,Stomach cramps,Diarrhea,Low,Hospital,Hospitalized,2025-09-25T22:00:26
+P1366,Aizawl,H968,D6727,80,Male,Muscle cramps,Cholera,High,Clinic,Hospitalized,2025-09-19T15:06:26
+P1367,Mokokchung,H378,D5049,11,Male,Muscle cramps,Cholera,Low,Clinic,Hospitalized,2025-09-15T14:04:26
+P1368,Jorhat,H128,D1445,12,Female,Watery diarrhea,Cholera,High,Clinic,Hospitalized,2025-09-09T10:30:26
+P1369,East Khasi Hills,H132,D7576,4,Male,Stomach cramps,Diarrhea,Low,ASHA Worker,Hospitalized,2025-09-22T08:08:26
+P1370,Aizawl,H264,D8535,7,Female,Abdominal pain,Typhoid,Medium,ASHA Worker,Hospitalized,2025-09-14T11:03:26
+P1371,Imphal East,H876,D3515,26,Female,Dehydration,Diarrhea,Medium,ASHA Worker,Hospitalized,2025-09-21T05:28:26
+P1372,Dibrugarh,H371,D9842,21,Other,Fatigue,Hepatitis A,Medium,ASHA Worker,Hospitalized,2025-09-15T15:52:26
+P1373,Kohima,H346,D5019,26,Male,Loose stools,Diarrhea,High,Hospital,Hospitalized,2025-09-08T16:21:26
+P1374,Aizawl,H784,D4475,2,Other,Dark urine,Hepatitis A,Low,Clinic,Hospitalized,2025-08-30T21:55:26
+P1375,Imphal East,H135,D7280,70,Other,Weakness,Typhoid,High,Hospital,Hospitalized,2025-09-10T16:55:26
+P1376,Kamrup,H855,D7267,35,Male,Fever,Typhoid,High,ASHA Worker,Hospitalized,2025-09-09T03:11:26
+P1377,Cachar,H548,D2383,85,Female,Fever,Typhoid,Medium,Clinic,Hospitalized,2025-09-11T18:20:26
+P1378,Dibrugarh,H198,D7263,67,Other,Loose stools,Diarrhea,High,ASHA Worker,Recovered,2025-09-01T02:15:26
+P1379,Ri-Bhoi,H999,D1393,51,Other,Dehydration,Diarrhea,Medium,Clinic,Recovered,2025-09-20T16:39:26
+P1380,Imphal East,H669,D8510,49,Male,Severe dehydration,Cholera,High,ASHA Worker,Deceased,2025-09-05T19:08:26
+P1381,Kamrup,H474,D5468,61,Male,Stomach cramps,Diarrhea,High,ASHA Worker,Hospitalized,2025-09-03T07:05:26
+P1382,Imphal West,H829,D3430,74,Other,Abdominal pain,Dysentery,Low,ASHA Worker,Recovered,2025-09-05T21:58:26
+P1383,Kohima,H651,D2228,67,Female,Weakness,Typhoid,High,Hospital,Recovered,2025-09-21T23:06:26
+P1384,East Khasi Hills,H421,D1999,70,Female,Fatigue,Hepatitis A,Medium,Clinic,Recovered,2025-08-31T01:44:26
+P1385,Cachar,H324,D3127,68,Other,Bloody diarrhea,Dysentery,High,Clinic,Recovered,2025-09-22T02:45:26
+P1386,West Khasi Hills,H542,D8833,67,Male,Fever,Typhoid,Low,Clinic,Deceased,2025-09-19T21:11:26
+P1387,Barpeta,H861,D4415,21,Other,Watery diarrhea,Cholera,Medium,Hospital,Deceased,2025-09-13T04:48:26
+P1388,Barpeta,H424,D5136,75,Male,Watery diarrhea,Cholera,Medium,Clinic,Hospitalized,2025-09-10T23:49:26
+P1389,Shillong,H990,D6365,26,Other,Watery diarrhea,Cholera,High,Hospital,Recovered,2025-09-10T13:25:26
+P1390,East Khasi Hills,H902,D8077,58,Female,Jaundice,Hepatitis A,High,ASHA Worker,Recovered,2025-09-05T18:17:26
+P1391,East Khasi Hills,H165,D5077,21,Male,Fever,Dysentery,Low,Hospital,Deceased,2025-09-08T23:02:26
+P1392,Dibrugarh,H776,D9166,20,Male,Abdominal pain,Typhoid,High,ASHA Worker,Deceased,2025-09-17T22:08:26
+P1393,Aizawl,H640,D8514,70,Male,Stomach cramps,Diarrhea,High,Clinic,Hospitalized,2025-09-15T08:18:26
+P1394,Cachar,H370,D7415,35,Other,Bloody diarrhea,Dysentery,High,ASHA Worker,Hospitalized,2025-09-04T11:07:26
+P1395,Mokokchung,H512,D3384,46,Other,Loose stools,Diarrhea,High,Hospital,Recovered,2025-09-09T09:55:26
+P1396,Sonitpur,H665,D4587,87,Female,Nausea,Hepatitis A,Medium,ASHA Worker,Recovered,2025-09-18T22:25:26
+P1397,Dibrugarh,H743,D9724,29,Other,Weakness,Typhoid,Medium,ASHA Worker,Deceased,2025-09-12T09:12:26
+P1398,Sonitpur,H280,D8045,16,Male,Fever,Dysentery,Medium,Clinic,Hospitalized,2025-09-24T10:03:26
+P1399,Kamrup,H395,D1574,22,Male,Bloody diarrhea,Dysentery,High,ASHA Worker,Recovered,2025-09-19T05:15:26
+P1400,West Khasi Hills,H434,D8132,75,Male,Loose stools,Diarrhea,Low,Clinic,Hospitalized,2025-09-10T02:12:26
+P1401,Cachar,H637,D5706,69,Female,Muscle cramps,Cholera,Low,Hospital,Hospitalized,2025-09-25T01:11:26
+P1402,Mokokchung,H366,D5492,75,Other,Stomach cramps,Diarrhea,High,Clinic,Hospitalized,2025-09-17T19:31:26
+P1403,Shillong,H230,D4107,30,Male,Jaundice,Hepatitis A,Medium,ASHA Worker,Hospitalized,2025-09-21T19:54:26
+P1404,Kamrup,H894,D7188,39,Male,Watery diarrhea,Cholera,Medium,Hospital,Recovered,2025-09-11T22:33:26
+P1405,East Khasi Hills,H204,D9632,83,Other,Nausea,Hepatitis A,Medium,ASHA Worker,Hospitalized,2025-09-08T19:57:26
+P1406,Sonitpur,H540,D1822,10,Other,Fever,Dysentery,High,ASHA Worker,Hospitalized,2025-09-16T07:34:26
+P1407,Dibrugarh,H888,D3467,61,Other,Vomiting,Cholera,Medium,Hospital,Deceased,2025-09-07T12:10:26
+P1408,Kamrup,H799,D3382,14,Male,Vomiting,Cholera,Medium,Clinic,Recovered,2025-09-25T11:49:26
+P1409,Dibrugarh,H297,D2782,38,Male,Weakness,Typhoid,High,Clinic,Hospitalized,2025-08-30T10:46:26
+P1410,Sonitpur,H851,D8323,68,Female,Fever,Typhoid,Medium,ASHA Worker,Hospitalized,2025-09-09T16:06:26
+P1411,Kamrup,H876,D1524,39,Other,Loose stools,Diarrhea,High,Clinic,Deceased,2025-09-12T02:03:26
+P1412,Cachar,H239,D7692,35,Male,Abdominal pain,Typhoid,High,Clinic,Recovered,2025-08-29T18:27:26
+P1413,East Khasi Hills,H757,D8428,1,Female,Jaundice,Hepatitis A,Low,ASHA Worker,Recovered,2025-09-24T04:23:26
+P1414,Imphal East,H571,D2598,65,Other,Muscle cramps,Cholera,High,ASHA Worker,Hospitalized,2025-09-16T15:18:26
+P1415,Sonitpur,H875,D8212,16,Female,Stomach cramps,Diarrhea,High,Clinic,Hospitalized,2025-09-07T21:47:26
+P1416,Sonitpur,H708,D7863,8,Other,Dark urine,Hepatitis A,Medium,ASHA Worker,Hospitalized,2025-09-11T02:54:26
+P1417,Kamrup,H985,D4110,53,Other,Loose stools,Diarrhea,High,Hospital,Recovered,2025-09-06T02:05:26
+P1418,Sonitpur,H557,D1379,80,Female,Stomach cramps,Diarrhea,Medium,Clinic,Recovered,2025-09-15T06:24:26
+P1419,East Khasi Hills,H831,D6750,53,Male,Dehydration,Diarrhea,Low,ASHA Worker,Hospitalized,2025-09-01T19:30:26
+P1420,Aizawl,H754,D1163,35,Other,Jaundice,Hepatitis A,High,ASHA Worker,Recovered,2025-09-10T05:54:26
+P1421,Dibrugarh,H766,D2627,11,Female,Vomiting,Cholera,Medium,ASHA Worker,Recovered,2025-09-21T20:08:26
+P1422,Imphal West,H590,D7271,16,Female,Fever,Dysentery,Medium,Clinic,Deceased,2025-09-15T20:01:26
+P1423,Ri-Bhoi,H863,D5752,33,Male,Stomach cramps,Diarrhea,Medium,Clinic,Hospitalized,2025-09-08T08:21:26
+P1424,Imphal West,H567,D6536,24,Other,Abdominal pain,Dysentery,Low,Clinic,Hospitalized,2025-08-30T03:34:26
+P1425,Mokokchung,H536,D8382,88,Female,Fever,Typhoid,Medium,Clinic,Recovered,2025-09-16T18:41:26
+P1426,Shillong,H733,D3344,86,Male,Abdominal pain,Dysentery,Medium,Hospital,Deceased,2025-09-03T05:17:26
+P1427,Imphal West,H590,D3020,3,Other,Dark urine,Hepatitis A,Low,ASHA Worker,Hospitalized,2025-09-11T09:02:26
+P1428,Imphal East,H575,D2705,51,Other,Stomach cramps,Diarrhea,High,Clinic,Recovered,2025-09-04T20:51:26
+P1429,Barpeta,H467,D5267,24,Male,Headache,Typhoid,Medium,Hospital,Recovered,2025-09-15T03:12:26
+P1430,West Khasi Hills,H921,D6244,69,Female,Muscle cramps,Cholera,Low,Clinic,Hospitalized,2025-09-18T12:43:26
+P1431,Kamrup,H758,D3456,18,Female,Headache,Typhoid,High,ASHA Worker,Hospitalized,2025-09-22T11:52:26
+P1432,Ri-Bhoi,H508,D4815,61,Male,Bloody diarrhea,Dysentery,Low,ASHA Worker,Recovered,2025-09-09T16:26:26
+P1433,Imphal West,H159,D3502,33,Male,Muscle cramps,Cholera,Medium,Clinic,Recovered,2025-09-09T03:24:26
+P1434,Mokokchung,H911,D7033,57,Other,Weakness,Typhoid,High,Clinic,Hospitalized,2025-09-16T13:49:26
+P1435,Kohima,H205,D5404,18,Other,Headache,Typhoid,Medium,Hospital,Recovered,2025-09-14T07:30:26
+P1436,Ri-Bhoi,H342,D9364,1,Female,Weakness,Typhoid,High,ASHA Worker,Recovered,2025-09-23T09:39:26
+P1437,Kamrup,H374,D3358,46,Female,Dark urine,Hepatitis A,High,ASHA Worker,Recovered,2025-09-06T06:37:26
+P1438,Kohima,H386,D2060,56,Other,Dehydration,Diarrhea,Low,Clinic,Deceased,2025-09-26T08:00:26
+P1439,Kamrup,H592,D6114,7,Other,Muscle cramps,Cholera,Medium,Clinic,Deceased,2025-09-15T01:46:26
+P1440,East Khasi Hills,H105,D8498,71,Male,Bloody diarrhea,Dysentery,High,Hospital,Recovered,2025-09-15T02:00:26
+P1441,West Khasi Hills,H809,D5450,36,Other,Stomach cramps,Diarrhea,Low,Clinic,Recovered,2025-09-21T12:26:26
+P1442,Barpeta,H500,D3596,34,Other,Bloody diarrhea,Dysentery,Medium,ASHA Worker,Recovered,2025-09-16T20:14:26
+P1443,West Khasi Hills,H339,D3602,74,Other,Abdominal pain,Typhoid,Low,Clinic,Hospitalized,2025-09-20T10:56:26
+P1444,Jorhat,H158,D9822,37,Male,Jaundice,Hepatitis A,High,Clinic,Hospitalized,2025-09-24T21:53:26
+P1445,Aizawl,H688,D2467,43,Other,Nausea,Hepatitis A,Medium,Clinic,Recovered,2025-09-02T19:32:26
+P1446,Sonitpur,H277,D1209,19,Other,Vomiting,Cholera,Low,Hospital,Recovered,2025-09-16T03:56:26
+P1447,Ri-Bhoi,H686,D4537,53,Female,Bloody diarrhea,Dysentery,Medium,Hospital,Recovered,2025-09-26T05:01:26
+P1448,Imphal West,H480,D9474,56,Other,Vomiting,Cholera,Medium,Hospital,Hospitalized,2025-09-04T14:16:26
+P1449,East Khasi Hills,H499,D9615,89,Male,Bloody diarrhea,Dysentery,Medium,ASHA Worker,Hospitalized,2025-09-08T10:40:26
+P1450,Mokokchung,H674,D5843,16,Female,Abdominal pain,Typhoid,Medium,Clinic,Deceased,2025-09-03T22:46:26
+P1451,Shillong,H140,D2579,17,Other,Muscle cramps,Cholera,High,ASHA Worker,Recovered,2025-09-19T01:42:26
+P1452,Aizawl,H278,D2542,20,Female,Jaundice,Hepatitis A,Medium,Hospital,Deceased,2025-09-09T08:45:26
+P1453,Ri-Bhoi,H366,D8418,33,Other,Watery diarrhea,Cholera,Low,Clinic,Recovered,2025-09-21T08:55:26
+P1454,Cachar,H768,D4708,11,Male,Fever,Typhoid,Low,ASHA Worker,Deceased,2025-08-31T17:24:26
+P1455,Barpeta,H171,D1389,55,Other,Dehydration,Diarrhea,High,Hospital,Deceased,2025-09-11T15:34:26
+P1456,Jorhat,H281,D8908,55,Female,Dark urine,Hepatitis A,Low,ASHA Worker,Recovered,2025-08-28T04:14:26
+P1457,Mokokchung,H732,D7207,40,Male,Muscle cramps,Cholera,High,ASHA Worker,Recovered,2025-09-20T21:15:26
+P1458,Cachar,H932,D8976,10,Other,Watery diarrhea,Cholera,Medium,ASHA Worker,Hospitalized,2025-09-06T04:47:26
+P1459,Ri-Bhoi,H544,D2765,24,Male,Fever,Dysentery,High,Clinic,Deceased,2025-08-31T05:28:26
+P1460,Imphal East,H858,D8566,75,Male,Bloody diarrhea,Dysentery,Medium,Hospital,Recovered,2025-09-05T06:42:26
+P1461,Ri-Bhoi,H646,D5614,48,Female,Jaundice,Hepatitis A,High,Hospital,Hospitalized,2025-08-30T21:29:26
+P1462,East Khasi Hills,H664,D7505,69,Other,Watery diarrhea,Cholera,Medium,Clinic,Deceased,2025-08-29T23:19:26
+P1463,Cachar,H381,D1178,15,Other,Muscle cramps,Cholera,Medium,Clinic,Deceased,2025-09-23T05:19:26
+P1464,Barpeta,H747,D3549,2,Female,Fever,Typhoid,Medium,Hospital,Hospitalized,2025-09-18T23:57:26
+P1465,Shillong,H505,D4122,66,Female,Dehydration,Diarrhea,Medium,ASHA Worker,Deceased,2025-09-23T20:23:26
+P1466,Barpeta,H797,D6308,58,Male,Abdominal pain,Dysentery,Low,Clinic,Deceased,2025-09-02T20:59:26
+P1467,Cachar,H130,D3259,17,Female,Fever,Dysentery,Low,Hospital,Hospitalized,2025-09-12T07:09:26
+P1468,Dibrugarh,H405,D3624,90,Male,Severe dehydration,Cholera,High,Hospital,Deceased,2025-08-27T16:46:26
+P1469,Dibrugarh,H853,D6943,88,Other,Muscle cramps,Cholera,Medium,ASHA Worker,Recovered,2025-09-17T12:27:26
+P1470,Ri-Bhoi,H216,D7246,8,Female,Nausea,Hepatitis A,Low,ASHA Worker,Deceased,2025-09-04T03:42:26
+P1471,West Khasi Hills,H447,D2386,36,Male,Fever,Typhoid,Low,Clinic,Deceased,2025-09-26T03:49:26
+P1472,Cachar,H275,D1277,4,Female,Dehydration,Diarrhea,Medium,ASHA Worker,Deceased,2025-08-30T11:50:26
+P1473,Imphal West,H137,D2426,36,Male,Dehydration,Diarrhea,Low,ASHA Worker,Deceased,2025-08-28T21:05:26
+P1474,Kamrup,H775,D2198,15,Male,Severe dehydration,Cholera,Medium,Clinic,Deceased,2025-09-07T23:51:26
+P1475,Kohima,H629,D1301,72,Male,Watery diarrhea,Cholera,Medium,ASHA Worker,Recovered,2025-08-30T12:27:26
+P1476,Kamrup,H310,D3130,47,Female,Abdominal pain,Dysentery,Medium,Hospital,Deceased,2025-09-26T19:35:26
+P1477,East Khasi Hills,H529,D3536,31,Female,Dark urine,Hepatitis A,Low,Hospital,Hospitalized,2025-09-25T10:10:26
+P1478,Kohima,H980,D9872,67,Male,Dehydration,Diarrhea,Low,Hospital,Hospitalized,2025-09-26T17:21:26
+P1479,Imphal West,H345,D5557,46,Female,Fatigue,Hepatitis A,Medium,ASHA Worker,Recovered,2025-08-31T01:15:26
+P1480,Imphal West,H367,D9528,20,Other,Headache,Typhoid,High,ASHA Worker,Hospitalized,2025-08-31T17:46:26
+P1481,Barpeta,H176,D5294,22,Other,Headache,Typhoid,Low,ASHA Worker,Recovered,2025-09-20T07:19:26
+P1482,Barpeta,H420,D6264,23,Other,Severe dehydration,Cholera,High,ASHA Worker,Hospitalized,2025-09-26T05:58:26
+P1483,Kohima,H750,D4640,85,Female,Vomiting,Cholera,Low,ASHA Worker,Recovered,2025-09-17T03:27:26
+P1484,Jorhat,H574,D6708,90,Male,Nausea,Hepatitis A,Low,Hospital,Hospitalized,2025-09-26T07:11:26
+P1485,Imphal West,H155,D5442,62,Other,Fever,Dysentery,High,Clinic,Hospitalized,2025-09-04T20:36:26
+P1486,Barpeta,H783,D7316,46,Male,Bloody diarrhea,Dysentery,Medium,Clinic,Hospitalized,2025-09-09T12:05:26
+P1487,Shillong,H444,D8834,85,Other,Jaundice,Hepatitis A,Medium,Hospital,Hospitalized,2025-09-04T17:06:26
+P1488,Dibrugarh,H409,D6591,65,Other,Dehydration,Diarrhea,Medium,Hospital,Recovered,2025-09-08T01:28:26
+P1489,Mokokchung,H792,D2810,15,Male,Dehydration,Diarrhea,Medium,ASHA Worker,Recovered,2025-08-29T22:33:26
+P1490,Barpeta,H979,D9304,61,Male,Fever,Typhoid,Medium,Clinic,Deceased,2025-09-23T20:20:26
+P1491,Shillong,H707,D2566,42,Other,Dark urine,Hepatitis A,High,ASHA Worker,Recovered,2025-09-26T02:02:26
+P1492,Mokokchung,H869,D1966,20,Female,Vomiting,Cholera,Medium,Clinic,Hospitalized,2025-08-31T21:11:26
+P1493,West Khasi Hills,H731,D1702,29,Other,Nausea,Hepatitis A,High,ASHA Worker,Deceased,2025-09-18T18:10:26
+P1494,Barpeta,H963,D4618,84,Male,Loose stools,Diarrhea,High,Clinic,Recovered,2025-09-14T22:02:26
+P1495,Ri-Bhoi,H457,D5354,17,Female,Bloody diarrhea,Dysentery,Medium,ASHA Worker,Hospitalized,2025-09-13T09:11:26
+P1496,Imphal West,H567,D2158,37,Female,Abdominal pain,Typhoid,High,Clinic,Hospitalized,2025-09-01T22:14:26
+P1497,Sonitpur,H441,D1893,27,Male,Dehydration,Diarrhea,Low,ASHA Worker,Deceased,2025-09-15T01:58:26
+P1498,Shillong,H532,D5416,37,Male,Abdominal pain,Typhoid,Medium,ASHA Worker,Deceased,2025-09-05T20:42:26
+P1499,Ri-Bhoi,H436,D9678,57,Other,Fever,Typhoid,High,ASHA Worker,Recovered,2025-09-19T10:45:26
+P1500,Imphal West,H416,D8912,26,Male,Dehydration,Diarrhea,Medium,Hospital,Hospitalized,2025-09-10T09:10:26
