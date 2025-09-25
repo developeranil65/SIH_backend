@@ -73,14 +73,14 @@ def clear_tables(conn):
         cur.execute(f'TRUNCATE TABLE "{TBL_PHARMA}" RESTART IDENTITY CASCADE')
         cur.execute(f'TRUNCATE TABLE "{TBL_SOCIAL}" RESTART IDENTITY CASCADE')
     conn.commit()
-    print("✅ Old data cleared from tables")
+    print("Old data cleared from tables")
 
 # ---------- MAIN ETL ----------
 def run_etl():
     print("⚙️ Running datagenerator.py ...")
     subprocess.run(["python", "data_generator.py"], check=True)
 
-    print("📂 Loading CSVs...")
+    print("Loading CSVs...")
     h_df = normalize_df(load_csv(HOSPITAL_CSV), "visitDate")
     p_df = normalize_df(load_csv(PHARMA_CSV), "saleDate")
     s_df = normalize_df(load_csv(SOCIAL_CSV), "timeStamp")
@@ -107,7 +107,7 @@ def run_etl():
                                  s_df[social_cols].values.tolist())
 
         conn.commit()
-        print(f"✅ ETL complete: Hospital={inserted_h}, Pharma={inserted_p}, Social={inserted_s}")
+        print(f"ETL complete: Hospital={inserted_h}, Pharma={inserted_p}, Social={inserted_s}")
 
     except Exception as e:
         conn.rollback()
@@ -121,10 +121,10 @@ if __name__ == "__main__":
     while True:
         try:
             run_etl()
-            print("🤖 Running predict.py on fresh data...")
+            print("Running predict.py on fresh data...")
             subprocess.run(["python", "predict.py"], check=True)
-            print("✅ Prediction complete")
+            print("Prediction complete")
         except Exception as e:
             print(f"Pipeline error: {e}")
-        print("⏳ Waiting 40 seconds before next run...")
+        print("Waiting 40 seconds before next run...")
         time.sleep(40)

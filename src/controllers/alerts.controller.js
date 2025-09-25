@@ -1,6 +1,7 @@
 import { prisma } from "../utils/prisma.js";
 import { ApiResponse } from "../utils/ApiResponse.js";
-import { ApiError } from "../utils/ApiError.js";
+
+let lastChecked = new Date();
 
 export const getAlerts = async (req, res, next) => {
   try {
@@ -16,4 +17,18 @@ export const getAlerts = async (req, res, next) => {
   } catch (err) {
     next(err);
   }
+};
+
+// 🔄 polling new rows from AggregatedSummary
+export const pollAggregatedSummaries = async (io) => {
+  const newRows = await prisma.aggregatedSummary.findMany({
+    where: { createdAt: { gte: lastChecked } },
+    orderBy: { createdAt: "asc" },
+  });
+
+  newRows.forEach(row => {
+    io.emit("new-summary", row);
+  });
+
+  lastChecked = new Date();
 };
