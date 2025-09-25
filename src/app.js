@@ -35,8 +35,18 @@ app.use((err, req, res, next) => {
 });
 
 // routes import
+import hospitalRoutes from "./routes/hospital.route.js";
+import pharmaRoutes from "./routes/pharma.route.js";
+import socialRoutes from "./routes/social.route.js";
+import summaryRoutes from "./routes/summary.route.js";
+import alertsRoutes from "./routes/alerts.route.js";
 
 // routes declaration
+app.use("/api/hospital", hospitalRoutes);
+app.use("/api/pharma", pharmaRoutes);
+app.use("/api/social", socialRoutes);
+app.use("/api/summary", summaryRoutes);
+app.use("/api/alerts", alertsRoutes);
 
 // Exporting the app to server.js
 export {app}

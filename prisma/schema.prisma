@@ -1,0 +1,64 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model HospitalRecord {
+  id         Int      @id @default(autoincrement())
+  patientId  String
+  district   String
+  hospitalId String?
+  doctorId   String?
+  reportedBy String?
+  age        Int?
+  gender     String?
+  symptoms   String?
+  diagnosis  String?
+  severity   String?
+  outcome    String?
+  visitDate  DateTime
+  createdAt  DateTime @default(now())
+}
+
+model PharmaSale {
+  id           Int      @id @default(autoincrement())
+  pharmacyId   String
+  district     String
+  pharmacyType String?
+  medicine     String
+  diseaseTarget String?
+  qtySold      Int
+  price        Float
+  saleDate     DateTime
+  createdAt    DateTime @default(now())
+}
+
+model SocialPost {
+  id        Int      @id @default(autoincrement())
+  postId    String
+  district  String
+  platform  String
+  content   String
+  sentiment String?
+  reach     String?
+  timeStamp DateTime
+  createdAt DateTime @default(now())
+}
+
+model AggregatedSummary {
+  id                 Int      @id @default(autoincrement())
+  district           String
+  date               DateTime
+  hospitalCaseCount  Int
+  severeCaseCount    Int
+  pharmaSalesCount   Int
+  socialPostsCount   Int
+  negativePostsCount Int
+  outbreakRiskScore  Float
+  alertLevel         String
+  createdAt          DateTime @default(now())
+}
