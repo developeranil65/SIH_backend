@@ -29,7 +29,7 @@ model PharmaSale {
   pharmacyId   String
   district     String
   medicine     String
-  diseaseTarget String?
+  diagnosis    String?
   qtySold      Int
   price        Float
   pharmacyType String?
@@ -59,6 +59,7 @@ model AggregatedSummary {
   socialPostsCount   Int
   negativePostsCount Int
   outbreakRiskScore  Float
+  diagnosis          String
   alertLevel         String
   createdAt          DateTime @default(now())
 }
